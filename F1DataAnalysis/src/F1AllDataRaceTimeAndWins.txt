@@ -1,0 +1,3514 @@
+Season of 1950:
+	Race (Great Britain, 13 May 1950, Nino Farina FAR, Alfa Romeo, 70, 2:13:23.600)
+	Race (Monaco, 21 May 1950, Juan Manuel Fangio FAN, Alfa Romeo, 100, 3:13:18.700)
+	Race (Indianapolis 500, 30 May 1950, Johnnie Parsons PAR, Kurtis Kraft Offenhauser, 138, 2:46:55.970)
+	Race (Switzerland, 04 Jun 1950, Nino Farina FAR, Alfa Romeo, 42, 2:02:53.700)
+	Race (Belgium, 18 Jun 1950, Juan Manuel Fangio FAN, Alfa Romeo, 35, 2:47:26.000)
+	Race (France, 02 Jul 1950, Juan Manuel Fangio FAN, Alfa Romeo, 64, 2:57:52.800)
+	Race (Italy, 03 Sep 1950, Nino Farina FAR, Alfa Romeo, 80, 2:51:17.400)
+Season of 1951:
+	Race (Switzerland, 27 May 1951, Juan Manuel Fangio FAN, Alfa Romeo, 42, 2:07:53.640)
+	Race (Indianapolis 500, 30 May 1951, Lee Wallard WAL, Kurtis Kraft Offenhauser, 200, 3:57:38.050)
+	Race (Belgium, 17 Jun 1951, Nino Farina FAR, Alfa Romeo, 36, 2:45:46.200)
+	Race (France, 01 Jul 1951, Juan Manuel Fangio FAN, Alfa Romeo, 77, 3:22:11.000)
+	Race (France, 01 Jul 1951, Luigi Fagioli FAG, Alfa Romeo, null, )
+	Race (Great Britain, 14 Jul 1951, Jose Froilan Gonzalez GON, Ferrari, 90, 2:42:18.200)
+	Race (Germany, 29 Jul 1951, Alberto Ascari ASC, Ferrari, 20, 3:23:03.300)
+	Race (Italy, 16 Sep 1951, Alberto Ascari ASC, Ferrari, 80, 2:42:39.300)
+	Race (Spain, 28 Oct 1951, Juan Manuel Fangio FAN, Alfa Romeo, 70, 2:46:54.100)
+Season of 1952:
+	Race (Switzerland, 18 May 1952, Piero Taruffi TAR, Ferrari, 62, 3:01:46.100)
+	Race (Indianapolis 500, 30 May 1952, Troy Ruttman RUT, Kuzma Offenhauser, 200, 3:52:41.880)
+	Race (Belgium, 22 Jun 1952, Alberto Ascari ASC, Ferrari, 36, 3:03:46.300)
+	Race (France, 06 Jul 1952, Alberto Ascari ASC, Ferrari, 77, 3:00:00.000)
+	Race (Great Britain, 19 Jul 1952, Alberto Ascari ASC, Ferrari, 85, 2:44:11.000)
+	Race (Germany, 03 Aug 1952, Alberto Ascari ASC, Ferrari, 18, 3:06:13.300)
+	Race (Netherlands, 17 Aug 1952, Alberto Ascari ASC, Ferrari, 90, 2:53:28.500)
+	Race (Italy, 07 Sep 1952, Alberto Ascari ASC, Ferrari, 80, 2:50:45.600)
+Season of 1953:
+	Race (Argentina, 18 Jan 1953, Alberto Ascari ASC, Ferrari, 97, 3:01:04.600)
+	Race (Indianapolis 500, 30 May 1953, Bill Vukovich VUK, Kurtis Kraft Offenhauser, 200, 3:53:01.690)
+	Race (Netherlands, 07 Jun 1953, Alberto Ascari ASC, Ferrari, 90, 2:53:35.800)
+	Race (Belgium, 21 Jun 1953, Alberto Ascari ASC, Ferrari, 36, 2:48:30.300)
+	Race (France, 05 Jul 1953, Mike Hawthorn HAW, Ferrari, 60, 2:44:18.600)
+	Race (Great Britain, 18 Jul 1953, Alberto Ascari ASC, Ferrari, 90, 2:50:00.000)
+	Race (Germany, 02 Aug 1953, Nino Farina FAR, Ferrari, 18, 3:02:25.000)
+	Race (Switzerland, 23 Aug 1953, Alberto Ascari ASC, Ferrari, 65, 3:01:34.400)
+	Race (Italy, 13 Sep 1953, Juan Manuel Fangio FAN, Maserati, 80, 2:49:45.900)
+Season of 1954:
+	Race (Argentina, 17 Jan 1954, Juan Manuel Fangio FAN, Maserati, 87, 3:00:55.800)
+	Race (Indianapolis 500, 31 May 1954, Bill Vukovich VUK, Kurtis Kraft Offenhauser, 200, 3:49:17.270)
+	Race (Belgium, 20 Jun 1954, Juan Manuel Fangio FAN, Maserati, 36, 2:44:42.400)
+	Race (France, 04 Jul 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 61, 2:42:47.900)
+	Race (Great Britain, 17 Jul 1954, Jose Froilan Gonzalez GON, Ferrari, 90, 2:56:14.000)
+	Race (Germany, 01 Aug 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 22, 3:45:45.800)
+	Race (Switzerland, 22 Aug 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 66, 3:00:34.500)
+	Race (Italy, 05 Sep 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 80, 2:47:47.900)
+	Race (Spain, 24 Oct 1954, Mike Hawthorn HAW, Ferrari, 80, 3:13:52.100)
+Season of 1955:
+	Race (Argentina, 16 Jan 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 96, 3:00:38.600)
+	Race (Monaco, 22 May 1955, Maurice Trintignant TRI, Ferrari, 100, 2:58:09.700)
+	Race (Indianapolis 500, 30 May 1955, Bob Sweikert SWE, Kurtis Kraft Offenhauser, 200, 3:53:59.530)
+	Race (Belgium, 05 Jun 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 36, 2:39:29.000)
+	Race (Netherlands, 19 Jun 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 100, 2:54:23.800)
+	Race (Great Britain, 16 Jul 1955, Stirling Moss MOS, Mercedes-Benz, 90, 3:07:21.200)
+	Race (Italy, 11 Sep 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 50, 2:25:04.400)
+Season of 1956:
+	Race (Argentina, 22 Jan 1956, Luigi Musso MUS, Ferrari, null, )
+	Race (Argentina, 22 Jan 1956, Juan Manuel Fangio FAN, Ferrari, 98, 3:00:03.700)
+	Race (Monaco, 13 May 1956, Stirling Moss MOS, Maserati, 100, 3:00:32.900)
+	Race (Indianapolis 500, 30 May 1956, Pat Flaherty FLA, Watson Offenhauser, 200, 3:53:28.840)
+	Race (Belgium, 03 Jun 1956, Peter Collins COL, Ferrari, 36, 2:40:00.300)
+	Race (France, 01 Jul 1956, Peter Collins COL, Ferrari, 61, 2:34:23.400)
+	Race (Great Britain, 14 Jul 1956, Juan Manuel Fangio FAN, Ferrari, 101, 2:59:47.000)
+	Race (Germany, 05 Aug 1956, Juan Manuel Fangio FAN, Ferrari, 22, 3:38:43.700)
+	Race (Italy, 02 Sep 1956, Stirling Moss MOS, Maserati, 50, 2:23:41.300)
+Season of 1957:
+	Race (Argentina, 13 Jan 1957, Juan Manuel Fangio FAN, Maserati, 100, 3:00:55.900)
+	Race (Monaco, 19 May 1957, Juan Manuel Fangio FAN, Maserati, 105, 3:10:12.800)
+	Race (Indianapolis 500, 30 May 1957, Sam Hanks HAN, Epperly Offenhauser, 200, 3:41:14.250)
+	Race (France, 07 Jul 1957, Juan Manuel Fangio FAN, Maserati, 77, 3:07:46.400)
+	Race (Great Britain, 20 Jul 1957, Stirling Moss MOS, Vanwall, 90, 3:06:37.800)
+	Race (Great Britain, 20 Jul 1957, Tony Brooks BRO, Vanwall, null, )
+	Race (Germany, 04 Aug 1957, Juan Manuel Fangio FAN, Maserati, 22, 3:30:38.300)
+	Race (Pescara, 18 Aug 1957, Stirling Moss MOS, Vanwall, 18, 2:59:22.700)
+	Race (Italy, 08 Sep 1957, Stirling Moss MOS, Vanwall, 87, 2:35:03.900)
+Season of 1958:
+	Race (Argentina, 19 Jan 1958, Stirling Moss MOS, Cooper Climax, 80, 2:19:33.700)
+	Race (Monaco, 18 May 1958, Maurice Trintignant TRI, Cooper Climax, 100, 2:52:27.900)
+	Race (Netherlands, 26 May 1958, Stirling Moss MOS, Vanwall, 75, 2:04:49.200)
+	Race (Indianapolis 500, 30 May 1958, Jimmy Bryan BRY, Epperly Offenhauser, 200, 3:44:13.800)
+	Race (Belgium, 15 Jun 1958, Tony Brooks BRO, Vanwall, 24, 1:37:06.300)
+	Race (France, 06 Jul 1958, Mike Hawthorn HAW, Ferrari, 50, 2:03:21.300)
+	Race (Great Britain, 19 Jul 1958, Peter Collins COL, Ferrari, 75, 2:09:04.200)
+	Race (Germany, 03 Aug 1958, Tony Brooks BRO, Vanwall, 15, 2:21:15.000)
+	Race (Portugal, 24 Aug 1958, Stirling Moss MOS, Vanwall, 50, 2:11:27.800)
+	Race (Italy, 07 Sep 1958, Tony Brooks BRO, Vanwall, 70, 2:03:47.800)
+	Race (Morocco, 19 Oct 1958, Stirling Moss MOS, Vanwall, 53, 2:09:15.100)
+Season of 1959:
+	Race (Monaco, 10 May 1959, Jack Brabham BRA, Cooper Climax, 100, 2:55:51.300)
+	Race (Indianapolis 500, 30 May 1959, Rodger Ward WAR, Watson Offenhauser, 200, 3:40:49.200)
+	Race (Netherlands, 31 May 1959, Jo Bonnier BON, BRM, 75, 2:05:26.800)
+	Race (France, 05 Jul 1959, Tony Brooks BRO, Ferrari, 50, 2:01:26.500)
+	Race (Great Britain, 18 Jul 1959, Jack Brabham BRA, Cooper Climax, 75, 2:30:11.600)
+	Race (Germany, 02 Aug 1959, Tony Brooks BRO, Ferrari, 60, 2:09:31.600)
+	Race (Portugal, 23 Aug 1959, Stirling Moss MOS, Cooper Climax, 62, 2:11:55.410)
+	Race (Italy, 13 Sep 1959, Stirling Moss MOS, Cooper Climax, 72, 2:04:05.400)
+	Race (United States, 12 Dec 1959, Bruce McLaren MCL, Cooper Climax, 42, 2:12:35.700)
+Season of 1960:
+	Race (Argentina, 07 Feb 1960, Bruce McLaren MCL, Cooper Climax, 80, 2:17:49.500)
+	Race (Monaco, 29 May 1960, Stirling Moss MOS, Lotus Climax, 100, 2:53:45.500)
+	Race (Indianapolis 500, 30 May 1960, Jim Rathmann RAT, Watson Offenhauser, 200, 3:36:11.360)
+	Race (Netherlands, 06 Jun 1960, Jack Brabham BRA, Cooper Climax, 75, 2:01:47.200)
+	Race (Belgium, 19 Jun 1960, Jack Brabham BRA, Cooper Climax, 36, 2:21:37.300)
+	Race (France, 03 Jul 1960, Jack Brabham BRA, Cooper Climax, 50, 1:57:24.900)
+	Race (Great Britain, 16 Jul 1960, Jack Brabham BRA, Cooper Climax, 77, 2:04:24.600)
+	Race (Portugal, 14 Aug 1960, Jack Brabham BRA, Cooper Climax, 55, 2:19:00.030)
+	Race (Italy, 04 Sep 1960, Phil Hill HIL, Ferrari, 50, 2:21:09.200)
+	Race (United States, 20 Nov 1960, Stirling Moss MOS, Lotus Climax, 75, 2:28:52.200)
+Season of 1961:
+	Race (Monaco, 14 May 1961, Stirling Moss MOS, Lotus Climax, 100, 2:45:50.100)
+	Race (Netherlands, 22 May 1961, Wolfgang von Trips VON, Ferrari, 75, 2:01:52.100)
+	Race (Belgium, 18 Jun 1961, Phil Hill HIL, Ferrari, 30, 2:03:03.800)
+	Race (France, 02 Jul 1961, Giancarlo Baghetti BAG, Ferrari, 52, 2:14:17.500)
+	Race (Great Britain, 15 Jul 1961, Wolfgang von Trips VON, Ferrari, 75, 2:40:53.600)
+	Race (Germany, 06 Aug 1961, Stirling Moss MOS, Lotus Climax, 15, 2:18:12.400)
+	Race (Italy, 10 Sep 1961, Phil Hill HIL, Ferrari, 43, 2:03:13.000)
+	Race (United States, 08 Oct 1961, Innes Ireland IRE, Lotus Climax, 100, 2:13:45.800)
+Season of 1962:
+	Race (Netherlands, 20 May 1962, Graham Hill HIL, BRM, 80, 2:11:02.100)
+	Race (Monaco, 03 Jun 1962, Bruce McLaren MCL, Cooper Climax, 100, 2:46:29.700)
+	Race (Belgium, 17 Jun 1962, Jim Clark CLA, Lotus Climax, 32, 2:07:32.300)
+	Race (France, 08 Jul 1962, Dan Gurney GUR, Porsche, 54, 2:07:35.500)
+	Race (Great Britain, 21 Jul 1962, Jim Clark CLA, Lotus Climax, 75, 2:26:20.800)
+	Race (Germany, 05 Aug 1962, Graham Hill HIL, BRM, 15, 2:38:45.300)
+	Race (Italy, 16 Sep 1962, Graham Hill HIL, BRM, 86, 2:29:08.400)
+	Race (United States, 07 Oct 1962, Jim Clark CLA, Lotus Climax, 100, 2:07:13.000)
+	Race (South Africa, 29 Dec 1962, Graham Hill HIL, BRM, 82, 2:08:03.300)
+Season of 1963:
+	Race (Monaco, 26 May 1963, Graham Hill HIL, BRM, 100, 2:41:49.700)
+	Race (Belgium, 09 Jun 1963, Jim Clark CLA, Lotus Climax, 32, 2:27:47.600)
+	Race (Netherlands, 23 Jun 1963, Jim Clark CLA, Lotus Climax, 80, 2:08:13.700)
+	Race (France, 30 Jun 1963, Jim Clark CLA, Lotus Climax, 53, 2:10:54.300)
+	Race (Great Britain, 20 Jul 1963, Jim Clark CLA, Lotus Climax, 82, 2:14:09.600)
+	Race (Germany, 04 Aug 1963, John Surtees SUR, Ferrari, 15, 2:13:06.800)
+	Race (Italy, 08 Sep 1963, Jim Clark CLA, Lotus Climax, 86, 2:24:19.600)
+	Race (United States, 06 Oct 1963, Graham Hill HIL, BRM, 110, 2:19:22.100)
+	Race (Mexico, 27 Oct 1963, Jim Clark CLA, Lotus Climax, 65, 2:09:52.100)
+	Race (South Africa, 28 Dec 1963, Jim Clark CLA, Lotus Climax, 85, 2:10:36.900)
+Season of 1964:
+	Race (Monaco, 10 May 1964, Graham Hill HIL, BRM, 100, 2:41:19.500)
+	Race (Netherlands, 24 May 1964, Jim Clark CLA, Lotus Climax, 80, 2:07:35.400)
+	Race (Belgium, 14 Jun 1964, Jim Clark CLA, Lotus Climax, 32, 2:06:40.500)
+	Race (France, 28 Jun 1964, Dan Gurney GUR, Brabham Climax, 57, 2:07:49.100)
+	Race (Great Britain, 11 Jul 1964, Jim Clark CLA, Lotus Climax, 80, 2:15:07.000)
+	Race (Germany, 02 Aug 1964, John Surtees SUR, Ferrari, 15, 2:12:04.800)
+	Race (Austria, 23 Aug 1964, Lorenzo Bandini BAN, Ferrari, 105, 2:06:18.230)
+	Race (Italy, 06 Sep 1964, John Surtees SUR, Ferrari, 78, 2:10:51.800)
+	Race (United States, 04 Oct 1964, Graham Hill HIL, BRM, 110, 2:16:38.000)
+	Race (Mexico, 25 Oct 1964, Dan Gurney GUR, Brabham Climax, 65, 2:09:50.320)
+Season of 1965:
+	Race (South Africa, 01 Jan 1965, Jim Clark CLA, Lotus Climax, 85, 2:06:46.000)
+	Race (Monaco, 30 May 1965, Graham Hill HIL, BRM, 100, 2:37:39.600)
+	Race (Belgium, 13 Jun 1965, Jim Clark CLA, Lotus Climax, 32, 2:23:34.800)
+	Race (France, 27 Jun 1965, Jim Clark CLA, Lotus Climax, 40, 2:14:38.400)
+	Race (Great Britain, 10 Jul 1965, Jim Clark CLA, Lotus Climax, 80, 2:05:25.400)
+	Race (Netherlands, 18 Jul 1965, Jim Clark CLA, Lotus Climax, 80, 2:03:59.100)
+	Race (Germany, 01 Aug 1965, Jim Clark CLA, Lotus Climax, 15, 2:07:52.400)
+	Race (Italy, 12 Sep 1965, Jackie Stewart STE, BRM, 76, 2:04:52.800)
+	Race (United States, 03 Oct 1965, Graham Hill HIL, BRM, 110, 2:20:36.100)
+	Race (Mexico, 24 Oct 1965, Richie Ginther GIN, Honda, 65, 2:08:32.100)
+Season of 1966:
+	Race (Monaco, 22 May 1966, Jackie Stewart STE, BRM, 100, 2:33:10.500)
+	Race (Belgium, 12 Jun 1966, John Surtees SUR, Ferrari, 28, 2:09:11.300)
+	Race (France, 03 Jul 1966, Jack Brabham BRA, Brabham Repco, 48, 1:48:31.300)
+	Race (Great Britain, 16 Jul 1966, Jack Brabham BRA, Brabham Repco, 80, 2:13:13.400)
+	Race (Netherlands, 24 Jul 1966, Jack Brabham BRA, Brabham Repco, 90, 2:20:32.500)
+	Race (Germany, 07 Aug 1966, Jack Brabham BRA, Brabham Repco, 15, 2:27:03.000)
+	Race (Italy, 04 Sep 1966, Ludovico Scarfiotti SCA, Ferrari, 68, 1:47:14.800)
+	Race (United States, 02 Oct 1966, Jim Clark CLA, Lotus BRM, 108, 2:09:40.100)
+	Race (Mexico, 23 Oct 1966, John Surtees SUR, Cooper Maserati, 65, 2:06:35.340)
+Season of 1967:
+	Race (South Africa, 02 Jan 1967, Pedro Rodriguez ROD, Cooper Maserati, 80, 2:05:45.900)
+	Race (Monaco, 07 May 1967, Denny Hulme HUL, Brabham Repco, 100, 2:34:34.300)
+	Race (Netherlands, 04 Jun 1967, Jim Clark CLA, Lotus Ford, 90, 2:14:45.100)
+	Race (Belgium, 18 Jun 1967, Dan Gurney GUR, Eagle Weslake, 28, 1:40:49.400)
+	Race (France, 02 Jul 1967, Jack Brabham BRA, Brabham Repco, 80, 2:13:21.300)
+	Race (Great Britain, 15 Jul 1967, Jim Clark CLA, Lotus Ford, 80, 1:59:25.600)
+	Race (Germany, 06 Aug 1967, Denny Hulme HUL, Brabham Repco, 15, 2:05:55.700)
+	Race (Canada, 27 Aug 1967, Jack Brabham BRA, Brabham Repco, 90, 2:40:40.000)
+	Race (Italy, 10 Sep 1967, John Surtees SUR, Honda, 68, 1:43:45.000)
+	Race (United States, 01 Oct 1967, Jim Clark CLA, Lotus Ford, 108, 2:03:13.200)
+	Race (Mexico, 22 Oct 1967, Jim Clark CLA, Lotus Ford, 65, 1:59:28.700)
+Season of 1968:
+	Race (South Africa, 01 Jan 1968, Jim Clark CLA, Lotus Ford, 80, 1:53:56.600)
+	Race (Spain, 12 May 1968, Graham Hill HIL, Lotus Ford, 90, 2:15:20.100)
+	Race (Monaco, 26 May 1968, Graham Hill HIL, Lotus Ford, 80, 2:00:32.300)
+	Race (Belgium, 09 Jun 1968, Bruce McLaren MCL, McLaren Ford, 28, 1:40:02.100)
+	Race (Netherlands, 23 Jun 1968, Jackie Stewart STE, Matra Ford, 90, 2:46:11.260)
+	Race (France, 07 Jul 1968, Jacky Ickx ICK, Ferrari, 60, 2:25:40.900)
+	Race (Great Britain, 20 Jul 1968, Jo Siffert SIF, Lotus Ford, 80, 2:01:20.300)
+	Race (Germany, 04 Aug 1968, Jackie Stewart STE, Matra Ford, 14, 2:19:03.200)
+	Race (Italy, 08 Sep 1968, Denny Hulme HUL, McLaren Ford, 68, 1:40:14.800)
+	Race (Canada, 22 Sep 1968, Denny Hulme HUL, McLaren Ford, 90, 2:27:11.200)
+	Race (United States, 06 Oct 1968, Jackie Stewart STE, Matra Ford, 108, 1:59:20.290)
+	Race (Mexico, 03 Nov 1968, Graham Hill HIL, Lotus Ford, 65, 1:56:43.950)
+Season of 1969:
+	Race (South Africa, 01 Mar 1969, Jackie Stewart STE, Matra Ford, 80, 1:50:39.100)
+	Race (Spain, 04 May 1969, Jackie Stewart STE, Matra Ford, 90, 2:16:53.990)
+	Race (Monaco, 18 May 1969, Graham Hill HIL, Lotus Ford, 80, 1:56:59.400)
+	Race (Netherlands, 21 Jun 1969, Jackie Stewart STE, Matra Ford, 90, 2:06:42.080)
+	Race (France, 06 Jul 1969, Jackie Stewart STE, Matra Ford, 38, 1:56:47.400)
+	Race (Great Britain, 19 Jul 1969, Jackie Stewart STE, Matra Ford, 84, 1:55:55.600)
+	Race (Germany, 03 Aug 1969, Jacky Ickx ICK, Brabham Ford, 14, 1:49:55.400)
+	Race (Italy, 07 Sep 1969, Jackie Stewart STE, Matra Ford, 68, 1:39:11.260)
+	Race (Canada, 20 Sep 1969, Jacky Ickx ICK, Brabham Ford, 90, 1:59:25.700)
+	Race (United States, 05 Oct 1969, Jochen Rindt RIN, Lotus Ford, 108, 1:57:56.840)
+	Race (Mexico, 19 Oct 1969, Denny Hulme HUL, McLaren Ford, 65, 1:54:08.800)
+Season of 1970:
+	Race (South Africa, 07 Mar 1970, Jack Brabham BRA, Brabham Ford, 80, 1:49:34.600)
+	Race (Spain, 19 Apr 1970, Jackie Stewart STE, March Ford, 90, 2:10:58.200)
+	Race (Monaco, 10 May 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:54:36.600)
+	Race (Belgium, 07 Jun 1970, Pedro Rodriguez ROD, BRM, 28, 1:38:09.900)
+	Race (Netherlands, 21 Jun 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:50:43.410)
+	Race (France, 05 Jul 1970, Jochen Rindt RIN, Lotus Ford, 38, 1:55:57.000)
+	Race (Great Britain, 18 Jul 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:57:02.000)
+	Race (Germany, 02 Aug 1970, Jochen Rindt RIN, Lotus Ford, 50, 1:42:00.300)
+	Race (Austria, 16 Aug 1970, Jacky Ickx ICK, Ferrari, 60, 1:42:17.320)
+	Race (Italy, 06 Sep 1970, Clay Regazzoni REG, Ferrari, 68, 1:39:06.880)
+	Race (Canada, 20 Sep 1970, Jacky Ickx ICK, Ferrari, 90, 2:21:18.400)
+	Race (United States, 04 Oct 1970, Emerson Fittipaldi FIT, Lotus Ford, 108, 1:57:32.790)
+	Race (Mexico, 25 Oct 1970, Jacky Ickx ICK, Ferrari, 65, 1:53:28.360)
+Season of 1971:
+	Race (South Africa, 06 Mar 1971, Mario Andretti AND, Ferrari, 79, 1:47:35.500)
+	Race (Spain, 18 Apr 1971, Jackie Stewart STE, Tyrrell Ford, 75, 1:49:03.400)
+	Race (Monaco, 23 May 1971, Jackie Stewart STE, Tyrrell Ford, 80, 1:52:21.300)
+	Race (Netherlands, 20 Jun 1971, Jacky Ickx ICK, Ferrari, 70, 1:56:20.090)
+	Race (France, 04 Jul 1971, Jackie Stewart STE, Tyrrell Ford, 55, 1:46:41.680)
+	Race (Great Britain, 17 Jul 1971, Jackie Stewart STE, Tyrrell Ford, 68, 1:31:31.500)
+	Race (Germany, 01 Aug 1971, Jackie Stewart STE, Tyrrell Ford, 12, 1:29:15.700)
+	Race (Austria, 15 Aug 1971, Jo Siffert SIF, BRM, 54, 1:30:23.910)
+	Race (Italy, 05 Sep 1971, Peter Gethin GET, BRM, 55, 1:18:12.600)
+	Race (Canada, 19 Sep 1971, Jackie Stewart STE, Tyrrell Ford, 64, 1:55:12.900)
+	Race (United States, 03 Oct 1971, Francois Cevert CEV, Tyrrell Ford, 59, 1:43:51.991)
+Season of 1972:
+	Race (Argentina, 23 Jan 1972, Jackie Stewart STE, Tyrrell Ford, 95, 1:57:58.820)
+	Race (South Africa, 04 Mar 1972, Denny Hulme HUL, McLaren Ford, 79, 1:45:49.100)
+	Race (Spain, 01 May 1972, Emerson Fittipaldi FIT, Lotus Ford, 90, 2:03:41.230)
+	Race (Monaco, 14 May 1972, Jean-Pierre Beltoise BEL, BRM, 80, 2:26:54.700)
+	Race (Belgium, 04 Jun 1972, Emerson Fittipaldi FIT, Lotus Ford, 85, 1:44:06.700)
+	Race (France, 02 Jul 1972, Jackie Stewart STE, Tyrrell Ford, 38, 1:52:21.500)
+	Race (Great Britain, 15 Jul 1972, Emerson Fittipaldi FIT, Lotus Ford, 76, 1:47:50.200)
+	Race (Germany, 30 Jul 1972, Jacky Ickx ICK, Ferrari, 14, 1:42:12.300)
+	Race (Austria, 13 Aug 1972, Emerson Fittipaldi FIT, Lotus Ford, 54, 1:29:16.660)
+	Race (Italy, 10 Sep 1972, Emerson Fittipaldi FIT, Lotus Ford, 55, 1:29:58.400)
+	Race (Canada, 24 Sep 1972, Jackie Stewart STE, Tyrrell Ford, 80, 1:43:16.900)
+	Race (United States, 08 Oct 1972, Jackie Stewart STE, Tyrrell Ford, 59, 1:41:45.354)
+Season of 1973:
+	Race (Argentina, 28 Jan 1973, Emerson Fittipaldi FIT, Lotus Ford, 96, 1:56:18.220)
+	Race (Brazil, 11 Feb 1973, Emerson Fittipaldi FIT, Lotus Ford, 40, 1:43:55.600)
+	Race (South Africa, 03 Mar 1973, Jackie Stewart STE, Tyrrell Ford, 79, 1:43:11.070)
+	Race (Spain, 29 Apr 1973, Emerson Fittipaldi FIT, Lotus Ford, 75, 1:48:18.700)
+	Race (Belgium, 20 May 1973, Jackie Stewart STE, Tyrrell Ford, 70, 1:42:13.430)
+	Race (Monaco, 03 Jun 1973, Jackie Stewart STE, Tyrrell Ford, 78, 1:57:44.300)
+	Race (Sweden, 17 Jun 1973, Denny Hulme HUL, McLaren Ford, 80, 1:56:46.049)
+	Race (France, 01 Jul 1973, Ronnie Peterson PET, Lotus Ford, 54, 1:41:36.520)
+	Race (Great Britain, 14 Jul 1973, Peter Revson REV, McLaren Ford, 67, 1:29:18.500)
+	Race (Netherlands, 29 Jul 1973, Jackie Stewart STE, Tyrrell Ford, 72, 1:39:12.450)
+	Race (Germany, 05 Aug 1973, Jackie Stewart STE, Tyrrell Ford, 14, 1:42:03.000)
+	Race (Austria, 19 Aug 1973, Ronnie Peterson PET, Lotus Ford, 54, 1:28:48.780)
+	Race (Italy, 09 Sep 1973, Ronnie Peterson PET, Lotus Ford, 55, 1:29:17.000)
+	Race (Canada, 23 Sep 1973, Peter Revson REV, McLaren Ford, 80, 1:59:04.083)
+	Race (United States, 07 Oct 1973, Ronnie Peterson PET, Lotus Ford, 59, 1:41:15.799)
+Season of 1974:
+	Race (Argentina, 13 Jan 1974, Denny Hulme HUL, McLaren Ford, 53, 1:41:02.010)
+	Race (Brazil, 27 Jan 1974, Emerson Fittipaldi FIT, McLaren Ford, 32, 1:24:37.060)
+	Race (South Africa, 30 Mar 1974, Carlos Reutemann REU, Brabham Ford, 78, 1:42:40.960)
+	Race (Spain, 28 Apr 1974, Niki Lauda LAU, Ferrari, 84, 2:00:29.560)
+	Race (Belgium, 12 May 1974, Emerson Fittipaldi FIT, McLaren Ford, 85, 1:44:20.570)
+	Race (Monaco, 26 May 1974, Ronnie Peterson PET, Lotus Ford, 78, 1:58:03.700)
+	Race (Sweden, 09 Jun 1974, Jody Scheckter SCH, Tyrrell Ford, 80, 1:58:31.391)
+	Race (Netherlands, 23 Jun 1974, Niki Lauda LAU, Ferrari, 75, 1:43:00.350)
+	Race (France, 07 Jul 1974, Ronnie Peterson PET, Lotus Ford, 80, 1:21:55.020)
+	Race (Great Britain, 20 Jul 1974, Jody Scheckter SCH, Tyrrell Ford, 75, 1:43:02.200)
+	Race (Germany, 04 Aug 1974, Clay Regazzoni REG, Ferrari, 14, 1:41:35.000)
+	Race (Austria, 18 Aug 1974, Carlos Reutemann REU, Brabham Ford, 54, 1:28:44.720)
+	Race (Italy, 08 Sep 1974, Ronnie Peterson PET, Lotus Ford, 52, 1:22:56.600)
+	Race (Canada, 22 Sep 1974, Emerson Fittipaldi FIT, McLaren Ford, 80, 1:40:26.136)
+	Race (United States, 06 Oct 1974, Carlos Reutemann REU, Brabham Ford, 59, 1:40:21.439)
+Season of 1975:
+	Race (Argentina, 12 Jan 1975, Emerson Fittipaldi FIT, McLaren Ford, 53, 1:39:26.290)
+	Race (Brazil, 26 Jan 1975, Carlos Pace PAC, Brabham Ford, 40, 1:44:41.170)
+	Race (South Africa, 01 Mar 1975, Jody Scheckter SCH, Tyrrell Ford, 78, 1:43:16.900)
+	Race (Spain, 27 Apr 1975, Jochen Mass MAS, McLaren Ford, 29, 42:53.700)
+	Race (Monaco, 11 May 1975, Niki Lauda LAU, Ferrari, 75, 2:01:21.310)
+	Race (Belgium, 25 May 1975, Niki Lauda LAU, Ferrari, 70, 1:43:53.980)
+	Race (Sweden, 08 Jun 1975, Niki Lauda LAU, Ferrari, 80, 1:59:18.319)
+	Race (Netherlands, 22 Jun 1975, James Hunt HUN, Hesketh Ford, 75, 1:46:57.400)
+	Race (France, 06 Jul 1975, Niki Lauda LAU, Ferrari, 54, 1:40:18.840)
+	Race (Great Britain, 19 Jul 1975, Emerson Fittipaldi FIT, McLaren Ford, 56, 1:22:05.000)
+	Race (Germany, 03 Aug 1975, Carlos Reutemann REU, Brabham Ford, 14, 1:41:14.100)
+	Race (Austria, 17 Aug 1975, Vittorio Brambilla BRA, March Ford, 29, 57:56.690)
+	Race (Italy, 07 Sep 1975, Clay Regazzoni REG, Ferrari, 52, 1:22:42.600)
+	Race (United States, 05 Oct 1975, Niki Lauda LAU, Ferrari, 59, 1:42:58.175)
+Season of 1976:
+	Race (Brazil, 25 Jan 1976, Niki Lauda LAU, Ferrari, 40, 1:45:16.780)
+	Race (South Africa, 06 Mar 1976, Niki Lauda LAU, Ferrari, 78, 1:42:18.400)
+	Race (USA West, 28 Mar 1976, Clay Regazzoni REG, Ferrari, 80, 1:53:18.471)
+	Race (Spain, 02 May 1976, James Hunt HUN, McLaren Ford, 75, 1:42:20.430)
+	Race (Belgium, 16 May 1976, Niki Lauda LAU, Ferrari, 70, 1:42:53.230)
+	Race (Monaco, 30 May 1976, Niki Lauda LAU, Ferrari, 78, 1:59:51.470)
+	Race (Sweden, 13 Jun 1976, Jody Scheckter SCH, Tyrrell Ford, 72, 1:46:53.729)
+	Race (France, 04 Jul 1976, James Hunt HUN, McLaren Ford, 54, 1:40:58.600)
+	Race (Great Britain, 18 Jul 1976, Niki Lauda LAU, Ferrari, 76, 1:44:19.660)
+	Race (Germany, 01 Aug 1976, James Hunt HUN, McLaren Ford, 14, 1:41:42.700)
+	Race (Austria, 15 Aug 1976, John Watson WAT, Penske Ford, 54, 1:30:07.860)
+	Race (Netherlands, 29 Aug 1976, James Hunt HUN, McLaren Ford, 75, 1:44:52.090)
+	Race (Italy, 12 Sep 1976, Ronnie Peterson PET, March Ford, 52, 1:30:35.600)
+	Race (Canada, 03 Oct 1976, James Hunt HUN, McLaren Ford, 80, 1:40:09.626)
+	Race (USA East, 10 Oct 1976, James Hunt HUN, McLaren Ford, 59, 1:42:40.741)
+	Race (Japan, 24 Oct 1976, Mario Andretti AND, Lotus Ford, 73, 1:43:58.860)
+Season of 1977:
+	Race (Argentina, 09 Jan 1977, Jody Scheckter SCH, Wolf Ford, 53, 1:40:11.190)
+	Race (Brazil, 23 Jan 1977, Carlos Reutemann REU, Ferrari, 40, 1:45:07.720)
+	Race (South Africa, 05 Mar 1977, Niki Lauda LAU, Ferrari, 78, 1:42:21.600)
+	Race (USA West, 03 Apr 1977, Mario Andretti AND, Lotus Ford, 80, 1:51:35.470)
+	Race (Spain, 08 May 1977, Mario Andretti AND, Lotus Ford, 75, 1:42:52.220)
+	Race (Monaco, 22 May 1977, Jody Scheckter SCH, Wolf Ford, 76, 1:57:52.770)
+	Race (Belgium, 05 Jun 1977, Gunnar Nilsson NIL, Lotus Ford, 70, 1:55:05.710)
+	Race (Sweden, 19 Jun 1977, Jacques Laffite LAF, Ligier Matra, 72, 1:46:55.520)
+	Race (France, 03 Jul 1977, Mario Andretti AND, Lotus Ford, 80, 1:39:40.130)
+	Race (Great Britain, 16 Jul 1977, James Hunt HUN, McLaren Ford, 68, 1:31:46.060)
+	Race (Germany, 31 Jul 1977, Niki Lauda LAU, Ferrari, 47, 1:31:48.620)
+	Race (Austria, 14 Aug 1977, Alan Jones JON, Shadow Ford, 54, 1:37:16.490)
+	Race (Netherlands, 28 Aug 1977, Niki Lauda LAU, Ferrari, 75, 1:41:45.930)
+	Race (Italy, 11 Sep 1977, Mario Andretti AND, Lotus Ford, 52, 1:27:50.300)
+	Race (USA East, 02 Oct 1977, James Hunt HUN, McLaren Ford, 59, 1:58:23.267)
+	Race (Canada, 09 Oct 1977, Jody Scheckter SCH, Wolf Ford, 80, 1:40:00.000)
+	Race (Japan, 23 Oct 1977, James Hunt HUN, McLaren Ford, 73, 1:31:51.680)
+Season of 1978:
+	Race (Argentina, 15 Jan 1978, Mario Andretti AND, Lotus Ford, 52, 1:37:04.470)
+	Race (Brazil, 29 Jan 1978, Carlos Reutemann REU, Ferrari, 63, 1:49:59.860)
+	Race (South Africa, 04 Mar 1978, Ronnie Peterson PET, Lotus Ford, 78, 1:42:15.767)
+	Race (USA West, 02 Apr 1978, Carlos Reutemann REU, Ferrari, 80, 1:52:01.301)
+	Race (Monaco, 07 May 1978, Patrick Depailler DEP, Tyrrell Ford, 75, 1:55:14.660)
+	Race (Belgium, 21 May 1978, Mario Andretti AND, Lotus Ford, 70, 1:39:52.020)
+	Race (Spain, 04 Jun 1978, Mario Andretti AND, Lotus Ford, 75, 1:41:47.060)
+	Race (Sweden, 17 Jun 1978, Niki Lauda LAU, Brabham Alfa Romeo, 70, 1:41:00.606)
+	Race (France, 02 Jul 1978, Mario Andretti AND, Lotus Ford, 54, 1:38:51.920)
+	Race (Great Britain, 16 Jul 1978, Carlos Reutemann REU, Ferrari, 76, 1:42:12.390)
+	Race (Germany, 30 Jul 1978, Mario Andretti AND, Lotus Ford, 45, 1:28:00.900)
+	Race (Austria, 13 Aug 1978, Ronnie Peterson PET, Lotus Ford, 54, 1:41:21.570)
+	Race (Netherlands, 27 Aug 1978, Mario Andretti AND, Lotus Ford, 75, 1:41:04.230)
+	Race (Italy, 10 Sep 1978, Niki Lauda LAU, Brabham Alfa Romeo, 40, 1:07:04.540)
+	Race (USA East, 01 Oct 1978, Carlos Reutemann REU, Ferrari, 59, 1:40:48.800)
+	Race (Canada, 08 Oct 1978, Gilles Villeneuve VIL, Ferrari, 70, 1:57:49.196)
+Season of 1979:
+	Race (Argentina, 21 Jan 1979, Jacques Laffite LAF, Ligier Ford, 53, 1:36:03.210)
+	Race (Brazil, 04 Feb 1979, Jacques Laffite LAF, Ligier Ford, 40, 1:40:09.640)
+	Race (South Africa, 03 Mar 1979, Gilles Villeneuve VIL, Ferrari, 78, 1:41:49.960)
+	Race (USA West, 08 Apr 1979, Gilles Villeneuve VIL, Ferrari, 80, 1:50:25.400)
+	Race (Spain, 29 Apr 1979, Patrick Depailler DEP, Ligier Ford, 75, 1:39:11.840)
+	Race (Belgium, 13 May 1979, Jody Scheckter SCH, Ferrari, 70, 1:39:59.530)
+	Race (Monaco, 27 May 1979, Jody Scheckter SCH, Ferrari, 76, 1:55:22.480)
+	Race (France, 01 Jul 1979, Jean-Pierre Jabouille JAB, Renault, 80, 1:35:20.420)
+	Race (Great Britain, 14 Jul 1979, Clay Regazzoni REG, Williams Ford, 68, 1:26:11.170)
+	Race (Germany, 29 Jul 1979, Alan Jones JON, Williams Ford, 45, 1:24:48.830)
+	Race (Austria, 12 Aug 1979, Alan Jones JON, Williams Ford, 54, 1:27:38.010)
+	Race (Netherlands, 26 Aug 1979, Alan Jones JON, Williams Ford, 75, 1:41:19.775)
+	Race (Italy, 09 Sep 1979, Jody Scheckter SCH, Ferrari, 50, 1:22:00.220)
+	Race (Canada, 30 Sep 1979, Alan Jones JON, Williams Ford, 72, 1:52:06.892)
+	Race (USA East, 07 Oct 1979, Gilles Villeneuve VIL, Ferrari, 59, 1:52:17.734)
+Season of 1980:
+	Race (Argentina, 13 Jan 1980, Alan Jones JON, Williams Ford, 53, 1:43:24.380)
+	Race (Brazil, 27 Jan 1980, Rene Arnoux ARN, Renault, 40, 1:40:01.330)
+	Race (South Africa, 01 Mar 1980, Rene Arnoux ARN, Renault, 78, 1:36:52.540)
+	Race (USA West, 30 Mar 1980, Nelson Piquet PIQ, Brabham Ford, 80, 1:50:18.550)
+	Race (Belgium, 04 May 1980, Didier Pironi PIR, Ligier Ford, 72, 1:38:46.510)
+	Race (Monaco, 18 May 1980, Carlos Reutemann REU, Williams Ford, 76, 1:55:34.365)
+	Race (France, 29 Jun 1980, Alan Jones JON, Williams Ford, 54, 1:32:43.420)
+	Race (Great Britain, 13 Jul 1980, Alan Jones JON, Williams Ford, 76, 1:34:49.228)
+	Race (Germany, 10 Aug 1980, Jacques Laffite LAF, Ligier Ford, 45, 1:22:59.730)
+	Race (Austria, 17 Aug 1980, Jean-Pierre Jabouille JAB, Renault, 54, 1:26:15.730)
+	Race (Netherlands, 31 Aug 1980, Nelson Piquet PIQ, Brabham Ford, 72, 1:38:13.830)
+	Race (Italy, 14 Sep 1980, Nelson Piquet PIQ, Brabham Ford, 60, 1:38:07.520)
+	Race (Canada, 28 Sep 1980, Alan Jones JON, Williams Ford, 70, 1:46:45.530)
+	Race (USA East, 05 Oct 1980, Alan Jones JON, Williams Ford, 59, 1:34:36.050)
+Season of 1981:
+	Race (USA West, 15 Mar 1981, Alan Jones JON, Williams Ford, 80, 1:50:41.330)
+	Race (Brazil, 29 Mar 1981, Carlos Reutemann REU, Williams Ford, 62, 2:00:23.660)
+	Race (Argentina, 12 Apr 1981, Nelson Piquet PIQ, Brabham Ford, 53, 1:34:32.740)
+	Race (San Marino, 03 May 1981, Nelson Piquet PIQ, Brabham Ford, 60, 1:51:23.970)
+	Race (Belgium, 17 May 1981, Carlos Reutemann REU, Williams Ford, 54, 1:16:31.610)
+	Race (Monaco, 31 May 1981, Gilles Villeneuve VIL, Ferrari, 76, 1:54:23.380)
+	Race (Spain, 21 Jun 1981, Gilles Villeneuve VIL, Ferrari, 80, 1:46:35.010)
+	Race (France, 05 Jul 1981, Alain Prost PRO, Renault, 80, 1:35:48.130)
+	Race (Great Britain, 18 Jul 1981, John Watson WAT, McLaren Ford, 68, 1:26:54.800)
+	Race (Germany, 02 Aug 1981, Nelson Piquet PIQ, Brabham Ford, 45, 1:25:55.600)
+	Race (Austria, 16 Aug 1981, Jacques Laffite LAF, Ligier Matra, 53, 1:27:36.470)
+	Race (Netherlands, 30 Aug 1981, Alain Prost PRO, Renault, 72, 1:40:22.430)
+	Race (Italy, 13 Sep 1981, Alain Prost PRO, Renault, 52, 1:26:33.897)
+	Race (Canada, 27 Sep 1981, Jacques Laffite LAF, Ligier Matra, 63, 2:01:25.205)
+	Race (Las Vegas, 17 Oct 1981, Alan Jones JON, Williams Ford, 75, 1:44:09.077)
+Season of 1982:
+	Race (South Africa, 23 Jan 1982, Alain Prost PRO, Renault, 77, 1:32:08.401)
+	Race (Brazil, 21 Mar 1982, Alain Prost PRO, Renault, 63, 1:44:33.134)
+	Race (USA West, 04 Apr 1982, Niki Lauda LAU, McLaren Ford, 75, 1:58:25.318)
+	Race (San Marino, 25 Apr 1982, Didier Pironi PIR, Ferrari, 60, 1:36:38.887)
+	Race (Belgium, 09 May 1982, John Watson WAT, McLaren Ford, 70, 1:35:41.995)
+	Race (Monaco, 23 May 1982, Riccardo Patrese PAT, Brabham Ford, 76, 1:54:11.259)
+	Race (Detroit, 06 Jun 1982, John Watson WAT, McLaren Ford, 62, 1:58:41.043)
+	Race (Canada, 13 Jun 1982, Nelson Piquet PIQ, Brabham BMW, 70, 1:46:39.577)
+	Race (Netherlands, 03 Jul 1982, Didier Pironi PIR, Ferrari, 72, 1:38:03.254)
+	Race (Great Britain, 18 Jul 1982, Niki Lauda LAU, McLaren Ford, 76, 1:35:33.812)
+	Race (France, 25 Jul 1982, Rene Arnoux ARN, Renault, 54, 1:33:33.217)
+	Race (Germany, 08 Aug 1982, Patrick Tambay TAM, Ferrari, 45, 1:27:25.178)
+	Race (Austria, 15 Aug 1982, Elio de Angelis DEA, Lotus Ford, 53, 1:25:02.212)
+	Race (Switzerland, 29 Aug 1982, Keke Rosberg ROS, Williams Ford, 80, 1:32:41.087)
+	Race (Italy, 12 Sep 1982, Rene Arnoux ARN, Renault, 52, 1:22:25.734)
+	Race (Las Vegas, 25 Sep 1982, Michele Alboreto ALB, Tyrrell Ford, 75, 1:41:56.888)
+Season of 1983:
+	Race (Brazil, 13 Mar 1983, Nelson Piquet PIQ, Brabham BMW, 63, 1:48:27.731)
+	Race (USA West, 27 Mar 1983, John Watson WAT, McLaren Ford, 75, 1:53:34.889)
+	Race (France, 17 Apr 1983, Alain Prost PRO, Renault, 54, 1:34:13.913)
+	Race (San Marino, 01 May 1983, Patrick Tambay TAM, Ferrari, 60, 1:37:52.460)
+	Race (Monaco, 15 May 1983, Keke Rosberg ROS, Williams Ford, 76, 1:56:38.121)
+	Race (Belgium, 22 May 1983, Alain Prost PRO, Renault, 40, 1:27:11.502)
+	Race (Detroit, 05 Jun 1983, Michele Alboreto ALB, Tyrrell Ford, 60, 1:50:53.669)
+	Race (Canada, 12 Jun 1983, Rene Arnoux ARN, Ferrari, 70, 1:48:31.838)
+	Race (Great Britain, 16 Jul 1983, Alain Prost PRO, Renault, 67, 1:24:39.780)
+	Race (Germany, 07 Aug 1983, Rene Arnoux ARN, Ferrari, 45, 1:27:10.319)
+	Race (Austria, 14 Aug 1983, Alain Prost PRO, Renault, 53, 1:24:32.745)
+	Race (Netherlands, 28 Aug 1983, Rene Arnoux ARN, Ferrari, 72, 1:38:41.950)
+	Race (Italy, 11 Sep 1983, Nelson Piquet PIQ, Brabham BMW, 52, 1:23:10.880)
+	Race (Europe, 25 Sep 1983, Nelson Piquet PIQ, Brabham BMW, 76, 1:36:45.865)
+	Race (South Africa, 15 Oct 1983, Riccardo Patrese PAT, Brabham BMW, 77, 1:33:25.708)
+Season of 1984:
+	Race (Brazil, 25 Mar 1984, Alain Prost PRO, McLaren TAG, 61, 1:42:34.492)
+	Race (South Africa, 07 Apr 1984, Niki Lauda LAU, McLaren TAG, 75, 1:29:23.430)
+	Race (Belgium, 29 Apr 1984, Michele Alboreto ALB, Ferrari, 70, 1:36:32.048)
+	Race (San Marino, 06 May 1984, Alain Prost PRO, McLaren TAG, 60, 1:36:53.679)
+	Race (France, 20 May 1984, Niki Lauda LAU, McLaren TAG, 79, 1:31:11.951)
+	Race (Monaco, 03 Jun 1984, Alain Prost PRO, McLaren TAG, 31, 1:01:07.740)
+	Race (Canada, 17 Jun 1984, Nelson Piquet PIQ, Brabham BMW, 70, 1:46:23.748)
+	Race (Detroit, 24 Jun 1984, Nelson Piquet PIQ, Brabham BMW, 63, 1:55:41.842)
+	Race (Dallas, 08 Jul 1984, Keke Rosberg ROS, Williams Honda, 67, 2:01:22.617)
+	Race (Great Britain, 22 Jul 1984, Niki Lauda LAU, McLaren TAG, 71, 1:29:28.532)
+	Race (Germany, 05 Aug 1984, Alain Prost PRO, McLaren TAG, 44, 1:24:43.210)
+	Race (Austria, 19 Aug 1984, Niki Lauda LAU, McLaren TAG, 51, 1:21:12.851)
+	Race (Netherlands, 26 Aug 1984, Alain Prost PRO, McLaren TAG, 71, 1:37:21.468)
+	Race (Italy, 09 Sep 1984, Niki Lauda LAU, McLaren TAG, 51, 1:20:29.065)
+	Race (Europe, 07 Oct 1984, Alain Prost PRO, McLaren TAG, 67, 1:35:13.284)
+	Race (Portugal, 21 Oct 1984, Alain Prost PRO, McLaren TAG, 70, 1:41:11.753)
+Season of 1985:
+	Race (Brazil, 07 Apr 1985, Alain Prost PRO, McLaren TAG, 61, 1:41:26.115)
+	Race (Portugal, 21 Apr 1985, Ayrton Senna SEN, Lotus Renault, 67, 2:00:28.006)
+	Race (San Marino, 05 May 1985, Elio de Angelis DEA, Lotus Renault, 60, 1:34:35.955)
+	Race (Monaco, 19 May 1985, Alain Prost PRO, McLaren TAG, 78, 1:51:58.034)
+	Race (Canada, 16 Jun 1985, Michele Alboreto ALB, Ferrari, 70, 1:46:01.813)
+	Race (Detroit, 23 Jun 1985, Keke Rosberg ROS, Williams Honda, 63, 1:55:39.851)
+	Race (France, 07 Jul 1985, Nelson Piquet PIQ, Brabham BMW, 53, 1:31:46.266)
+	Race (Great Britain, 21 Jul 1985, Alain Prost PRO, McLaren TAG, 65, 1:18:10.436)
+	Race (Germany, 04 Aug 1985, Michele Alboreto ALB, Ferrari, 67, 1:35:31.337)
+	Race (Austria, 18 Aug 1985, Alain Prost PRO, McLaren TAG, 52, 1:20:12.583)
+	Race (Netherlands, 25 Aug 1985, Niki Lauda LAU, McLaren TAG, 70, 1:32:29.263)
+	Race (Italy, 08 Sep 1985, Alain Prost PRO, McLaren TAG, 51, 1:17:59.451)
+	Race (Belgium, 15 Sep 1985, Ayrton Senna SEN, Lotus Renault, 43, 1:34:19.893)
+	Race (Europe, 06 Oct 1985, Nigel Mansell MAN, Williams Honda, 75, 1:32:58.109)
+	Race (South Africa, 19 Oct 1985, Nigel Mansell MAN, Williams Honda, 75, 1:28:22.866)
+	Race (Australia, 03 Nov 1985, Keke Rosberg ROS, Williams Honda, 82, 2:00:40.473)
+Season of 1986:
+	Race (Brazil, 23 Mar 1986, Nelson Piquet PIQ, Williams Honda, 61, 1:39:32.583)
+	Race (Spain, 13 Apr 1986, Ayrton Senna SEN, Lotus Renault, 72, 1:48:47.735)
+	Race (San Marino, 27 Apr 1986, Alain Prost PRO, McLaren TAG, 60, 1:32:28.408)
+	Race (Monaco, 11 May 1986, Alain Prost PRO, McLaren TAG, 78, 1:55:41.060)
+	Race (Belgium, 25 May 1986, Nigel Mansell MAN, Williams Honda, 43, 1:27:57.925)
+	Race (Canada, 15 Jun 1986, Nigel Mansell MAN, Williams Honda, 69, 1:42:26.415)
+	Race (Detroit, 22 Jun 1986, Ayrton Senna SEN, Lotus Renault, 63, 1:51:12.847)
+	Race (France, 06 Jul 1986, Nigel Mansell MAN, Williams Honda, 80, 1:37:19.272)
+	Race (Great Britain, 13 Jul 1986, Nigel Mansell MAN, Williams Honda, 75, 1:30:38.471)
+	Race (Germany, 27 Jul 1986, Nelson Piquet PIQ, Williams Honda, 44, 1:22:08.263)
+	Race (Hungary, 10 Aug 1986, Nelson Piquet PIQ, Williams Honda, 76, 2:00:34.508)
+	Race (Austria, 17 Aug 1986, Alain Prost PRO, McLaren TAG, 52, 1:21:22.531)
+	Race (Italy, 07 Sep 1986, Nelson Piquet PIQ, Williams Honda, 51, 1:17:42.889)
+	Race (Portugal, 21 Sep 1986, Nigel Mansell MAN, Williams Honda, 70, 1:37:21.900)
+	Race (Mexico, 12 Oct 1986, Gerhard Berger BER, Benetton BMW, 68, 1:33:18.700)
+	Race (Australia, 26 Oct 1986, Alain Prost PRO, McLaren TAG, 82, 1:54:20.388)
+Season of 1987:
+	Race (Brazil, 12 Apr 1987, Alain Prost PRO, McLaren TAG, 61, 1:39:45.141)
+	Race (San Marino, 03 May 1987, Nigel Mansell MAN, Williams Honda, 59, 1:31:24.076)
+	Race (Belgium, 17 May 1987, Alain Prost PRO, McLaren TAG, 43, 1:27:03.217)
+	Race (Monaco, 31 May 1987, Ayrton Senna SEN, Lotus Honda, 78, 1:57:54.085)
+	Race (Detroit, 21 Jun 1987, Ayrton Senna SEN, Lotus Honda, 63, 1:50:16.358)
+	Race (France, 05 Jul 1987, Nigel Mansell MAN, Williams Honda, 80, 1:37:03.839)
+	Race (Great Britain, 12 Jul 1987, Nigel Mansell MAN, Williams Honda, 65, 1:19:11.780)
+	Race (Germany, 26 Jul 1987, Nelson Piquet PIQ, Williams Honda, 44, 1:21:25.091)
+	Race (Hungary, 09 Aug 1987, Nelson Piquet PIQ, Williams Honda, 76, 1:59:26.793)
+	Race (Austria, 16 Aug 1987, Nigel Mansell MAN, Williams Honda, 52, 1:18:44.898)
+	Race (Italy, 06 Sep 1987, Nelson Piquet PIQ, Williams Honda, 50, 1:14:47.707)
+	Race (Portugal, 20 Sep 1987, Alain Prost PRO, McLaren TAG, 70, 1:37:03.906)
+	Race (Spain, 27 Sep 1987, Nigel Mansell MAN, Williams Honda, 72, 1:49:12.692)
+	Race (Mexico, 18 Oct 1987, Nigel Mansell MAN, Williams Honda, 63, 1:26:24.207)
+	Race (Japan, 01 Nov 1987, Gerhard Berger BER, Ferrari, 51, 1:32:58.072)
+	Race (Australia, 15 Nov 1987, Gerhard Berger BER, Ferrari, 82, 1:52:56.144)
+Season of 1988:
+	Race (Brazil, 03 Apr 1988, Alain Prost PRO, McLaren Honda, 60, 1:36:06.857)
+	Race (San Marino, 01 May 1988, Ayrton Senna SEN, McLaren Honda, 60, 1:32:41.264)
+	Race (Monaco, 15 May 1988, Alain Prost PRO, McLaren Honda, 78, 1:57:17.077)
+	Race (Mexico, 29 May 1988, Alain Prost PRO, McLaren Honda, 67, 1:30:15.737)
+	Race (Canada, 12 Jun 1988, Ayrton Senna SEN, McLaren Honda, 69, 1:39:46.618)
+	Race (Detroit, 19 Jun 1988, Ayrton Senna SEN, McLaren Honda, 63, 1:54:56.035)
+	Race (France, 03 Jul 1988, Alain Prost PRO, McLaren Honda, 80, 1:37:37.328)
+	Race (Great Britain, 10 Jul 1988, Ayrton Senna SEN, McLaren Honda, 65, 1:33:16.367)
+	Race (Germany, 24 Jul 1988, Ayrton Senna SEN, McLaren Honda, 44, 1:32:54.188)
+	Race (Hungary, 07 Aug 1988, Ayrton Senna SEN, McLaren Honda, 76, 1:57:47.081)
+	Race (Belgium, 28 Aug 1988, Ayrton Senna SEN, McLaren Honda, 43, 1:28:00.549)
+	Race (Italy, 11 Sep 1988, Gerhard Berger BER, Ferrari, 51, 1:17:39.744)
+	Race (Portugal, 25 Sep 1988, Alain Prost PRO, McLaren Honda, 70, 1:37:40.958)
+	Race (Spain, 02 Oct 1988, Alain Prost PRO, McLaren Honda, 72, 1:48:43.851)
+	Race (Japan, 30 Oct 1988, Ayrton Senna SEN, McLaren Honda, 51, 1:33:26.173)
+	Race (Australia, 13 Nov 1988, Alain Prost PRO, McLaren Honda, 82, 1:53:14.676)
+Season of 1989:
+	Race (Brazil, 26 Mar 1989, Nigel Mansell MAN, Ferrari, 61, 1:38:58.744)
+	Race (San Marino, 23 Apr 1989, Ayrton Senna SEN, McLaren Honda, 58, 1:26:51.245)
+	Race (Monaco, 07 May 1989, Ayrton Senna SEN, McLaren Honda, 77, 1:53:33.251)
+	Race (Mexico, 28 May 1989, Ayrton Senna SEN, McLaren Honda, 69, 1:35:21.431)
+	Race (United States, 04 Jun 1989, Alain Prost PRO, McLaren Honda, 75, 2:01:33.133)
+	Race (Canada, 18 Jun 1989, Thierry Boutsen BOU, Williams Renault, 69, 2:01:24.073)
+	Race (France, 09 Jul 1989, Alain Prost PRO, McLaren Honda, 80, 1:38:29.411)
+	Race (Great Britain, 16 Jul 1989, Alain Prost PRO, McLaren Honda, 64, 1:19:22.131)
+	Race (Germany, 30 Jul 1989, Ayrton Senna SEN, McLaren Honda, 45, 1:21:43.302)
+	Race (Hungary, 13 Aug 1989, Nigel Mansell MAN, Ferrari, 77, 1:49:38.650)
+	Race (Belgium, 27 Aug 1989, Ayrton Senna SEN, McLaren Honda, 44, 1:40:54.196)
+	Race (Italy, 10 Sep 1989, Alain Prost PRO, McLaren Honda, 53, 1:19:27.550)
+	Race (Portugal, 24 Sep 1989, Gerhard Berger BER, Ferrari, 71, 1:36:48.546)
+	Race (Spain, 01 Oct 1989, Ayrton Senna SEN, McLaren Honda, 72, 1:47:48.264)
+	Race (Japan, 22 Oct 1989, Alessandro Nannini NAN, Benetton Ford, 53, 1:35:06.277)
+	Race (Australia, 05 Nov 1989, Thierry Boutsen BOU, Williams Renault, 70, 2:00:17.421)
+Season of 1990:
+	Race (United States, 11 Mar 1990, Ayrton Senna SEN, McLaren Honda, 72, 1:52:32.829)
+	Race (Brazil, 25 Mar 1990, Alain Prost PRO, Ferrari, 71, 1:37:21.258)
+	Race (San Marino, 13 May 1990, Riccardo Patrese PAT, Williams Renault, 61, 1:30:55.478)
+	Race (Monaco, 27 May 1990, Ayrton Senna SEN, McLaren Honda, 78, 1:52:46.982)
+	Race (Canada, 10 Jun 1990, Ayrton Senna SEN, McLaren Honda, 70, 1:42:56.400)
+	Race (Mexico, 24 Jun 1990, Alain Prost PRO, Ferrari, 69, 1:32:35.783)
+	Race (France, 08 Jul 1990, Alain Prost PRO, Ferrari, 80, 1:33:29.606)
+	Race (Great Britain, 15 Jul 1990, Alain Prost PRO, Ferrari, 64, 1:18:30.999)
+	Race (Germany, 29 Jul 1990, Ayrton Senna SEN, McLaren Honda, 45, 1:20:47.164)
+	Race (Hungary, 12 Aug 1990, Thierry Boutsen BOU, Williams Renault, 77, 1:49:30.597)
+	Race (Belgium, 26 Aug 1990, Ayrton Senna SEN, McLaren Honda, 44, 1:26:31.997)
+	Race (Italy, 09 Sep 1990, Ayrton Senna SEN, McLaren Honda, 53, 1:17:57.878)
+	Race (Portugal, 23 Sep 1990, Nigel Mansell MAN, Ferrari, 61, 1:22:11.014)
+	Race (Spain, 30 Sep 1990, Alain Prost PRO, Ferrari, 73, 1:48:01.461)
+	Race (Japan, 21 Oct 1990, Nelson Piquet PIQ, Benetton Ford, 53, 1:34:36.824)
+	Race (Australia, 04 Nov 1990, Nelson Piquet PIQ, Benetton Ford, 81, 1:49:44.570)
+Season of 1991:
+	Race (United States, 10 Mar 1991, Ayrton Senna SEN, McLaren Honda, 81, 2:00:47.828)
+	Race (Brazil, 24 Mar 1991, Ayrton Senna SEN, McLaren Honda, 71, 1:38:28.128)
+	Race (San Marino, 28 Apr 1991, Ayrton Senna SEN, McLaren Honda, 61, 1:35:14.750)
+	Race (Monaco, 12 May 1991, Ayrton Senna SEN, McLaren Honda, 78, 1:53:02.334)
+	Race (Canada, 02 Jun 1991, Nelson Piquet PIQ, Benetton Ford, 69, 1:38:51.490)
+	Race (Mexico, 16 Jun 1991, Riccardo Patrese PAT, Williams Renault, 67, 1:29:52.205)
+	Race (France, 07 Jul 1991, Nigel Mansell MAN, Williams Renault, 72, 1:38:00.056)
+	Race (Great Britain, 14 Jul 1991, Nigel Mansell MAN, Williams Renault, 59, 1:27:35.479)
+	Race (Germany, 28 Jul 1991, Nigel Mansell MAN, Williams Renault, 45, 1:19:29.661)
+	Race (Hungary, 11 Aug 1991, Ayrton Senna SEN, McLaren Honda, 77, 1:49:12.796)
+	Race (Belgium, 25 Aug 1991, Ayrton Senna SEN, McLaren Honda, 44, 1:27:17.669)
+	Race (Italy, 08 Sep 1991, Nigel Mansell MAN, Williams Renault, 53, 1:17:54.319)
+	Race (Portugal, 22 Sep 1991, Riccardo Patrese PAT, Williams Renault, 71, 1:35:42.304)
+	Race (Spain, 29 Sep 1991, Nigel Mansell MAN, Williams Renault, 65, 1:38:41.541)
+	Race (Japan, 20 Oct 1991, Gerhard Berger BER, McLaren Honda, 53, 1:32:10.695)
+	Race (Australia, 03 Nov 1991, Ayrton Senna SEN, McLaren Honda, 14, 24:34.899)
+Season of 1992:
+	Race (South Africa, 01 Mar 1992, Nigel Mansell MAN, Williams Renault, 72, 1:36:45.320)
+	Race (Mexico, 22 Mar 1992, Nigel Mansell MAN, Williams Renault, 69, 1:31:53.587)
+	Race (Brazil, 05 Apr 1992, Nigel Mansell MAN, Williams Renault, 71, 1:36:51.856)
+	Race (Spain, 03 May 1992, Nigel Mansell MAN, Williams Renault, 65, 1:56:10.674)
+	Race (San Marino, 17 May 1992, Nigel Mansell MAN, Williams Renault, 60, 1:28:40.927)
+	Race (Monaco, 31 May 1992, Ayrton Senna SEN, McLaren Honda, 78, 1:50:59.372)
+	Race (Canada, 14 Jun 1992, Gerhard Berger BER, McLaren Honda, 69, 1:37:08.299)
+	Race (France, 05 Jul 1992, Nigel Mansell MAN, Williams Renault, 69, 1:38:08.459)
+	Race (Great Britain, 12 Jul 1992, Nigel Mansell MAN, Williams Renault, 59, 1:25:42.991)
+	Race (Germany, 26 Jul 1992, Nigel Mansell MAN, Williams Renault, 45, 1:18:22.032)
+	Race (Hungary, 16 Aug 1992, Ayrton Senna SEN, McLaren Honda, 77, 1:46:19.216)
+	Race (Belgium, 30 Aug 1992, Michael Schumacher MSC, Benetton Ford, 44, 1:36:10.721)
+	Race (Italy, 13 Sep 1992, Ayrton Senna SEN, McLaren Honda, 53, 1:18:15.349)
+	Race (Portugal, 27 Sep 1992, Nigel Mansell MAN, Williams Renault, 71, 1:34:46.659)
+	Race (Japan, 25 Oct 1992, Riccardo Patrese PAT, Williams Renault, 53, 1:33:09.553)
+	Race (Australia, 08 Nov 1992, Gerhard Berger BER, McLaren Honda, 82, 1:46:54.786)
+Season of 1993:
+	Race (South Africa, 14 Mar 1993, Alain Prost PRO, Williams Renault, 72, 1:38:45.082)
+	Race (Brazil, 28 Mar 1993, Ayrton Senna SEN, McLaren Ford, 71, 1:51:15.485)
+	Race (Europe, 11 Apr 1993, Ayrton Senna SEN, McLaren Ford, 76, 1:50:46.570)
+	Race (San Marino, 25 Apr 1993, Alain Prost PRO, Williams Renault, 61, 1:33:20.413)
+	Race (Spain, 09 May 1993, Alain Prost PRO, Williams Renault, 65, 1:32:27.685)
+	Race (Monaco, 23 May 1993, Ayrton Senna SEN, McLaren Ford, 78, 1:52:10.947)
+	Race (Canada, 13 Jun 1993, Alain Prost PRO, Williams Renault, 69, 1:36:41.822)
+	Race (France, 04 Jul 1993, Alain Prost PRO, Williams Renault, 72, 1:38:35.241)
+	Race (Great Britain, 11 Jul 1993, Alain Prost PRO, Williams Renault, 59, 1:25:38.189)
+	Race (Germany, 25 Jul 1993, Alain Prost PRO, Williams Renault, 45, 1:18:40.885)
+	Race (Hungary, 15 Aug 1993, Damon Hill HIL, Williams Renault, 77, 1:47:39.098)
+	Race (Belgium, 29 Aug 1993, Damon Hill HIL, Williams Renault, 44, 1:24:32.124)
+	Race (Italy, 12 Sep 1993, Damon Hill HIL, Williams Renault, 53, 1:17:07.509)
+	Race (Portugal, 26 Sep 1993, Michael Schumacher MSC, Benetton Ford, 71, 1:32:46.309)
+	Race (Japan, 24 Oct 1993, Ayrton Senna SEN, McLaren Ford, 53, 1:40:27.912)
+	Race (Australia, 07 Nov 1993, Ayrton Senna SEN, McLaren Ford, 79, 1:43:27.476)
+Season of 1994:
+	Race (Brazil, 27 Mar 1994, Michael Schumacher MSC, Benetton Ford, 71, 1:35:38.759)
+	Race (Pacific, 17 Apr 1994, Michael Schumacher MSC, Benetton Ford, 83, 1:46:01.693)
+	Race (San Marino, 01 May 1994, Michael Schumacher MSC, Benetton Ford, 58, 1:28:28.642)
+	Race (Monaco, 15 May 1994, Michael Schumacher MSC, Benetton Ford, 78, 1:49:55.372)
+	Race (Spain, 29 May 1994, Damon Hill HIL, Williams Renault, 65, 1:36:14.374)
+	Race (Canada, 12 Jun 1994, Michael Schumacher MSC, Benetton Ford, 69, 1:44:31.887)
+	Race (France, 03 Jul 1994, Michael Schumacher MSC, Benetton Ford, 72, 1:38:35.704)
+	Race (Great Britain, 10 Jul 1994, Damon Hill HIL, Williams Renault, 60, 1:30:03.640)
+	Race (Germany, 31 Jul 1994, Gerhard Berger BER, Ferrari, 45, 1:22:37.272)
+	Race (Hungary, 14 Aug 1994, Michael Schumacher MSC, Benetton Ford, 77, 1:48:00.185)
+	Race (Belgium, 28 Aug 1994, Damon Hill HIL, Williams Renault, 44, 1:28:47.170)
+	Race (Italy, 11 Sep 1994, Damon Hill HIL, Williams Renault, 53, 1:18:02.754)
+	Race (Portugal, 25 Sep 1994, Damon Hill HIL, Williams Renault, 71, 1:41:10.165)
+	Race (Europe, 16 Oct 1994, Michael Schumacher MSC, Benetton Ford, 69, 1:40:26.689)
+	Race (Japan, 06 Nov 1994, Damon Hill HIL, Williams Renault, 50, 1:55:53.532)
+	Race (Australia, 13 Nov 1994, Nigel Mansell MAN, Williams Renault, 81, 1:47:51.480)
+Season of 1995:
+	Race (Brazil, 26 Mar 1995, Michael Schumacher MSC, Benetton Renault, 71, 1:38:34.154)
+	Race (Argentina, 09 Apr 1995, Damon Hill HIL, Williams Renault, 71, 1:51:39.531)
+	Race (San Marino, 30 Apr 1995, Damon Hill HIL, Williams Renault, 63, 1:41:42.552)
+	Race (Spain, 14 May 1995, Michael Schumacher MSC, Benetton Renault, 65, 1:34:20.507)
+	Race (Monaco, 28 May 1995, Michael Schumacher MSC, Benetton Renault, 78, 1:53:11.258)
+	Race (Canada, 11 Jun 1995, Jean Alesi ALE, Ferrari, 69, 1:46:31.333)
+	Race (France, 02 Jul 1995, Michael Schumacher MSC, Benetton Renault, 72, 1:38:28.429)
+	Race (Great Britain, 16 Jul 1995, Johnny Herbert HER, Benetton Renault, 61, 1:34:35.093)
+	Race (Germany, 30 Jul 1995, Michael Schumacher MSC, Benetton Renault, 45, 1:22:56.043)
+	Race (Hungary, 13 Aug 1995, Damon Hill HIL, Williams Renault, 77, 1:46:25.721)
+	Race (Belgium, 27 Aug 1995, Michael Schumacher MSC, Benetton Renault, 44, 1:36:47.875)
+	Race (Italy, 10 Sep 1995, Johnny Herbert HER, Benetton Renault, 53, 1:18:27.916)
+	Race (Portugal, 24 Sep 1995, David Coulthard COU, Williams Renault, 71, 1:41:52.145)
+	Race (Europe, 01 Oct 1995, Michael Schumacher MSC, Benetton Renault, 67, 1:39:59.044)
+	Race (Pacific, 22 Oct 1995, Michael Schumacher MSC, Benetton Renault, 83, 1:48:49.972)
+	Race (Japan, 29 Oct 1995, Michael Schumacher MSC, Benetton Renault, 53, 1:36:52.930)
+	Race (Australia, 12 Nov 1995, Damon Hill HIL, Williams Renault, 81, 1:49:15.946)
+Season of 1996:
+	Race (Australia, 10 Mar 1996, Damon Hill HIL, Williams Renault, 58, 1:32:50.491)
+	Race (Brazil, 31 Mar 1996, Damon Hill HIL, Williams Renault, 71, 1:49:52.976)
+	Race (Argentina, 07 Apr 1996, Damon Hill HIL, Williams Renault, 72, 1:54:55.322)
+	Race (Europe, 28 Apr 1996, Jacques Villeneuve VIL, Williams Renault, 67, 1:33:26.473)
+	Race (San Marino, 05 May 1996, Damon Hill HIL, Williams Renault, 63, 1:35:26.156)
+	Race (Monaco, 19 May 1996, Olivier Panis PAN, Ligier Mugen Honda, 75, 2:00:45.629)
+	Race (Spain, 02 Jun 1996, Michael Schumacher MSC, Ferrari, 65, 1:59:49.307)
+	Race (Canada, 16 Jun 1996, Damon Hill HIL, Williams Renault, 69, 1:36:03.465)
+	Race (France, 30 Jun 1996, Damon Hill HIL, Williams Renault, 72, 1:36:28.795)
+	Race (Great Britain, 14 Jul 1996, Jacques Villeneuve VIL, Williams Renault, 61, 1:33:00.874)
+	Race (Germany, 28 Jul 1996, Damon Hill HIL, Williams Renault, 45, 1:21:43.417)
+	Race (Hungary, 11 Aug 1996, Jacques Villeneuve VIL, Williams Renault, 77, 1:46:21.134)
+	Race (Belgium, 25 Aug 1996, Michael Schumacher MSC, Ferrari, 44, 1:28:15.125)
+	Race (Italy, 08 Sep 1996, Michael Schumacher MSC, Ferrari, 53, 1:17:43.632)
+	Race (Portugal, 22 Sep 1996, Jacques Villeneuve VIL, Williams Renault, 70, 1:40:22.915)
+	Race (Japan, 13 Oct 1996, Damon Hill HIL, Williams Renault, 52, 1:32:33.791)
+Season of 1997:
+	Race (Australia, 09 Mar 1997, David Coulthard COU, McLaren Mercedes, 58, 1:30:28.718)
+	Race (Brazil, 30 Mar 1997, Jacques Villeneuve VIL, Williams Renault, 72, 1:36:06.990)
+	Race (Argentina, 13 Apr 1997, Jacques Villeneuve VIL, Williams Renault, 72, 1:52:01.715)
+	Race (San Marino, 27 Apr 1997, Heinz-Harald Frentzen FRE, Williams Renault, 62, 1:31:00.673)
+	Race (Monaco, 11 May 1997, Michael Schumacher MSC, Ferrari, 62, 2:00:05.654)
+	Race (Spain, 25 May 1997, Jacques Villeneuve VIL, Williams Renault, 64, 1:30:35.896)
+	Race (Canada, 15 Jun 1997, Michael Schumacher MSC, Ferrari, 54, 1:17:40.646)
+	Race (France, 29 Jun 1997, Michael Schumacher MSC, Ferrari, 72, 1:38:50.492)
+	Race (Great Britain, 13 Jul 1997, Jacques Villeneuve VIL, Williams Renault, 59, 1:28:01.665)
+	Race (Germany, 27 Jul 1997, Gerhard Berger BER, Benetton Renault, 45, 1:20:59.046)
+	Race (Hungary, 10 Aug 1997, Jacques Villeneuve VIL, Williams Renault, 77, 1:45:47.149)
+	Race (Belgium, 24 Aug 1997, Michael Schumacher MSC, Ferrari, 44, 1:33:46.717)
+	Race (Italy, 07 Sep 1997, David Coulthard COU, McLaren Mercedes, 53, 1:17:04.609)
+	Race (Austria, 21 Sep 1997, Jacques Villeneuve VIL, Williams Renault, 71, 1:27:35.999)
+	Race (Luxembourg, 28 Sep 1997, Jacques Villeneuve VIL, Williams Renault, 67, 1:31:27.843)
+	Race (Japan, 12 Oct 1997, Michael Schumacher MSC, Ferrari, 53, 1:29:48.446)
+	Race (Europe, 26 Oct 1997, Mika Hakkinen HAK, McLaren Mercedes, 69, 1:38:57.771)
+Season of 1998:
+	Race (Australia, 08 Mar 1998, Mika Hakkinen HAK, McLaren Mercedes, 58, 1:31:45.996)
+	Race (Brazil, 29 Mar 1998, Mika Hakkinen HAK, McLaren Mercedes, 72, 1:37:11.747)
+	Race (Argentina, 12 Apr 1998, Michael Schumacher MSC, Ferrari, 72, 1:48:36.175)
+	Race (San Marino, 26 Apr 1998, David Coulthard COU, McLaren Mercedes, 62, 1:34:24.593)
+	Race (Spain, 10 May 1998, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:33:37.621)
+	Race (Monaco, 24 May 1998, Mika Hakkinen HAK, McLaren Mercedes, 78, 1:51:23.595)
+	Race (Canada, 07 Jun 1998, Michael Schumacher MSC, Ferrari, 69, 1:40:57.355)
+	Race (France, 28 Jun 1998, Michael Schumacher MSC, Ferrari, 71, 1:34:45.026)
+	Race (Great Britain, 12 Jul 1998, Michael Schumacher MSC, Ferrari, 60, 1:47:02.450)
+	Race (Austria, 26 Jul 1998, Mika Hakkinen HAK, McLaren Mercedes, 71, 1:30:44.086)
+	Race (Germany, 02 Aug 1998, Mika Hakkinen HAK, McLaren Mercedes, 45, 1:20:47.984)
+	Race (Hungary, 16 Aug 1998, Michael Schumacher MSC, Ferrari, 77, 1:45:25.550)
+	Race (Belgium, 30 Aug 1998, Damon Hill HIL, Jordan Mugen Honda, 44, 1:43:47.407)
+	Race (Italy, 13 Sep 1998, Michael Schumacher MSC, Ferrari, 53, 1:17:09.672)
+	Race (Luxembourg, 27 Sep 1998, Mika Hakkinen HAK, McLaren Mercedes, 67, 1:32:14.789)
+	Race (Japan, 01 Nov 1998, Mika Hakkinen HAK, McLaren Mercedes, 51, 1:27:22.535)
+Season of 1999:
+	Race (Australia, 07 Mar 1999, Eddie Irvine IRV, Ferrari, 57, 1:35:01.659)
+	Race (Brazil, 11 Apr 1999, Mika Hakkinen HAK, McLaren Mercedes, 72, 1:36:03.785)
+	Race (San Marino, 02 May 1999, Michael Schumacher MSC, Ferrari, 62, 1:33:44.792)
+	Race (Monaco, 16 May 1999, Michael Schumacher MSC, Ferrari, 78, 1:49:31.812)
+	Race (Spain, 30 May 1999, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:34:13.665)
+	Race (Canada, 13 Jun 1999, Mika Hakkinen HAK, McLaren Mercedes, 69, 1:41:35.727)
+	Race (France, 27 Jun 1999, Heinz-Harald Frentzen FRE, Jordan Mugen Honda, 72, 1:58:24.343)
+	Race (Great Britain, 11 Jul 1999, David Coulthard COU, McLaren Mercedes, 60, 1:32:30.144)
+	Race (Austria, 25 Jul 1999, Eddie Irvine IRV, Ferrari, 71, 1:28:12.438)
+	Race (Germany, 01 Aug 1999, Eddie Irvine IRV, Ferrari, 45, 1:21:58.594)
+	Race (Hungary, 15 Aug 1999, Mika Hakkinen HAK, McLaren Mercedes, 77, 1:46:23.536)
+	Race (Belgium, 29 Aug 1999, David Coulthard COU, McLaren Mercedes, 44, 1:25:43.057)
+	Race (Italy, 12 Sep 1999, Heinz-Harald Frentzen FRE, Jordan Mugen Honda, 53, 1:17:02.923)
+	Race (Europe, 26 Sep 1999, Johnny Herbert HER, Stewart Ford, 66, 1:41:54.314)
+	Race (Malaysia, 17 Oct 1999, Eddie Irvine IRV, Ferrari, 56, 1:36:38.494)
+	Race (Japan, 31 Oct 1999, Mika Hakkinen HAK, McLaren Mercedes, 53, 1:31:18.785)
+Season of 2000:
+	Race (Australia, 12 Mar 2000, Michael Schumacher MSC, Ferrari, 58, 1:34:01.987)
+	Race (Brazil, 26 Mar 2000, Michael Schumacher MSC, Ferrari, 71, 1:31:35.271)
+	Race (San Marino, 09 Apr 2000, Michael Schumacher MSC, Ferrari, 62, 1:31:39.776)
+	Race (Great Britain, 23 Apr 2000, David Coulthard COU, McLaren Mercedes, 60, 1:28:50.108)
+	Race (Spain, 07 May 2000, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:33:55.390)
+	Race (Europe, 21 May 2000, Michael Schumacher MSC, Ferrari, 67, 1:42:00.307)
+	Race (Monaco, 04 Jun 2000, David Coulthard COU, McLaren Mercedes, 78, 1:49:28.213)
+	Race (Canada, 18 Jun 2000, Michael Schumacher MSC, Ferrari, 69, 1:41:12.313)
+	Race (France, 02 Jul 2000, David Coulthard COU, McLaren Mercedes, 72, 1:38:05.538)
+	Race (Austria, 16 Jul 2000, Mika Hakkinen HAK, McLaren Mercedes, 71, 1:28:15.818)
+	Race (Germany, 30 Jul 2000, Rubens Barrichello BAR, Ferrari, 45, 1:25:34.418)
+	Race (Hungary, 13 Aug 2000, Mika Hakkinen HAK, McLaren Mercedes, 77, 1:45:33.869)
+	Race (Belgium, 27 Aug 2000, Mika Hakkinen HAK, McLaren Mercedes, 44, 1:28:14.494)
+	Race (Italy, 10 Sep 2000, Michael Schumacher MSC, Ferrari, 53, 1:27:31.638)
+	Race (United States, 24 Sep 2000, Michael Schumacher MSC, Ferrari, 73, 1:36:30.883)
+	Race (Japan, 08 Oct 2000, Michael Schumacher MSC, Ferrari, 53, 1:29:53.435)
+	Race (Malaysia, 22 Oct 2000, Michael Schumacher MSC, Ferrari, 56, 1:35:54.235)
+Season of 2001:
+	Race (Australia, 04 Mar 2001, Michael Schumacher MSC, Ferrari, 58, 1:38:26.533)
+	Race (Malaysia, 18 Mar 2001, Michael Schumacher MSC, Ferrari, 55, 1:47:34.801)
+	Race (Brazil, 01 Apr 2001, David Coulthard COU, McLaren Mercedes, 71, 1:39:00.834)
+	Race (San Marino, 15 Apr 2001, Ralf Schumacher RSC, Williams BMW, 62, 1:30:44.817)
+	Race (Spain, 29 Apr 2001, Michael Schumacher MSC, Ferrari, 65, 1:31:03.305)
+	Race (Austria, 13 May 2001, David Coulthard COU, McLaren Mercedes, 71, 1:27:45.927)
+	Race (Monaco, 27 May 2001, Michael Schumacher MSC, Ferrari, 78, 1:47:22.561)
+	Race (Canada, 10 Jun 2001, Ralf Schumacher RSC, Williams BMW, 69, 1:34:31.522)
+	Race (Europe, 24 Jun 2001, Michael Schumacher MSC, Ferrari, 67, 1:29:42.724)
+	Race (France, 01 Jul 2001, Michael Schumacher MSC, Ferrari, 72, 1:33:35.636)
+	Race (Great Britain, 15 Jul 2001, Mika Hakkinen HAK, McLaren Mercedes, 60, 1:25:33.770)
+	Race (Germany, 29 Jul 2001, Ralf Schumacher RSC, Williams BMW, 45, 1:18:17.873)
+	Race (Hungary, 19 Aug 2001, Michael Schumacher MSC, Ferrari, 77, 1:41:49.675)
+	Race (Belgium, 02 Sep 2001, Michael Schumacher MSC, Ferrari, 36, 1:08:05.002)
+	Race (Italy, 16 Sep 2001, Juan Pablo Montoya MOY, Williams BMW, 53, 1:16:58.493)
+	Race (United States, 30 Sep 2001, Mika Hakkinen HAK, McLaren Mercedes, 73, 1:32:42.840)
+	Race (Japan, 14 Oct 2001, Michael Schumacher MSC, Ferrari, 53, 1:27:33.298)
+Season of 2002:
+	Race (Australia, 03 Mar 2002, Michael Schumacher MSC, Ferrari, 58, 1:35:36.792)
+	Race (Malaysia, 17 Mar 2002, Ralf Schumacher RSC, Williams BMW, 56, 1:34:12.912)
+	Race (Brazil, 31 Mar 2002, Michael Schumacher MSC, Ferrari, 71, 1:31:43.663)
+	Race (San Marino, 14 Apr 2002, Michael Schumacher MSC, Ferrari, 62, 1:29:10.789)
+	Race (Spain, 28 Apr 2002, Michael Schumacher MSC, Ferrari, 65, 1:30:29.981)
+	Race (Austria, 12 May 2002, Michael Schumacher MSC, Ferrari, 71, 1:33:51.562)
+	Race (Monaco, 26 May 2002, David Coulthard COU, McLaren Mercedes, 78, 1:45:39.055)
+	Race (Canada, 09 Jun 2002, Michael Schumacher MSC, Ferrari, 70, 1:33:36.111)
+	Race (Europe, 23 Jun 2002, Rubens Barrichello BAR, Ferrari, 60, 1:35:07.426)
+	Race (Great Britain, 07 Jul 2002, Michael Schumacher MSC, Ferrari, 60, 1:31:45.015)
+	Race (France, 21 Jul 2002, Michael Schumacher MSC, Ferrari, 72, 1:32:09.837)
+	Race (Germany, 28 Jul 2002, Michael Schumacher MSC, Ferrari, 67, 1:27:52.078)
+	Race (Hungary, 18 Aug 2002, Rubens Barrichello BAR, Ferrari, 77, 1:41:49.001)
+	Race (Belgium, 01 Sep 2002, Michael Schumacher MSC, Ferrari, 44, 1:21:20.634)
+	Race (Italy, 15 Sep 2002, Rubens Barrichello BAR, Ferrari, 53, 1:16:19.982)
+	Race (United States, 29 Sep 2002, Rubens Barrichello BAR, Ferrari, 73, 1:31:07.934)
+	Race (Japan, 13 Oct 2002, Michael Schumacher MSC, Ferrari, 53, 1:26:59.698)
+Season of 2003:
+	Race (Australia, 09 Mar 2003, David Coulthard COU, McLaren Mercedes, 58, 1:34:42.124)
+	Race (Malaysia, 23 Mar 2003, Kimi Räikkönen RAI, McLaren Mercedes, 56, 1:32:22.195)
+	Race (Brazil, 06 Apr 2003, Giancarlo Fisichella FIS, Jordan Ford, 54, 1:31:17.748)
+	Race (San Marino, 20 Apr 2003, Michael Schumacher MSC, Ferrari, 62, 1:28:12.058)
+	Race (Spain, 04 May 2003, Michael Schumacher MSC, Ferrari, 65, 1:33:46.933)
+	Race (Austria, 18 May 2003, Michael Schumacher MSC, Ferrari, 69, 1:24:04.888)
+	Race (Monaco, 01 Jun 2003, Juan Pablo Montoya MOY, Williams BMW, 78, 1:42:19.010)
+	Race (Canada, 15 Jun 2003, Michael Schumacher MSC, Ferrari, 70, 1:31:13.591)
+	Race (Europe, 29 Jun 2003, Ralf Schumacher RSC, Williams BMW, 60, 1:34:43.622)
+	Race (France, 06 Jul 2003, Ralf Schumacher RSC, Williams BMW, 70, 1:30:49.213)
+	Race (Great Britain, 20 Jul 2003, Rubens Barrichello BAR, Ferrari, 60, 1:28:37.554)
+	Race (Germany, 03 Aug 2003, Juan Pablo Montoya MOY, Williams BMW, 67, 1:28:48.769)
+	Race (Hungary, 24 Aug 2003, Fernando Alonso ALO, Renault, 70, 1:39:01.460)
+	Race (Italy, 14 Sep 2003, Michael Schumacher MSC, Ferrari, 53, 1:14:19.838)
+	Race (United States, 28 Sep 2003, Michael Schumacher MSC, Ferrari, 73, 1:33:35.997)
+	Race (Japan, 12 Oct 2003, Rubens Barrichello BAR, Ferrari, 53, 1:25:11.743)
+Season of 2004:
+	Race (Australia, 07 Mar 2004, Michael Schumacher MSC, Ferrari, 58, 1:24:15.757)
+	Race (Malaysia, 21 Mar 2004, Michael Schumacher MSC, Ferrari, 56, 1:31:07.490)
+	Race (Bahrain, 04 Apr 2004, Michael Schumacher MSC, Ferrari, 57, 1:28:34.875)
+	Race (San Marino, 25 Apr 2004, Michael Schumacher MSC, Ferrari, 62, 1:26:19.670)
+	Race (Spain, 09 May 2004, Michael Schumacher MSC, Ferrari, 66, 1:27:32.841)
+	Race (Monaco, 23 May 2004, Jarno Trulli TRU, Renault, 77, 1:45:46.601)
+	Race (Europe, 30 May 2004, Michael Schumacher MSC, Ferrari, 60, 1:32:35.101)
+	Race (Canada, 13 Jun 2004, Michael Schumacher MSC, Ferrari, 70, 1:28:24.803)
+	Race (United States, 20 Jun 2004, Michael Schumacher MSC, Ferrari, 73, 1:40:29.914)
+	Race (France, 04 Jul 2004, Michael Schumacher MSC, Ferrari, 70, 1:30:18.133)
+	Race (Great Britain, 11 Jul 2004, Michael Schumacher MSC, Ferrari, 60, 1:24:42.700)
+	Race (Germany, 25 Jul 2004, Michael Schumacher MSC, Ferrari, 66, 1:23:54.848)
+	Race (Hungary, 15 Aug 2004, Michael Schumacher MSC, Ferrari, 70, 1:35:26.131)
+	Race (Belgium, 29 Aug 2004, Kimi Räikkönen RAI, McLaren Mercedes, 44, 1:32:35.274)
+	Race (Italy, 12 Sep 2004, Rubens Barrichello BAR, Ferrari, 53, 1:15:18.448)
+	Race (China, 26 Sep 2004, Rubens Barrichello BAR, Ferrari, 56, 1:29:12.420)
+	Race (Japan, 10 Oct 2004, Michael Schumacher MSC, Ferrari, 53, 1:24:26.985)
+	Race (Brazil, 24 Oct 2004, Juan Pablo Montoya MOY, Williams BMW, 71, 1:28:01.451)
+Season of 2005:
+	Race (Australia, 06 Mar 2005, Giancarlo Fisichella FIS, Renault, 57, 1:24:17.336)
+	Race (Malaysia, 20 Mar 2005, Fernando Alonso ALO, Renault, 56, 1:31:33.736)
+	Race (Bahrain, 03 Apr 2005, Fernando Alonso ALO, Renault, 57, 1:29:18.531)
+	Race (San Marino, 24 Apr 2005, Fernando Alonso ALO, Renault, 62, 1:27:41.921)
+	Race (Spain, 08 May 2005, Kimi Räikkönen RAI, McLaren Mercedes, 66, 1:27:16.830)
+	Race (Monaco, 22 May 2005, Kimi Räikkönen RAI, McLaren Mercedes, 78, 1:45:15.556)
+	Race (Europe, 29 May 2005, Fernando Alonso ALO, Renault, 59, 1:31:46.648)
+	Race (Canada, 12 Jun 2005, Kimi Räikkönen RAI, McLaren Mercedes, 70, 1:32:09.290)
+	Race (United States, 19 Jun 2005, Michael Schumacher MSC, Ferrari, 73, 1:29:43.181)
+	Race (France, 03 Jul 2005, Fernando Alonso ALO, Renault, 70, 1:31:22.233)
+	Race (Great Britain, 10 Jul 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 60, 1:24:29.588)
+	Race (Germany, 24 Jul 2005, Fernando Alonso ALO, Renault, 67, 1:26:28.599)
+	Race (Hungary, 31 Jul 2005, Kimi Räikkönen RAI, McLaren Mercedes, 70, 1:37:25.552)
+	Race (Turkey, 21 Aug 2005, Kimi Räikkönen RAI, McLaren Mercedes, 58, 1:24:34.454)
+	Race (Italy, 04 Sep 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 53, 1:14:28.659)
+	Race (Belgium, 11 Sep 2005, Kimi Räikkönen RAI, McLaren Mercedes, 44, 1:30:01.295)
+	Race (Brazil, 25 Sep 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 71, 1:29:20.574)
+	Race (Japan, 09 Oct 2005, Kimi Räikkönen RAI, McLaren Mercedes, 53, 1:29:02.212)
+	Race (China, 16 Oct 2005, Fernando Alonso ALO, Renault, 56, 1:39:53.618)
+Season of 2006:
+	Race (Bahrain, 12 Mar 2006, Fernando Alonso ALO, Renault, 57, 1:29:46.205)
+	Race (Malaysia, 19 Mar 2006, Giancarlo Fisichella FIS, Renault, 56, 1:30:40.529)
+	Race (Australia, 02 Apr 2006, Fernando Alonso ALO, Renault, 57, 1:34:27.870)
+	Race (San Marino, 23 Apr 2006, Michael Schumacher MSC, Ferrari, 62, 1:31:06.486)
+	Race (Europe, 07 May 2006, Michael Schumacher MSC, Ferrari, 60, 1:35:58.765)
+	Race (Spain, 14 May 2006, Fernando Alonso ALO, Renault, 66, 1:26:21.759)
+	Race (Monaco, 28 May 2006, Fernando Alonso ALO, Renault, 78, 1:43:43.116)
+	Race (Great Britain, 11 Jun 2006, Fernando Alonso ALO, Renault, 60, 1:25:51.927)
+	Race (Canada, 25 Jun 2006, Fernando Alonso ALO, Renault, 70, 1:34:37.308)
+	Race (United States, 02 Jul 2006, Michael Schumacher MSC, Ferrari, 73, 1:34:35.199)
+	Race (France, 16 Jul 2006, Michael Schumacher MSC, Ferrari, 70, 1:32:07.803)
+	Race (Germany, 30 Jul 2006, Michael Schumacher MSC, Ferrari, 67, 1:27:51.693)
+	Race (Hungary, 06 Aug 2006, Jenson Button BUT, Honda, 70, 1:52:20.941)
+	Race (Turkey, 27 Aug 2006, Felipe Massa MAS, Ferrari, 58, 1:28:51.082)
+	Race (Italy, 10 Sep 2006, Michael Schumacher MSC, Ferrari, 53, 1:14:51.975)
+	Race (China, 01 Oct 2006, Michael Schumacher MSC, Ferrari, 56, 1:37:32.747)
+	Race (Japan, 08 Oct 2006, Fernando Alonso ALO, Renault, 53, 1:23:53.413)
+	Race (Brazil, 22 Oct 2006, Felipe Massa MAS, Ferrari, 71, 1:31:53.751)
+Season of 2007:
+	Race (Australia, 18 Mar 2007, Kimi Räikkönen RAI, Ferrari, 58, 1:25:28.770)
+	Race (Malaysia, 08 Apr 2007, Fernando Alonso ALO, McLaren Mercedes, 56, 1:32:14.930)
+	Race (Bahrain, 15 Apr 2007, Felipe Massa MAS, Ferrari, 57, 1:33:27.515)
+	Race (Spain, 13 May 2007, Felipe Massa MAS, Ferrari, 65, 1:31:36.230)
+	Race (Monaco, 27 May 2007, Fernando Alonso ALO, McLaren Mercedes, 78, 1:40:29.329)
+	Race (Canada, 10 Jun 2007, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:44:11.292)
+	Race (United States, 17 Jun 2007, Lewis Hamilton HAM, McLaren Mercedes, 73, 1:31:09.965)
+	Race (France, 01 Jul 2007, Kimi Räikkönen RAI, Ferrari, 70, 1:30:54.200)
+	Race (Great Britain, 08 Jul 2007, Kimi Räikkönen RAI, Ferrari, 59, 1:21:43.074)
+	Race (Europe, 22 Jul 2007, Fernando Alonso ALO, McLaren Mercedes, 60, 2:06:26.358)
+	Race (Hungary, 05 Aug 2007, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:35:52.991)
+	Race (Turkey, 26 Aug 2007, Felipe Massa MAS, Ferrari, 58, 1:26:42.161)
+	Race (Italy, 09 Sep 2007, Fernando Alonso ALO, McLaren Mercedes, 53, 1:18:37.806)
+	Race (Belgium, 16 Sep 2007, Kimi Räikkönen RAI, Ferrari, 44, 1:20:39.066)
+	Race (Japan, 30 Sep 2007, Lewis Hamilton HAM, McLaren Mercedes, 67, 2:00:34.579)
+	Race (China, 07 Oct 2007, Kimi Räikkönen RAI, Ferrari, 56, 1:37:58.395)
+	Race (Brazil, 21 Oct 2007, Kimi Räikkönen RAI, Ferrari, 71, 1:28:15.270)
+Season of 2008:
+	Race (Australia, 16 Mar 2008, Lewis Hamilton HAM, McLaren Mercedes, 58, 1:34:50.616)
+	Race (Malaysia, 23 Mar 2008, Kimi Räikkönen RAI, Ferrari, 56, 1:31:18.555)
+	Race (Bahrain, 06 Apr 2008, Felipe Massa MAS, Ferrari, 57, 1:31:06.970)
+	Race (Spain, 27 Apr 2008, Kimi Räikkönen RAI, Ferrari, 66, 1:38:19.051)
+	Race (Turkey, 11 May 2008, Felipe Massa MAS, Ferrari, 58, 1:26:49.451)
+	Race (Monaco, 25 May 2008, Lewis Hamilton HAM, McLaren Mercedes, 76, 2:00:42.742)
+	Race (Canada, 08 Jun 2008, Robert Kubica KUB, Sauber BMW, 70, 1:36:24.447)
+	Race (France, 22 Jun 2008, Felipe Massa MAS, Ferrari, 70, 1:31:50.245)
+	Race (Great Britain, 06 Jul 2008, Lewis Hamilton HAM, McLaren Mercedes, 60, 1:39:09.440)
+	Race (Germany, 20 Jul 2008, Lewis Hamilton HAM, McLaren Mercedes, 67, 1:31:20.874)
+	Race (Hungary, 03 Aug 2008, Heikki Kovalainen KOV, McLaren Mercedes, 70, 1:37:27.067)
+	Race (Europe, 24 Aug 2008, Felipe Massa MAS, Ferrari, 57, 1:35:32.339)
+	Race (Belgium, 07 Sep 2008, Felipe Massa MAS, Ferrari, 44, 1:22:59.394)
+	Race (Italy, 14 Sep 2008, Sebastian Vettel VET, STR Ferrari, 53, 1:26:47.494)
+	Race (Singapore, 28 Sep 2008, Fernando Alonso ALO, Renault, 61, 1:57:16.304)
+	Race (Japan, 12 Oct 2008, Fernando Alonso ALO, Renault, 67, 1:30:21.892)
+	Race (China, 19 Oct 2008, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:31:57.403)
+	Race (Brazil, 02 Nov 2008, Felipe Massa MAS, Ferrari, 71, 1:34:11.435)
+Season of 2009:
+	Race (Australia, 29 Mar 2009, Jenson Button BUT, Brawn Mercedes, 58, 1:34:15.784)
+	Race (Malaysia, 05 Apr 2009, Jenson Button BUT, Brawn Mercedes, 31, 55:30.622)
+	Race (China, 19 Apr 2009, Sebastian Vettel VET, RBR Renault, 56, 1:57:43.485)
+	Race (Bahrain, 26 Apr 2009, Jenson Button BUT, Brawn Mercedes, 57, 1:31:48.182)
+	Race (Spain, 10 May 2009, Jenson Button BUT, Brawn Mercedes, 66, 1:37:19.202)
+	Race (Monaco, 24 May 2009, Jenson Button BUT, Brawn Mercedes, 78, 1:40:44.282)
+	Race (Turkey, 07 Jun 2009, Jenson Button BUT, Brawn Mercedes, 58, 1:26:24.848)
+	Race (Great Britain, 21 Jun 2009, Sebastian Vettel VET, RBR Renault, 60, 1:22:49.328)
+	Race (Germany, 12 Jul 2009, Mark Webber WEB, RBR Renault, 60, 1:36:43.310)
+	Race (Hungary, 26 Jul 2009, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:38:23.876)
+	Race (Europe, 23 Aug 2009, Rubens Barrichello BAR, Brawn Mercedes, 57, 1:35:51.289)
+	Race (Belgium, 30 Aug 2009, Kimi Räikkönen RAI, Ferrari, 44, 1:23:50.995)
+	Race (Italy, 13 Sep 2009, Rubens Barrichello BAR, Brawn Mercedes, 53, 1:16:21.706)
+	Race (Singapore, 27 Sep 2009, Lewis Hamilton HAM, McLaren Mercedes, 61, 1:56:06.337)
+	Race (Japan, 04 Oct 2009, Sebastian Vettel VET, RBR Renault, 53, 1:28:20.443)
+	Race (Brazil, 18 Oct 2009, Mark Webber WEB, RBR Renault, 71, 1:32:23.081)
+	Race (Abu Dhabi, 01 Nov 2009, Sebastian Vettel VET, RBR Renault, 55, 1:34:03.414)
+Season of 2010:
+	Race (Bahrain, 14 Mar 2010, Fernando Alonso ALO, Ferrari, 49, 1:39:20.396)
+	Race (Australia, 28 Mar 2010, Jenson Button BUT, McLaren Mercedes, 58, 1:33:36.531)
+	Race (Malaysia, 04 Apr 2010, Sebastian Vettel VET, RBR Renault, 56, 1:33:48.412)
+	Race (China, 18 Apr 2010, Jenson Button BUT, McLaren Mercedes, 56, 1:46:42.163)
+	Race (Spain, 09 May 2010, Mark Webber WEB, RBR Renault, 66, 1:35:44.101)
+	Race (Monaco, 16 May 2010, Mark Webber WEB, RBR Renault, 78, 1:50:13.355)
+	Race (Turkey, 30 May 2010, Lewis Hamilton HAM, McLaren Mercedes, 58, 1:28:47.620)
+	Race (Canada, 13 Jun 2010, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:33:53.456)
+	Race (Europe, 27 Jun 2010, Sebastian Vettel VET, RBR Renault, 57, 1:40:29.571)
+	Race (Great Britain, 11 Jul 2010, Mark Webber WEB, RBR Renault, 52, 1:24:38.200)
+	Race (Germany, 25 Jul 2010, Fernando Alonso ALO, Ferrari, 67, 1:27:38.864)
+	Race (Hungary, 01 Aug 2010, Mark Webber WEB, RBR Renault, 70, 1:41:05.571)
+	Race (Belgium, 29 Aug 2010, Lewis Hamilton HAM, McLaren Mercedes, 44, 1:29:04.268)
+	Race (Italy, 12 Sep 2010, Fernando Alonso ALO, Ferrari, 53, 1:16:24.572)
+	Race (Singapore, 26 Sep 2010, Fernando Alonso ALO, Ferrari, 61, 1:57:53.579)
+	Race (Japan, 10 Oct 2010, Sebastian Vettel VET, RBR Renault, 53, 1:30:27.323)
+	Race (South Korea, 24 Oct 2010, Fernando Alonso ALO, Ferrari, 55, 2:48:20.810)
+	Race (Brazil, 07 Nov 2010, Sebastian Vettel VET, RBR Renault, 71, 1:33:11.803)
+	Race (Abu Dhabi, 14 Nov 2010, Sebastian Vettel VET, RBR Renault, 55, 1:39:36.837)
+Season of 2011:
+	Race (Australia, 27 Mar 2011, Sebastian Vettel VET, Red Bull Racing Renault, 58, 1:29:30.259)
+	Race (Malaysia, 10 Apr 2011, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:37:39.832)
+	Race (China, 17 Apr 2011, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:36:58.226)
+	Race (Turkey, 08 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 58, 1:30:17.558)
+	Race (Spain, 22 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 66, 1:39:03.301)
+	Race (Monaco, 29 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 78, 2:09:38.373)
+	Race (Canada, 12 Jun 2011, Jenson Button BUT, McLaren Mercedes, 70, 4:04:39.537)
+	Race (Europe, 26 Jun 2011, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:39:36.169)
+	Race (Great Britain, 10 Jul 2011, Fernando Alonso ALO, Ferrari, 52, 1:28:41.196)
+	Race (Germany, 24 Jul 2011, Lewis Hamilton HAM, McLaren Mercedes, 60, 1:37:30.334)
+	Race (Hungary, 31 Jul 2011, Jenson Button BUT, McLaren Mercedes, 70, 1:46:42.337)
+	Race (Belgium, 28 Aug 2011, Sebastian Vettel VET, Red Bull Racing Renault, 44, 1:26:44.893)
+	Race (Italy, 11 Sep 2011, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:20:46.172)
+	Race (Singapore, 25 Sep 2011, Sebastian Vettel VET, Red Bull Racing Renault, 61, 1:59:06.757)
+	Race (Japan, 09 Oct 2011, Jenson Button BUT, McLaren Mercedes, 53, 1:30:53.427)
+	Race (South Korea, 16 Oct 2011, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:38:01.994)
+	Race (India, 30 Oct 2011, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:30:35.002)
+	Race (Abu Dhabi, 13 Nov 2011, Lewis Hamilton HAM, McLaren Mercedes, 55, 1:37:11.886)
+	Race (Brazil, 27 Nov 2011, Mark Webber WEB, Red Bull Racing Renault, 71, 1:32:17.464)
+Season of 2012:
+	Race (Australia, 18 Mar 2012, Jenson Button BUT, McLaren Mercedes, 58, 1:34:09.565)
+	Race (Malaysia, 25 Mar 2012, Fernando Alonso ALO, Ferrari, 56, 2:44:51.812)
+	Race (China, 15 Apr 2012, Nico Rosberg ROS, Mercedes, 56, 1:36:26.929)
+	Race (Bahrain, 22 Apr 2012, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:35:10.990)
+	Race (Spain, 13 May 2012, Pastor Maldonado MAL, Williams Renault, 66, 1:39:09.145)
+	Race (Monaco, 27 May 2012, Mark Webber WEB, Red Bull Racing Renault, 78, 1:46:06.557)
+	Race (Canada, 10 Jun 2012, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:32:29.586)
+	Race (Europe, 24 Jun 2012, Fernando Alonso ALO, Ferrari, 57, 1:44:16.649)
+	Race (Great Britain, 08 Jul 2012, Mark Webber WEB, Red Bull Racing Renault, 52, 1:25:11.288)
+	Race (Germany, 22 Jul 2012, Fernando Alonso ALO, Ferrari, 67, 1:31:05.862)
+	Race (Hungary, 29 Jul 2012, Lewis Hamilton HAM, McLaren Mercedes, 69, 1:41:05.503)
+	Race (Belgium, 02 Sep 2012, Jenson Button BUT, McLaren Mercedes, 44, 1:29:08.530)
+	Race (Italy, 09 Sep 2012, Lewis Hamilton HAM, McLaren Mercedes, 53, 1:19:41.221)
+	Race (Singapore, 23 Sep 2012, Sebastian Vettel VET, Red Bull Racing Renault, 59, 2:00:26.144)
+	Race (Japan, 07 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:28:56.242)
+	Race (South Korea, 14 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:36:28.651)
+	Race (India, 28 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:31:10.744)
+	Race (Abu Dhabi, 04 Nov 2012, Kimi Räikkönen RAI, Lotus Renault, 55, 1:45:58.667)
+	Race (United States, 18 Nov 2012, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:35:55.269)
+	Race (Brazil, 25 Nov 2012, Jenson Button BUT, McLaren Mercedes, 71, 1:45:22.656)
+Season of 2013:
+	Race (Australia, 17 Mar 2013, Kimi Räikkönen RAI, Lotus Renault, 58, 1:30:03.225)
+	Race (Malaysia, 24 Mar 2013, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:38:56.681)
+	Race (China, 14 Apr 2013, Fernando Alonso ALO, Ferrari, 56, 1:36:26.945)
+	Race (Bahrain, 21 Apr 2013, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:36:00.498)
+	Race (Spain, 12 May 2013, Fernando Alonso ALO, Ferrari, 66, 1:39:16.596)
+	Race (Monaco, 26 May 2013, Nico Rosberg ROS, Mercedes, 78, 2:17:52.056)
+	Race (Canada, 09 Jun 2013, Sebastian Vettel VET, Red Bull Racing Renault, 70, 1:32:09.143)
+	Race (Great Britain, 30 Jun 2013, Nico Rosberg ROS, Mercedes, 52, 1:32:59.456)
+	Race (Germany, 07 Jul 2013, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:41:14.711)
+	Race (Hungary, 28 Jul 2013, Lewis Hamilton HAM, Mercedes, 70, 1:42:29.445)
+	Race (Belgium, 25 Aug 2013, Sebastian Vettel VET, Red Bull Racing Renault, 44, 1:23:42.196)
+	Race (Italy, 08 Sep 2013, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:18:33.352)
+	Race (Singapore, 22 Sep 2013, Sebastian Vettel VET, Red Bull Racing Renault, 61, 1:59:13.132)
+	Race (South Korea, 06 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:43:13.701)
+	Race (Japan, 13 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:26:49.301)
+	Race (India, 27 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:31:12.187)
+	Race (Abu Dhabi, 03 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:38:06.106)
+	Race (United States, 17 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:39:17.148)
+	Race (Brazil, 24 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 71, 1:32:36.300)
+Season of 2014:
+	Race (Australia, 16 Mar 2014, Nico Rosberg ROS, Mercedes, 57, 1:32:58.710)
+	Race (Malaysia, 30 Mar 2014, Lewis Hamilton HAM, Mercedes, 56, 1:40:25.974)
+	Race (Bahrain, 06 Apr 2014, Lewis Hamilton HAM, Mercedes, 57, 1:39:42.743)
+	Race (China, 20 Apr 2014, Lewis Hamilton HAM, Mercedes, 54, 1:33:28.338)
+	Race (Spain, 11 May 2014, Lewis Hamilton HAM, Mercedes, 66, 1:41:05.155)
+	Race (Monaco, 25 May 2014, Nico Rosberg ROS, Mercedes, 78, 1:49:27.661)
+	Race (Canada, 08 Jun 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 70, 1:39:12.830)
+	Race (Austria, 22 Jun 2014, Nico Rosberg ROS, Mercedes, 71, 1:27:54.976)
+	Race (Great Britain, 06 Jul 2014, Lewis Hamilton HAM, Mercedes, 52, 2:26:52.094)
+	Race (Germany, 20 Jul 2014, Nico Rosberg ROS, Mercedes, 67, 1:33:42.914)
+	Race (Hungary, 27 Jul 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 70, 1:53:05.058)
+	Race (Belgium, 24 Aug 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 44, 1:24:36.556)
+	Race (Italy, 07 Sep 2014, Lewis Hamilton HAM, Mercedes, 53, 1:19:10.236)
+	Race (Singapore, 21 Sep 2014, Lewis Hamilton HAM, Mercedes, 60, 2:00:04.795)
+	Race (Japan, 05 Oct 2014, Lewis Hamilton HAM, Mercedes, 44, 1:51:43.021)
+	Race (Russia, 21 Oct 2014, Lewis Hamilton HAM, Mercedes, 53, 1:31:50.744)
+	Race (United States, 02 Nov 2014, Lewis Hamilton HAM, Mercedes, 56, 1:40:04.785)
+	Race (Brazil, 09 Nov 2014, Nico Rosberg ROS, Mercedes, 71, 1:30:02.555)
+	Race (Abu Dhabi, 23 Nov 2014, Lewis Hamilton HAM, Mercedes, 55, 1:39:02.619)
+Season of 2015:
+	Race (Australia, 15 Mar 2015, Lewis Hamilton HAM, Mercedes, 58, 1:31:54.067)
+	Race (Malaysia, 29 Mar 2015, Sebastian Vettel VET, Ferrari, 56, 1:41:05.793)
+	Race (China, 12 Apr 2015, Lewis Hamilton HAM, Mercedes, 56, 1:39:42.008)
+	Race (Bahrain, 19 Apr 2015, Lewis Hamilton HAM, Mercedes, 57, 1:35:05.809)
+	Race (Spain, 10 May 2015, Nico Rosberg ROS, Mercedes, 66, 1:41:12.555)
+	Race (Monaco, 24 May 2015, Nico Rosberg ROS, Mercedes, 78, 1:49:18.420)
+	Race (Canada, 07 Jun 2015, Lewis Hamilton HAM, Mercedes, 70, 1:31:53.145)
+	Race (Austria, 21 Jun 2015, Nico Rosberg ROS, Mercedes, 71, 1:30:16.930)
+	Race (Great Britain, 05 Jul 2015, Lewis Hamilton HAM, Mercedes, 52, 1:31:27.729)
+	Race (Hungary, 26 Jul 2015, Sebastian Vettel VET, Ferrari, 69, 1:46:09.985)
+	Race (Belgium, 23 Aug 2015, Lewis Hamilton HAM, Mercedes, 43, 1:23:40.387)
+	Race (Italy, 06 Sep 2015, Lewis Hamilton HAM, Mercedes, 53, 1:18:00.688)
+	Race (Singapore, 20 Sep 2015, Sebastian Vettel VET, Ferrari, 61, 2:01:22.118)
+	Race (Japan, 27 Sep 2015, Lewis Hamilton HAM, Mercedes, 53, 1:28:06.508)
+	Race (Russia, 11 Oct 2015, Lewis Hamilton HAM, Mercedes, 53, 1:37:11.024)
+	Race (United States, 25 Oct 2015, Lewis Hamilton HAM, Mercedes, 56, 1:50:52.703)
+	Race (Mexico, 01 Nov 2015, Nico Rosberg ROS, Mercedes, 71, 1:42:35.038)
+	Race (Brazil, 15 Nov 2015, Nico Rosberg ROS, Mercedes, 71, 1:31:09.090)
+	Race (Abu Dhabi, 29 Nov 2015, Nico Rosberg ROS, Mercedes, 55, 1:38:30.175)
+Season of 2016:
+	Race (Australia, 20 Mar 2016, Nico Rosberg ROS, Mercedes, 57, 1:48:15.565)
+	Race (Bahrain, 03 Apr 2016, Nico Rosberg ROS, Mercedes, 57, 1:33:34.696)
+	Race (China, 17 Apr 2016, Nico Rosberg ROS, Mercedes, 56, 1:38:53.891)
+	Race (Russia, 01 May 2016, Nico Rosberg ROS, Mercedes, 53, 1:32:41.997)
+	Race (Spain, 15 May 2016, Max Verstappen VES, Red Bull Racing TAG Heuer, 66, 1:41:40.017)
+	Race (Monaco, 29 May 2016, Lewis Hamilton HAM, Mercedes, 78, 1:59:29.133)
+	Race (Canada, 12 Jun 2016, Lewis Hamilton HAM, Mercedes, 70, 1:31:05.296)
+	Race (Europe, 19 Jun 2016, Nico Rosberg ROS, Mercedes, 51, 1:32:52.366)
+	Race (Austria, 03 Jul 2016, Lewis Hamilton HAM, Mercedes, 71, 1:27:38.107)
+	Race (Great Britain, 10 Jul 2016, Lewis Hamilton HAM, Mercedes, 52, 1:34:55.831)
+	Race (Hungary, 24 Jul 2016, Lewis Hamilton HAM, Mercedes, 70, 1:40:30.115)
+	Race (Germany, 31 Jul 2016, Lewis Hamilton HAM, Mercedes, 67, 1:30:44.200)
+	Race (Belgium, 28 Aug 2016, Nico Rosberg ROS, Mercedes, 44, 1:44:51.058)
+	Race (Italy, 04 Sep 2016, Nico Rosberg ROS, Mercedes, 53, 1:17:28.089)
+	Race (Singapore, 18 Sep 2016, Nico Rosberg ROS, Mercedes, 61, 1:55:48.950)
+	Race (Malaysia, 02 Oct 2016, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 56, 1:37:12.776)
+	Race (Japan, 09 Oct 2016, Nico Rosberg ROS, Mercedes, 53, 1:26:43.333)
+	Race (United States, 23 Oct 2016, Lewis Hamilton HAM, Mercedes, 56, 1:38:12.618)
+	Race (Mexico, 30 Oct 2016, Lewis Hamilton HAM, Mercedes, 71, 1:40:31.402)
+	Race (Brazil, 13 Nov 2016, Lewis Hamilton HAM, Mercedes, 71, 3:01:01.335)
+	Race (Abu Dhabi, 27 Nov 2016, Lewis Hamilton HAM, Mercedes, 55, 1:38:04.013)
+Season of 2017:
+	Race (Australia, 26 Mar 2017, Sebastian Vettel VET, Ferrari, 57, 1:24:11.672)
+	Race (China, 09 Apr 2017, Lewis Hamilton HAM, Mercedes, 56, 1:37:36.158)
+	Race (Bahrain, 16 Apr 2017, Sebastian Vettel VET, Ferrari, 57, 1:33:53.374)
+	Race (Russia, 30 Apr 2017, Valtteri Bottas BOT, Mercedes, 52, 1:28:08.743)
+	Race (Spain, 14 May 2017, Lewis Hamilton HAM, Mercedes, 66, 1:35:56.497)
+	Race (Monaco, 28 May 2017, Sebastian Vettel VET, Ferrari, 78, 1:44:44.340)
+	Race (Canada, 11 Jun 2017, Lewis Hamilton HAM, Mercedes, 70, 1:33:05.154)
+	Race (Azerbaijan, 25 Jun 2017, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 51, 2:03:55.573)
+	Race (Austria, 09 Jul 2017, Valtteri Bottas BOT, Mercedes, 71, 1:21:48.523)
+	Race (Great Britain, 16 Jul 2017, Lewis Hamilton HAM, Mercedes, 51, 1:21:27.430)
+	Race (Hungary, 30 Jul 2017, Sebastian Vettel VET, Ferrari, 70, 1:39:46.713)
+	Race (Belgium, 27 Aug 2017, Lewis Hamilton HAM, Mercedes, 44, 1:24:42.820)
+	Race (Italy, 03 Sep 2017, Lewis Hamilton HAM, Mercedes, 53, 1:15:32.312)
+	Race (Singapore, 17 Sep 2017, Lewis Hamilton HAM, Mercedes, 58, 2:03:23.544)
+	Race (Malaysia, 01 Oct 2017, Max Verstappen VER, Red Bull Racing TAG Heuer, 56, 1:30:01.290)
+	Race (Japan, 08 Oct 2017, Lewis Hamilton HAM, Mercedes, 53, 1:27:31.194)
+	Race (United States, 22 Oct 2017, Lewis Hamilton HAM, Mercedes, 56, 1:33:50.991)
+	Race (Mexico, 29 Oct 2017, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:36:26.552)
+	Race (Brazil, 12 Nov 2017, Sebastian Vettel VET, Ferrari, 71, 1:31:26.262)
+	Race (Abu Dhabi, 26 Nov 2017, Valtteri Bottas BOT, Mercedes, 55, 1:34:14.062)
+Season of 2018:
+	Race (Australia, 25 Mar 2018, Sebastian Vettel VET, Ferrari, 58, 1:29:33.283)
+	Race (Bahrain, 08 Apr 2018, Sebastian Vettel VET, Ferrari, 57, 1:32:01.940)
+	Race (China, 15 Apr 2018, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 56, 1:35:36.380)
+	Race (Azerbaijan, 29 Apr 2018, Lewis Hamilton HAM, Mercedes, 51, 1:43:44.291)
+	Race (Spain, 13 May 2018, Lewis Hamilton HAM, Mercedes, 66, 1:35:29.972)
+	Race (Monaco, 27 May 2018, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 78, 1:42:54.807)
+	Race (Canada, 10 Jun 2018, Sebastian Vettel VET, Ferrari, 68, 1:28:31.377)
+	Race (France, 24 Jun 2018, Lewis Hamilton HAM, Mercedes, 53, 1:30:11.385)
+	Race (Austria, 01 Jul 2018, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:21:56.024)
+	Race (Great Britain, 08 Jul 2018, Sebastian Vettel VET, Ferrari, 52, 1:27:29.784)
+	Race (Germany, 22 Jul 2018, Lewis Hamilton HAM, Mercedes, 67, 1:32:29.845)
+	Race (Hungary, 29 Jul 2018, Lewis Hamilton HAM, Mercedes, 70, 1:37:16.427)
+	Race (Belgium, 26 Aug 2018, Sebastian Vettel VET, Ferrari, 44, 1:23:34.476)
+	Race (Italy, 02 Sep 2018, Lewis Hamilton HAM, Mercedes, 53, 1:16:54.484)
+	Race (Singapore, 16 Sep 2018, Lewis Hamilton HAM, Mercedes, 61, 1:51:11.611)
+	Race (Russia, 30 Sep 2018, Lewis Hamilton HAM, Mercedes, 53, 1:27:25.181)
+	Race (Japan, 07 Oct 2018, Lewis Hamilton HAM, Mercedes, 53, 1:27:17.062)
+	Race (United States, 21 Oct 2018, Kimi Räikkönen RAI, Ferrari, 56, 1:34:18.643)
+	Race (Mexico, 28 Oct 2018, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:38:28.851)
+	Race (Brazil, 11 Nov 2018, Lewis Hamilton HAM, Mercedes, 71, 1:27:09.066)
+	Race (Abu Dhabi, 25 Nov 2018, Lewis Hamilton HAM, Mercedes, 55, 1:39:40.382)
+Season of 2019:
+	Race (Australia, 17 Mar 2019, Valtteri Bottas BOT, Mercedes, 58, 1:25:27.325)
+	Race (Bahrain, 31 Mar 2019, Lewis Hamilton HAM, Mercedes, 57, 1:34:21.295)
+	Race (China, 14 Apr 2019, Lewis Hamilton HAM, Mercedes, 56, 1:32:06.350)
+	Race (Azerbaijan, 28 Apr 2019, Valtteri Bottas BOT, Mercedes, 51, 1:31:52.942)
+	Race (Spain, 12 May 2019, Lewis Hamilton HAM, Mercedes, 66, 1:35:50.443)
+	Race (Monaco, 26 May 2019, Lewis Hamilton HAM, Mercedes, 78, 1:43:28.437)
+	Race (Canada, 09 Jun 2019, Lewis Hamilton HAM, Mercedes, 70, 1:29:07.084)
+	Race (France, 23 Jun 2019, Lewis Hamilton HAM, Mercedes, 53, 1:24:31.198)
+	Race (Austria, 30 Jun 2019, Max Verstappen VER, Red Bull Racing Honda, 71, 1:22:01.822)
+	Race (Great Britain, 14 Jul 2019, Lewis Hamilton HAM, Mercedes, 52, 1:21:08.452)
+	Race (Germany, 28 Jul 2019, Max Verstappen VER, Red Bull Racing Honda, 64, 1:44:31.275)
+	Race (Hungary, 04 Aug 2019, Lewis Hamilton HAM, Mercedes, 70, 1:35:03.796)
+	Race (Belgium, 01 Sep 2019, Charles Leclerc LEC, Ferrari, 44, 1:23:45.710)
+	Race (Italy, 08 Sep 2019, Charles Leclerc LEC, Ferrari, 53, 1:15:26.665)
+	Race (Singapore, 22 Sep 2019, Sebastian Vettel VET, Ferrari, 61, 1:58:33.667)
+	Race (Russia, 29 Sep 2019, Lewis Hamilton HAM, Mercedes, 53, 1:33:38.992)
+	Race (Japan, 13 Oct 2019, Valtteri Bottas BOT, Mercedes, 52, 1:21:46.755)
+	Race (Mexico, 27 Oct 2019, Lewis Hamilton HAM, Mercedes, 71, 1:36:48.904)
+	Race (United States, 03 Nov 2019, Valtteri Bottas BOT, Mercedes, 56, 1:33:55.653)
+	Race (Brazil, 17 Nov 2019, Max Verstappen VER, Red Bull Racing Honda, 71, 1:33:14.678)
+	Race (Abu Dhabi, 01 Dec 2019, Lewis Hamilton HAM, Mercedes, 55, 1:34:05.715)
+Season of 2020:
+	Race (Austria, 05 Jul 2020, Valtteri Bottas BOT, Mercedes, 71, 1:30:55.739)
+	Race (Styria, 12 Jul 2020, Lewis Hamilton HAM, Mercedes, 71, 1:22:50.683)
+	Race (Hungary, 19 Jul 2020, Lewis Hamilton HAM, Mercedes, 70, 1:36:12.473)
+	Race (Great Britain, 02 Aug 2020, Lewis Hamilton HAM, Mercedes, 52, 1:28:01.283)
+	Race (70th Anniversary, 09 Aug 2020, Max Verstappen VER, Red Bull Racing Honda, 52, 1:19:41.993)
+	Race (Spain, 16 Aug 2020, Lewis Hamilton HAM, Mercedes, 66, 1:31:45.279)
+	Race (Belgium, 30 Aug 2020, Lewis Hamilton HAM, Mercedes, 44, 1:24:08.761)
+	Race (Italy, 06 Sep 2020, Pierre Gasly GAS, AlphaTauri Honda, 53, 1:47:06.056)
+	Race (Tuscany, 13 Sep 2020, Lewis Hamilton HAM, Mercedes, 59, 2:19:35.060)
+	Race (Russia, 27 Sep 2020, Valtteri Bottas BOT, Mercedes, 53, 1:34:00.364)
+	Race (Eifel, 11 Oct 2020, Lewis Hamilton HAM, Mercedes, 60, 1:35:49.641)
+	Race (Portugal, 25 Oct 2020, Lewis Hamilton HAM, Mercedes, 66, 1:29:56.828)
+	Race (Emilia Romagna, 01 Nov 2020, Lewis Hamilton HAM, Mercedes, 63, 1:28:32.430)
+	Race (Turkey, 15 Nov 2020, Lewis Hamilton HAM, Mercedes, 58, 1:42:19.313)
+
+
+ORDERED BY LONGEST RACES
+
+1 :: Race (0, 0, 0, 0, 0, 0)
+2 :: Race (0, 0, 0, 0, 0, 0)
+3 :: Race (0, 0, 0, 0, 0, 0)
+4 :: Race (Australia, 03 Nov 1991, Ayrton Senna SEN, McLaren Honda, 14, 24:34.899)
+5 :: Race (Spain, 27 Apr 1975, Jochen Mass MAS, McLaren Ford, 29, 42:53.700)
+6 :: Race (Malaysia, 05 Apr 2009, Jenson Button BUT, Brawn Mercedes, 31, 55:30.622)
+7 :: Race (Austria, 17 Aug 1975, Vittorio Brambilla BRA, March Ford, 29, 57:56.690)
+8 :: Race (Monaco, 03 Jun 1984, Alain Prost PRO, McLaren TAG, 31, 1:01:07.740)
+9 :: Race (Italy, 10 Sep 1978, Niki Lauda LAU, Brabham Alfa Romeo, 40, 1:07:04.540)
+10 :: Race (Belgium, 02 Sep 2001, Michael Schumacher MSC, Ferrari, 36, 1:08:05.002)
+11 :: Race (Italy, 14 Sep 2003, Michael Schumacher MSC, Ferrari, 53, 1:14:19.838)
+12 :: Race (Italy, 04 Sep 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 53, 1:14:28.659)
+13 :: Race (Italy, 06 Sep 1987, Nelson Piquet PIQ, Williams Honda, 50, 1:14:47.707)
+14 :: Race (Italy, 10 Sep 2006, Michael Schumacher MSC, Ferrari, 53, 1:14:51.975)
+15 :: Race (Italy, 12 Sep 2004, Rubens Barrichello BAR, Ferrari, 53, 1:15:18.448)
+16 :: Race (Italy, 08 Sep 2019, Charles Leclerc LEC, Ferrari, 53, 1:15:26.665)
+17 :: Race (Italy, 03 Sep 2017, Lewis Hamilton HAM, Mercedes, 53, 1:15:32.312)
+18 :: Race (Italy, 15 Sep 2002, Rubens Barrichello BAR, Ferrari, 53, 1:16:19.982)
+19 :: Race (Italy, 13 Sep 2009, Rubens Barrichello BAR, Brawn Mercedes, 53, 1:16:21.706)
+20 :: Race (Italy, 12 Sep 2010, Fernando Alonso ALO, Ferrari, 53, 1:16:24.572)
+21 :: Race (Belgium, 17 May 1981, Carlos Reutemann REU, Williams Ford, 54, 1:16:31.610)
+22 :: Race (Italy, 02 Sep 2018, Lewis Hamilton HAM, Mercedes, 53, 1:16:54.484)
+23 :: Race (Italy, 16 Sep 2001, Juan Pablo Montoya MOY, Williams BMW, 53, 1:16:58.493)
+24 :: Race (Italy, 12 Sep 1999, Heinz-Harald Frentzen FRE, Jordan Mugen Honda, 53, 1:17:02.923)
+25 :: Race (Italy, 07 Sep 1997, David Coulthard COU, McLaren Mercedes, 53, 1:17:04.609)
+26 :: Race (Italy, 12 Sep 1993, Damon Hill HIL, Williams Renault, 53, 1:17:07.509)
+27 :: Race (Italy, 13 Sep 1998, Michael Schumacher MSC, Ferrari, 53, 1:17:09.672)
+28 :: Race (Italy, 04 Sep 2016, Nico Rosberg ROS, Mercedes, 53, 1:17:28.089)
+29 :: Race (Italy, 11 Sep 1988, Gerhard Berger BER, Ferrari, 51, 1:17:39.744)
+30 :: Race (Canada, 15 Jun 1997, Michael Schumacher MSC, Ferrari, 54, 1:17:40.646)
+31 :: Race (Italy, 07 Sep 1986, Nelson Piquet PIQ, Williams Honda, 51, 1:17:42.889)
+32 :: Race (Italy, 08 Sep 1996, Michael Schumacher MSC, Ferrari, 53, 1:17:43.632)
+33 :: Race (Italy, 08 Sep 1991, Nigel Mansell MAN, Williams Renault, 53, 1:17:54.319)
+34 :: Race (Italy, 09 Sep 1990, Ayrton Senna SEN, McLaren Honda, 53, 1:17:57.878)
+35 :: Race (Italy, 08 Sep 1985, Alain Prost PRO, McLaren TAG, 51, 1:17:59.451)
+36 :: Race (Italy, 06 Sep 2015, Lewis Hamilton HAM, Mercedes, 53, 1:18:00.688)
+37 :: Race (Italy, 11 Sep 1994, Damon Hill HIL, Williams Renault, 53, 1:18:02.754)
+38 :: Race (Great Britain, 21 Jul 1985, Alain Prost PRO, McLaren TAG, 65, 1:18:10.436)
+39 :: Race (Italy, 05 Sep 1971, Peter Gethin GET, BRM, 55, 1:18:12.600)
+40 :: Race (Italy, 13 Sep 1992, Ayrton Senna SEN, McLaren Honda, 53, 1:18:15.349)
+41 :: Race (Germany, 29 Jul 2001, Ralf Schumacher RSC, Williams BMW, 45, 1:18:17.873)
+42 :: Race (Germany, 26 Jul 1992, Nigel Mansell MAN, Williams Renault, 45, 1:18:22.032)
+43 :: Race (Italy, 10 Sep 1995, Johnny Herbert HER, Benetton Renault, 53, 1:18:27.916)
+44 :: Race (Great Britain, 15 Jul 1990, Alain Prost PRO, Ferrari, 64, 1:18:30.999)
+45 :: Race (Italy, 08 Sep 2013, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:18:33.352)
+46 :: Race (Italy, 09 Sep 2007, Fernando Alonso ALO, McLaren Mercedes, 53, 1:18:37.806)
+47 :: Race (Germany, 25 Jul 1993, Alain Prost PRO, Williams Renault, 45, 1:18:40.885)
+48 :: Race (Austria, 16 Aug 1987, Nigel Mansell MAN, Williams Honda, 52, 1:18:44.898)
+49 :: Race (Italy, 07 Sep 2014, Lewis Hamilton HAM, Mercedes, 53, 1:19:10.236)
+50 :: Race (Great Britain, 12 Jul 1987, Nigel Mansell MAN, Williams Honda, 65, 1:19:11.780)
+51 :: Race (Great Britain, 16 Jul 1989, Alain Prost PRO, McLaren Honda, 64, 1:19:22.131)
+52 :: Race (Italy, 10 Sep 1989, Alain Prost PRO, McLaren Honda, 53, 1:19:27.550)
+53 :: Race (Germany, 28 Jul 1991, Nigel Mansell MAN, Williams Renault, 45, 1:19:29.661)
+54 :: Race (Italy, 09 Sep 2012, Lewis Hamilton HAM, McLaren Mercedes, 53, 1:19:41.221)
+55 :: Race (70th Anniversary, 09 Aug 2020, Max Verstappen VER, Red Bull Racing Honda, 52, 1:19:41.993)
+56 :: Race (Austria, 18 Aug 1985, Alain Prost PRO, McLaren TAG, 52, 1:20:12.583)
+57 :: Race (Italy, 09 Sep 1984, Niki Lauda LAU, McLaren TAG, 51, 1:20:29.065)
+58 :: Race (Belgium, 16 Sep 2007, Kimi Räikkönen RAI, Ferrari, 44, 1:20:39.066)
+59 :: Race (Italy, 11 Sep 2011, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:20:46.172)
+60 :: Race (Germany, 29 Jul 1990, Ayrton Senna SEN, McLaren Honda, 45, 1:20:47.164)
+61 :: Race (Germany, 02 Aug 1998, Mika Hakkinen HAK, McLaren Mercedes, 45, 1:20:47.984)
+62 :: Race (Germany, 27 Jul 1997, Gerhard Berger BER, Benetton Renault, 45, 1:20:59.046)
+63 :: Race (Great Britain, 14 Jul 2019, Lewis Hamilton HAM, Mercedes, 52, 1:21:08.452)
+64 :: Race (Austria, 19 Aug 1984, Niki Lauda LAU, McLaren TAG, 51, 1:21:12.851)
+65 :: Race (Belgium, 01 Sep 2002, Michael Schumacher MSC, Ferrari, 44, 1:21:20.634)
+66 :: Race (Austria, 17 Aug 1986, Alain Prost PRO, McLaren TAG, 52, 1:21:22.531)
+67 :: Race (Germany, 26 Jul 1987, Nelson Piquet PIQ, Williams Honda, 44, 1:21:25.091)
+68 :: Race (Great Britain, 16 Jul 2017, Lewis Hamilton HAM, Mercedes, 51, 1:21:27.430)
+69 :: Race (Great Britain, 08 Jul 2007, Kimi Räikkönen RAI, Ferrari, 59, 1:21:43.074)
+70 :: Race (Germany, 30 Jul 1989, Ayrton Senna SEN, McLaren Honda, 45, 1:21:43.302)
+71 :: Race (Germany, 28 Jul 1996, Damon Hill HIL, Williams Renault, 45, 1:21:43.417)
+72 :: Race (Japan, 13 Oct 2019, Valtteri Bottas BOT, Mercedes, 52, 1:21:46.755)
+73 :: Race (Austria, 09 Jul 2017, Valtteri Bottas BOT, Mercedes, 71, 1:21:48.523)
+74 :: Race (France, 07 Jul 1974, Ronnie Peterson PET, Lotus Ford, 80, 1:21:55.020)
+75 :: Race (Austria, 01 Jul 2018, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:21:56.024)
+76 :: Race (Germany, 01 Aug 1999, Eddie Irvine IRV, Ferrari, 45, 1:21:58.594)
+77 :: Race (Italy, 09 Sep 1979, Jody Scheckter SCH, Ferrari, 50, 1:22:00.220)
+78 :: Race (Austria, 30 Jun 2019, Max Verstappen VER, Red Bull Racing Honda, 71, 1:22:01.822)
+79 :: Race (Great Britain, 19 Jul 1975, Emerson Fittipaldi FIT, McLaren Ford, 56, 1:22:05.000)
+80 :: Race (Germany, 27 Jul 1986, Nelson Piquet PIQ, Williams Honda, 44, 1:22:08.263)
+81 :: Race (Portugal, 23 Sep 1990, Nigel Mansell MAN, Ferrari, 61, 1:22:11.014)
+82 :: Race (Italy, 12 Sep 1982, Rene Arnoux ARN, Renault, 52, 1:22:25.734)
+83 :: Race (Germany, 31 Jul 1994, Gerhard Berger BER, Ferrari, 45, 1:22:37.272)
+84 :: Race (Italy, 07 Sep 1975, Clay Regazzoni REG, Ferrari, 52, 1:22:42.600)
+85 :: Race (Great Britain, 21 Jun 2009, Sebastian Vettel VET, RBR Renault, 60, 1:22:49.328)
+86 :: Race (Styria, 12 Jul 2020, Lewis Hamilton HAM, Mercedes, 71, 1:22:50.683)
+87 :: Race (Germany, 30 Jul 1995, Michael Schumacher MSC, Benetton Renault, 45, 1:22:56.043)
+88 :: Race (Italy, 08 Sep 1974, Ronnie Peterson PET, Lotus Ford, 52, 1:22:56.600)
+89 :: Race (Belgium, 07 Sep 2008, Felipe Massa MAS, Ferrari, 44, 1:22:59.394)
+90 :: Race (Germany, 10 Aug 1980, Jacques Laffite LAF, Ligier Ford, 45, 1:22:59.730)
+91 :: Race (Italy, 11 Sep 1983, Nelson Piquet PIQ, Brabham BMW, 52, 1:23:10.880)
+92 :: Race (Belgium, 26 Aug 2018, Sebastian Vettel VET, Ferrari, 44, 1:23:34.476)
+93 :: Race (Belgium, 23 Aug 2015, Lewis Hamilton HAM, Mercedes, 43, 1:23:40.387)
+94 :: Race (Belgium, 25 Aug 2013, Sebastian Vettel VET, Red Bull Racing Renault, 44, 1:23:42.196)
+95 :: Race (Belgium, 01 Sep 2019, Charles Leclerc LEC, Ferrari, 44, 1:23:45.710)
+96 :: Race (Belgium, 30 Aug 2009, Kimi Räikkönen RAI, Ferrari, 44, 1:23:50.995)
+97 :: Race (Japan, 08 Oct 2006, Fernando Alonso ALO, Renault, 53, 1:23:53.413)
+98 :: Race (Germany, 25 Jul 2004, Michael Schumacher MSC, Ferrari, 66, 1:23:54.848)
+99 :: Race (Austria, 18 May 2003, Michael Schumacher MSC, Ferrari, 69, 1:24:04.888)
+100 :: Race (Belgium, 30 Aug 2020, Lewis Hamilton HAM, Mercedes, 44, 1:24:08.761)
+101 :: Race (Australia, 26 Mar 2017, Sebastian Vettel VET, Ferrari, 57, 1:24:11.672)
+102 :: Race (Australia, 07 Mar 2004, Michael Schumacher MSC, Ferrari, 58, 1:24:15.757)
+103 :: Race (Australia, 06 Mar 2005, Giancarlo Fisichella FIS, Renault, 57, 1:24:17.336)
+104 :: Race (Japan, 10 Oct 2004, Michael Schumacher MSC, Ferrari, 53, 1:24:26.985)
+105 :: Race (Great Britain, 10 Jul 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 60, 1:24:29.588)
+106 :: Race (France, 23 Jun 2019, Lewis Hamilton HAM, Mercedes, 53, 1:24:31.198)
+107 :: Race (Belgium, 29 Aug 1993, Damon Hill HIL, Williams Renault, 44, 1:24:32.124)
+108 :: Race (Austria, 14 Aug 1983, Alain Prost PRO, Renault, 53, 1:24:32.745)
+109 :: Race (Turkey, 21 Aug 2005, Kimi Räikkönen RAI, McLaren Mercedes, 58, 1:24:34.454)
+110 :: Race (Belgium, 24 Aug 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 44, 1:24:36.556)
+111 :: Race (Brazil, 27 Jan 1974, Emerson Fittipaldi FIT, McLaren Ford, 32, 1:24:37.060)
+112 :: Race (Great Britain, 11 Jul 2010, Mark Webber WEB, RBR Renault, 52, 1:24:38.200)
+113 :: Race (Great Britain, 16 Jul 1983, Alain Prost PRO, Renault, 67, 1:24:39.780)
+114 :: Race (Great Britain, 11 Jul 2004, Michael Schumacher MSC, Ferrari, 60, 1:24:42.700)
+115 :: Race (Belgium, 27 Aug 2017, Lewis Hamilton HAM, Mercedes, 44, 1:24:42.820)
+116 :: Race (Germany, 05 Aug 1984, Alain Prost PRO, McLaren TAG, 44, 1:24:43.210)
+117 :: Race (Germany, 29 Jul 1979, Alan Jones JON, Williams Ford, 45, 1:24:48.830)
+118 :: Race (Austria, 15 Aug 1982, Elio de Angelis DEA, Lotus Ford, 53, 1:25:02.212)
+119 :: Race (Great Britain, 08 Jul 2012, Mark Webber WEB, Red Bull Racing Renault, 52, 1:25:11.288)
+120 :: Race (Japan, 12 Oct 2003, Rubens Barrichello BAR, Ferrari, 53, 1:25:11.743)
+121 :: Race (Australia, 17 Mar 2019, Valtteri Bottas BOT, Mercedes, 58, 1:25:27.325)
+122 :: Race (Australia, 18 Mar 2007, Kimi Räikkönen RAI, Ferrari, 58, 1:25:28.770)
+123 :: Race (Great Britain, 15 Jul 2001, Mika Hakkinen HAK, McLaren Mercedes, 60, 1:25:33.770)
+124 :: Race (Germany, 30 Jul 2000, Rubens Barrichello BAR, Ferrari, 45, 1:25:34.418)
+125 :: Race (Great Britain, 11 Jul 1993, Alain Prost PRO, Williams Renault, 59, 1:25:38.189)
+126 :: Race (Great Britain, 12 Jul 1992, Nigel Mansell MAN, Williams Renault, 59, 1:25:42.991)
+127 :: Race (Belgium, 29 Aug 1999, David Coulthard COU, McLaren Mercedes, 44, 1:25:43.057)
+128 :: Race (Great Britain, 11 Jun 2006, Fernando Alonso ALO, Renault, 60, 1:25:51.927)
+129 :: Race (Germany, 02 Aug 1981, Nelson Piquet PIQ, Brabham Ford, 45, 1:25:55.600)
+130 :: Race (Great Britain, 14 Jul 1979, Clay Regazzoni REG, Williams Ford, 68, 1:26:11.170)
+131 :: Race (Austria, 17 Aug 1980, Jean-Pierre Jabouille JAB, Renault, 54, 1:26:15.730)
+132 :: Race (San Marino, 25 Apr 2004, Michael Schumacher MSC, Ferrari, 62, 1:26:19.670)
+133 :: Race (Spain, 14 May 2006, Fernando Alonso ALO, Renault, 66, 1:26:21.759)
+134 :: Race (Mexico, 18 Oct 1987, Nigel Mansell MAN, Williams Honda, 63, 1:26:24.207)
+135 :: Race (Turkey, 07 Jun 2009, Jenson Button BUT, Brawn Mercedes, 58, 1:26:24.848)
+136 :: Race (Germany, 24 Jul 2005, Fernando Alonso ALO, Renault, 67, 1:26:28.599)
+137 :: Race (Belgium, 26 Aug 1990, Ayrton Senna SEN, McLaren Honda, 44, 1:26:31.997)
+138 :: Race (Italy, 13 Sep 1981, Alain Prost PRO, Renault, 52, 1:26:33.897)
+139 :: Race (Turkey, 26 Aug 2007, Felipe Massa MAS, Ferrari, 58, 1:26:42.161)
+140 :: Race (Japan, 09 Oct 2016, Nico Rosberg ROS, Mercedes, 53, 1:26:43.333)
+141 :: Race (Belgium, 28 Aug 2011, Sebastian Vettel VET, Red Bull Racing Renault, 44, 1:26:44.893)
+142 :: Race (Italy, 14 Sep 2008, Sebastian Vettel VET, STR Ferrari, 53, 1:26:47.494)
+143 :: Race (Japan, 13 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:26:49.301)
+144 :: Race (Turkey, 11 May 2008, Felipe Massa MAS, Ferrari, 58, 1:26:49.451)
+145 :: Race (San Marino, 23 Apr 1989, Ayrton Senna SEN, McLaren Honda, 58, 1:26:51.245)
+146 :: Race (Great Britain, 18 Jul 1981, John Watson WAT, McLaren Ford, 68, 1:26:54.800)
+147 :: Race (Japan, 13 Oct 2002, Michael Schumacher MSC, Ferrari, 53, 1:26:59.698)
+148 :: Race (Belgium, 17 May 1987, Alain Prost PRO, McLaren TAG, 43, 1:27:03.217)
+149 :: Race (Brazil, 11 Nov 2018, Lewis Hamilton HAM, Mercedes, 71, 1:27:09.066)
+150 :: Race (Germany, 07 Aug 1983, Rene Arnoux ARN, Ferrari, 45, 1:27:10.319)
+151 :: Race (Belgium, 22 May 1983, Alain Prost PRO, Renault, 40, 1:27:11.502)
+152 :: Race (Spain, 08 May 2005, Kimi Räikkönen RAI, McLaren Mercedes, 66, 1:27:16.830)
+153 :: Race (Japan, 07 Oct 2018, Lewis Hamilton HAM, Mercedes, 53, 1:27:17.062)
+154 :: Race (Belgium, 25 Aug 1991, Ayrton Senna SEN, McLaren Honda, 44, 1:27:17.669)
+155 :: Race (Japan, 01 Nov 1998, Mika Hakkinen HAK, McLaren Mercedes, 51, 1:27:22.535)
+156 :: Race (Germany, 08 Aug 1982, Patrick Tambay TAM, Ferrari, 45, 1:27:25.178)
+157 :: Race (Russia, 30 Sep 2018, Lewis Hamilton HAM, Mercedes, 53, 1:27:25.181)
+158 :: Race (Great Britain, 08 Jul 2018, Sebastian Vettel VET, Ferrari, 52, 1:27:29.784)
+159 :: Race (Japan, 08 Oct 2017, Lewis Hamilton HAM, Mercedes, 53, 1:27:31.194)
+160 :: Race (Italy, 10 Sep 2000, Michael Schumacher MSC, Ferrari, 53, 1:27:31.638)
+161 :: Race (Spain, 09 May 2004, Michael Schumacher MSC, Ferrari, 66, 1:27:32.841)
+162 :: Race (Japan, 14 Oct 2001, Michael Schumacher MSC, Ferrari, 53, 1:27:33.298)
+163 :: Race (Great Britain, 14 Jul 1991, Nigel Mansell MAN, Williams Renault, 59, 1:27:35.479)
+164 :: Race (Austria, 21 Sep 1997, Jacques Villeneuve VIL, Williams Renault, 71, 1:27:35.999)
+165 :: Race (Austria, 16 Aug 1981, Jacques Laffite LAF, Ligier Matra, 53, 1:27:36.470)
+166 :: Race (Austria, 12 Aug 1979, Alan Jones JON, Williams Ford, 54, 1:27:38.010)
+167 :: Race (Austria, 03 Jul 2016, Lewis Hamilton HAM, Mercedes, 71, 1:27:38.107)
+168 :: Race (Germany, 25 Jul 2010, Fernando Alonso ALO, Ferrari, 67, 1:27:38.864)
+169 :: Race (San Marino, 24 Apr 2005, Fernando Alonso ALO, Renault, 62, 1:27:41.921)
+170 :: Race (Austria, 13 May 2001, David Coulthard COU, McLaren Mercedes, 71, 1:27:45.927)
+171 :: Race (Italy, 11 Sep 1977, Mario Andretti AND, Lotus Ford, 52, 1:27:50.300)
+172 :: Race (Germany, 30 Jul 2006, Michael Schumacher MSC, Ferrari, 67, 1:27:51.693)
+173 :: Race (Germany, 28 Jul 2002, Michael Schumacher MSC, Ferrari, 67, 1:27:52.078)
+174 :: Race (Austria, 22 Jun 2014, Nico Rosberg ROS, Mercedes, 71, 1:27:54.976)
+175 :: Race (Belgium, 25 May 1986, Nigel Mansell MAN, Williams Honda, 43, 1:27:57.925)
+176 :: Race (Belgium, 28 Aug 1988, Ayrton Senna SEN, McLaren Honda, 43, 1:28:00.549)
+177 :: Race (Germany, 30 Jul 1978, Mario Andretti AND, Lotus Ford, 45, 1:28:00.900)
+178 :: Race (Great Britain, 02 Aug 2020, Lewis Hamilton HAM, Mercedes, 52, 1:28:01.283)
+179 :: Race (Brazil, 24 Oct 2004, Juan Pablo Montoya MOY, Williams BMW, 71, 1:28:01.451)
+180 :: Race (Great Britain, 13 Jul 1997, Jacques Villeneuve VIL, Williams Renault, 59, 1:28:01.665)
+181 :: Race (Japan, 27 Sep 2015, Lewis Hamilton HAM, Mercedes, 53, 1:28:06.508)
+182 :: Race (Russia, 30 Apr 2017, Valtteri Bottas BOT, Mercedes, 52, 1:28:08.743)
+183 :: Race (San Marino, 20 Apr 2003, Michael Schumacher MSC, Ferrari, 62, 1:28:12.058)
+184 :: Race (Austria, 25 Jul 1999, Eddie Irvine IRV, Ferrari, 71, 1:28:12.438)
+185 :: Race (Belgium, 27 Aug 2000, Mika Hakkinen HAK, McLaren Mercedes, 44, 1:28:14.494)
+186 :: Race (Belgium, 25 Aug 1996, Michael Schumacher MSC, Ferrari, 44, 1:28:15.125)
+187 :: Race (Brazil, 21 Oct 2007, Kimi Räikkönen RAI, Ferrari, 71, 1:28:15.270)
+188 :: Race (Austria, 16 Jul 2000, Mika Hakkinen HAK, McLaren Mercedes, 71, 1:28:15.818)
+189 :: Race (Japan, 04 Oct 2009, Sebastian Vettel VET, RBR Renault, 53, 1:28:20.443)
+190 :: Race (South Africa, 19 Oct 1985, Nigel Mansell MAN, Williams Honda, 75, 1:28:22.866)
+191 :: Race (Canada, 13 Jun 2004, Michael Schumacher MSC, Ferrari, 70, 1:28:24.803)
+192 :: Race (San Marino, 01 May 1994, Michael Schumacher MSC, Benetton Ford, 58, 1:28:28.642)
+193 :: Race (Canada, 10 Jun 2018, Sebastian Vettel VET, Ferrari, 68, 1:28:31.377)
+194 :: Race (Emilia Romagna, 01 Nov 2020, Lewis Hamilton HAM, Mercedes, 63, 1:28:32.430)
+195 :: Race (Bahrain, 04 Apr 2004, Michael Schumacher MSC, Ferrari, 57, 1:28:34.875)
+196 :: Race (Great Britain, 20 Jul 2003, Rubens Barrichello BAR, Ferrari, 60, 1:28:37.554)
+197 :: Race (San Marino, 17 May 1992, Nigel Mansell MAN, Williams Renault, 60, 1:28:40.927)
+198 :: Race (Great Britain, 10 Jul 2011, Fernando Alonso ALO, Ferrari, 52, 1:28:41.196)
+199 :: Race (Austria, 18 Aug 1974, Carlos Reutemann REU, Brabham Ford, 54, 1:28:44.720)
+200 :: Race (Belgium, 28 Aug 1994, Damon Hill HIL, Williams Renault, 44, 1:28:47.170)
+201 :: Race (Turkey, 30 May 2010, Lewis Hamilton HAM, McLaren Mercedes, 58, 1:28:47.620)
+202 :: Race (Germany, 03 Aug 2003, Juan Pablo Montoya MOY, Williams BMW, 67, 1:28:48.769)
+203 :: Race (Austria, 19 Aug 1973, Ronnie Peterson PET, Lotus Ford, 54, 1:28:48.780)
+204 :: Race (Great Britain, 23 Apr 2000, David Coulthard COU, McLaren Mercedes, 60, 1:28:50.108)
+205 :: Race (Turkey, 27 Aug 2006, Felipe Massa MAS, Ferrari, 58, 1:28:51.082)
+206 :: Race (Japan, 07 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 53, 1:28:56.242)
+207 :: Race (Japan, 09 Oct 2005, Kimi Räikkönen RAI, McLaren Mercedes, 53, 1:29:02.212)
+208 :: Race (Belgium, 29 Aug 2010, Lewis Hamilton HAM, McLaren Mercedes, 44, 1:29:04.268)
+209 :: Race (Canada, 09 Jun 2019, Lewis Hamilton HAM, Mercedes, 70, 1:29:07.084)
+210 :: Race (Belgium, 02 Sep 2012, Jenson Button BUT, McLaren Mercedes, 44, 1:29:08.530)
+211 :: Race (San Marino, 14 Apr 2002, Michael Schumacher MSC, Ferrari, 62, 1:29:10.789)
+212 :: Race (China, 26 Sep 2004, Rubens Barrichello BAR, Ferrari, 56, 1:29:12.420)
+213 :: Race (Germany, 01 Aug 1971, Jackie Stewart STE, Tyrrell Ford, 12, 1:29:15.700)
+214 :: Race (Austria, 13 Aug 1972, Emerson Fittipaldi FIT, Lotus Ford, 54, 1:29:16.660)
+215 :: Race (Italy, 09 Sep 1973, Ronnie Peterson PET, Lotus Ford, 55, 1:29:17.000)
+216 :: Race (Great Britain, 14 Jul 1973, Peter Revson REV, McLaren Ford, 67, 1:29:18.500)
+217 :: Race (Bahrain, 03 Apr 2005, Fernando Alonso ALO, Renault, 57, 1:29:18.531)
+218 :: Race (Brazil, 25 Sep 2005, Juan Pablo Montoya MOY, McLaren Mercedes, 71, 1:29:20.574)
+219 :: Race (South Africa, 07 Apr 1984, Niki Lauda LAU, McLaren TAG, 75, 1:29:23.430)
+220 :: Race (Great Britain, 22 Jul 1984, Niki Lauda LAU, McLaren TAG, 71, 1:29:28.532)
+221 :: Race (Australia, 27 Mar 2011, Sebastian Vettel VET, Red Bull Racing Renault, 58, 1:29:30.259)
+222 :: Race (Australia, 25 Mar 2018, Sebastian Vettel VET, Ferrari, 58, 1:29:33.283)
+223 :: Race (Europe, 24 Jun 2001, Michael Schumacher MSC, Ferrari, 67, 1:29:42.724)
+224 :: Race (United States, 19 Jun 2005, Michael Schumacher MSC, Ferrari, 73, 1:29:43.181)
+225 :: Race (Bahrain, 12 Mar 2006, Fernando Alonso ALO, Renault, 57, 1:29:46.205)
+226 :: Race (Japan, 12 Oct 1997, Michael Schumacher MSC, Ferrari, 53, 1:29:48.446)
+227 :: Race (Mexico, 16 Jun 1991, Riccardo Patrese PAT, Williams Renault, 67, 1:29:52.205)
+228 :: Race (Japan, 08 Oct 2000, Michael Schumacher MSC, Ferrari, 53, 1:29:53.435)
+229 :: Race (Portugal, 25 Oct 2020, Lewis Hamilton HAM, Mercedes, 66, 1:29:56.828)
+230 :: Race (Italy, 10 Sep 1972, Emerson Fittipaldi FIT, Lotus Ford, 55, 1:29:58.400)
+231 :: Race (Malaysia, 01 Oct 2017, Max Verstappen VER, Red Bull Racing TAG Heuer, 56, 1:30:01.290)
+232 :: Race (Belgium, 11 Sep 2005, Kimi Räikkönen RAI, McLaren Mercedes, 44, 1:30:01.295)
+233 :: Race (Brazil, 09 Nov 2014, Nico Rosberg ROS, Mercedes, 71, 1:30:02.555)
+234 :: Race (Australia, 17 Mar 2013, Kimi Räikkönen RAI, Lotus Renault, 58, 1:30:03.225)
+235 :: Race (Great Britain, 10 Jul 1994, Damon Hill HIL, Williams Renault, 60, 1:30:03.640)
+236 :: Race (Austria, 15 Aug 1976, John Watson WAT, Penske Ford, 54, 1:30:07.860)
+237 :: Race (France, 24 Jun 2018, Lewis Hamilton HAM, Mercedes, 53, 1:30:11.385)
+238 :: Race (Mexico, 29 May 1988, Alain Prost PRO, McLaren Honda, 67, 1:30:15.737)
+239 :: Race (Austria, 21 Jun 2015, Nico Rosberg ROS, Mercedes, 71, 1:30:16.930)
+240 :: Race (Turkey, 08 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 58, 1:30:17.558)
+241 :: Race (France, 04 Jul 2004, Michael Schumacher MSC, Ferrari, 70, 1:30:18.133)
+242 :: Race (Japan, 12 Oct 2008, Fernando Alonso ALO, Renault, 67, 1:30:21.892)
+243 :: Race (Austria, 15 Aug 1971, Jo Siffert SIF, BRM, 54, 1:30:23.910)
+244 :: Race (Japan, 10 Oct 2010, Sebastian Vettel VET, RBR Renault, 53, 1:30:27.323)
+245 :: Race (Australia, 09 Mar 1997, David Coulthard COU, McLaren Mercedes, 58, 1:30:28.718)
+246 :: Race (Spain, 28 Apr 2002, Michael Schumacher MSC, Ferrari, 65, 1:30:29.981)
+247 :: Race (India, 30 Oct 2011, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:30:35.002)
+248 :: Race (Italy, 12 Sep 1976, Ronnie Peterson PET, March Ford, 52, 1:30:35.600)
+249 :: Race (Spain, 25 May 1997, Jacques Villeneuve VIL, Williams Renault, 64, 1:30:35.896)
+250 :: Race (Great Britain, 13 Jul 1986, Nigel Mansell MAN, Williams Honda, 75, 1:30:38.471)
+251 :: Race (Malaysia, 19 Mar 2006, Giancarlo Fisichella FIS, Renault, 56, 1:30:40.529)
+252 :: Race (Austria, 26 Jul 1998, Mika Hakkinen HAK, McLaren Mercedes, 71, 1:30:44.086)
+253 :: Race (Germany, 31 Jul 2016, Lewis Hamilton HAM, Mercedes, 67, 1:30:44.200)
+254 :: Race (San Marino, 15 Apr 2001, Ralf Schumacher RSC, Williams BMW, 62, 1:30:44.817)
+255 :: Race (France, 06 Jul 2003, Ralf Schumacher RSC, Williams BMW, 70, 1:30:49.213)
+256 :: Race (Japan, 09 Oct 2011, Jenson Button BUT, McLaren Mercedes, 53, 1:30:53.427)
+257 :: Race (France, 01 Jul 2007, Kimi Räikkönen RAI, Ferrari, 70, 1:30:54.200)
+258 :: Race (San Marino, 13 May 1990, Riccardo Patrese PAT, Williams Renault, 61, 1:30:55.478)
+259 :: Race (Austria, 05 Jul 2020, Valtteri Bottas BOT, Mercedes, 71, 1:30:55.739)
+260 :: Race (San Marino, 27 Apr 1997, Heinz-Harald Frentzen FRE, Williams Renault, 62, 1:31:00.673)
+261 :: Race (Spain, 29 Apr 2001, Michael Schumacher MSC, Ferrari, 65, 1:31:03.305)
+262 :: Race (Canada, 12 Jun 2016, Lewis Hamilton HAM, Mercedes, 70, 1:31:05.296)
+263 :: Race (Germany, 22 Jul 2012, Fernando Alonso ALO, Ferrari, 67, 1:31:05.862)
+264 :: Race (San Marino, 23 Apr 2006, Michael Schumacher MSC, Ferrari, 62, 1:31:06.486)
+265 :: Race (Bahrain, 06 Apr 2008, Felipe Massa MAS, Ferrari, 57, 1:31:06.970)
+266 :: Race (Malaysia, 21 Mar 2004, Michael Schumacher MSC, Ferrari, 56, 1:31:07.490)
+267 :: Race (United States, 29 Sep 2002, Rubens Barrichello BAR, Ferrari, 73, 1:31:07.934)
+268 :: Race (Brazil, 15 Nov 2015, Nico Rosberg ROS, Mercedes, 71, 1:31:09.090)
+269 :: Race (United States, 17 Jun 2007, Lewis Hamilton HAM, McLaren Mercedes, 73, 1:31:09.965)
+270 :: Race (India, 28 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:31:10.744)
+271 :: Race (France, 20 May 1984, Niki Lauda LAU, McLaren TAG, 79, 1:31:11.951)
+272 :: Race (India, 27 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:31:12.187)
+273 :: Race (Canada, 15 Jun 2003, Michael Schumacher MSC, Ferrari, 70, 1:31:13.591)
+274 :: Race (Brazil, 06 Apr 2003, Giancarlo Fisichella FIS, Jordan Ford, 54, 1:31:17.748)
+275 :: Race (Malaysia, 23 Mar 2008, Kimi Räikkönen RAI, Ferrari, 56, 1:31:18.555)
+276 :: Race (Japan, 31 Oct 1999, Mika Hakkinen HAK, McLaren Mercedes, 53, 1:31:18.785)
+277 :: Race (Germany, 20 Jul 2008, Lewis Hamilton HAM, McLaren Mercedes, 67, 1:31:20.874)
+278 :: Race (France, 03 Jul 2005, Fernando Alonso ALO, Renault, 70, 1:31:22.233)
+279 :: Race (San Marino, 03 May 1987, Nigel Mansell MAN, Williams Honda, 59, 1:31:24.076)
+280 :: Race (Brazil, 12 Nov 2017, Sebastian Vettel VET, Ferrari, 71, 1:31:26.262)
+281 :: Race (Great Britain, 05 Jul 2015, Lewis Hamilton HAM, Mercedes, 52, 1:31:27.729)
+282 :: Race (Luxembourg, 28 Sep 1997, Jacques Villeneuve VIL, Williams Renault, 67, 1:31:27.843)
+283 :: Race (Great Britain, 17 Jul 1971, Jackie Stewart STE, Tyrrell Ford, 68, 1:31:31.500)
+284 :: Race (Malaysia, 20 Mar 2005, Fernando Alonso ALO, Renault, 56, 1:31:33.736)
+285 :: Race (Brazil, 26 Mar 2000, Michael Schumacher MSC, Ferrari, 71, 1:31:35.271)
+286 :: Race (Spain, 13 May 2007, Felipe Massa MAS, Ferrari, 65, 1:31:36.230)
+287 :: Race (San Marino, 09 Apr 2000, Michael Schumacher MSC, Ferrari, 62, 1:31:39.776)
+288 :: Race (Brazil, 31 Mar 2002, Michael Schumacher MSC, Ferrari, 71, 1:31:43.663)
+289 :: Race (Great Britain, 07 Jul 2002, Michael Schumacher MSC, Ferrari, 60, 1:31:45.015)
+290 :: Race (Spain, 16 Aug 2020, Lewis Hamilton HAM, Mercedes, 66, 1:31:45.279)
+291 :: Race (Australia, 08 Mar 1998, Mika Hakkinen HAK, McLaren Mercedes, 58, 1:31:45.996)
+292 :: Race (Great Britain, 16 Jul 1977, James Hunt HUN, McLaren Ford, 68, 1:31:46.060)
+293 :: Race (France, 07 Jul 1985, Nelson Piquet PIQ, Brabham BMW, 53, 1:31:46.266)
+294 :: Race (Europe, 29 May 2005, Fernando Alonso ALO, Renault, 59, 1:31:46.648)
+295 :: Race (Bahrain, 26 Apr 2009, Jenson Button BUT, Brawn Mercedes, 57, 1:31:48.182)
+296 :: Race (Germany, 31 Jul 1977, Niki Lauda LAU, Ferrari, 47, 1:31:48.620)
+297 :: Race (France, 22 Jun 2008, Felipe Massa MAS, Ferrari, 70, 1:31:50.245)
+298 :: Race (Russia, 21 Oct 2014, Lewis Hamilton HAM, Mercedes, 53, 1:31:50.744)
+299 :: Race (Japan, 23 Oct 1977, James Hunt HUN, McLaren Ford, 73, 1:31:51.680)
+300 :: Race (Azerbaijan, 28 Apr 2019, Valtteri Bottas BOT, Mercedes, 51, 1:31:52.942)
+301 :: Race (Canada, 07 Jun 2015, Lewis Hamilton HAM, Mercedes, 70, 1:31:53.145)
+302 :: Race (Mexico, 22 Mar 1992, Nigel Mansell MAN, Williams Renault, 69, 1:31:53.587)
+303 :: Race (Brazil, 22 Oct 2006, Felipe Massa MAS, Ferrari, 71, 1:31:53.751)
+304 :: Race (Australia, 15 Mar 2015, Lewis Hamilton HAM, Mercedes, 58, 1:31:54.067)
+305 :: Race (China, 19 Oct 2008, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:31:57.403)
+306 :: Race (Bahrain, 08 Apr 2018, Sebastian Vettel VET, Ferrari, 57, 1:32:01.940)
+307 :: Race (China, 14 Apr 2019, Lewis Hamilton HAM, Mercedes, 56, 1:32:06.350)
+308 :: Race (France, 16 Jul 2006, Michael Schumacher MSC, Ferrari, 70, 1:32:07.803)
+309 :: Race (South Africa, 23 Jan 1982, Alain Prost PRO, Renault, 77, 1:32:08.401)
+310 :: Race (Canada, 09 Jun 2013, Sebastian Vettel VET, Red Bull Racing Renault, 70, 1:32:09.143)
+311 :: Race (Canada, 12 Jun 2005, Kimi Räikkönen RAI, McLaren Mercedes, 70, 1:32:09.290)
+312 :: Race (France, 21 Jul 2002, Michael Schumacher MSC, Ferrari, 72, 1:32:09.837)
+313 :: Race (Japan, 20 Oct 1991, Gerhard Berger BER, McLaren Honda, 53, 1:32:10.695)
+314 :: Race (Luxembourg, 27 Sep 1998, Mika Hakkinen HAK, McLaren Mercedes, 67, 1:32:14.789)
+315 :: Race (Malaysia, 08 Apr 2007, Fernando Alonso ALO, McLaren Mercedes, 56, 1:32:14.930)
+316 :: Race (Brazil, 27 Nov 2011, Mark Webber WEB, Red Bull Racing Renault, 71, 1:32:17.464)
+317 :: Race (Malaysia, 23 Mar 2003, Kimi Räikkönen RAI, McLaren Mercedes, 56, 1:32:22.195)
+318 :: Race (Brazil, 18 Oct 2009, Mark Webber WEB, RBR Renault, 71, 1:32:23.081)
+319 :: Race (Spain, 09 May 1993, Alain Prost PRO, Williams Renault, 65, 1:32:27.685)
+320 :: Race (San Marino, 27 Apr 1986, Alain Prost PRO, McLaren TAG, 60, 1:32:28.408)
+321 :: Race (Netherlands, 25 Aug 1985, Niki Lauda LAU, McLaren TAG, 70, 1:32:29.263)
+322 :: Race (Canada, 10 Jun 2012, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:32:29.586)
+323 :: Race (Germany, 22 Jul 2018, Lewis Hamilton HAM, Mercedes, 67, 1:32:29.845)
+324 :: Race (Great Britain, 11 Jul 1999, David Coulthard COU, McLaren Mercedes, 60, 1:32:30.144)
+325 :: Race (Japan, 13 Oct 1996, Damon Hill HIL, Williams Renault, 52, 1:32:33.791)
+326 :: Race (Europe, 30 May 2004, Michael Schumacher MSC, Ferrari, 60, 1:32:35.101)
+327 :: Race (Belgium, 29 Aug 2004, Kimi Räikkönen RAI, McLaren Mercedes, 44, 1:32:35.274)
+328 :: Race (Mexico, 24 Jun 1990, Alain Prost PRO, Ferrari, 69, 1:32:35.783)
+329 :: Race (Brazil, 24 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 71, 1:32:36.300)
+330 :: Race (Switzerland, 29 Aug 1982, Keke Rosberg ROS, Williams Ford, 80, 1:32:41.087)
+331 :: Race (San Marino, 01 May 1988, Ayrton Senna SEN, McLaren Honda, 60, 1:32:41.264)
+332 :: Race (Russia, 01 May 2016, Nico Rosberg ROS, Mercedes, 53, 1:32:41.997)
+333 :: Race (United States, 30 Sep 2001, Mika Hakkinen HAK, McLaren Mercedes, 73, 1:32:42.840)
+334 :: Race (France, 29 Jun 1980, Alan Jones JON, Williams Ford, 54, 1:32:43.420)
+335 :: Race (Portugal, 26 Sep 1993, Michael Schumacher MSC, Benetton Ford, 71, 1:32:46.309)
+336 :: Race (Australia, 10 Mar 1996, Damon Hill HIL, Williams Renault, 58, 1:32:50.491)
+337 :: Race (Europe, 19 Jun 2016, Nico Rosberg ROS, Mercedes, 51, 1:32:52.366)
+338 :: Race (Germany, 24 Jul 1988, Ayrton Senna SEN, McLaren Honda, 44, 1:32:54.188)
+339 :: Race (Japan, 01 Nov 1987, Gerhard Berger BER, Ferrari, 51, 1:32:58.072)
+340 :: Race (Europe, 06 Oct 1985, Nigel Mansell MAN, Williams Honda, 75, 1:32:58.109)
+341 :: Race (Australia, 16 Mar 2014, Nico Rosberg ROS, Mercedes, 57, 1:32:58.710)
+342 :: Race (Great Britain, 30 Jun 2013, Nico Rosberg ROS, Mercedes, 52, 1:32:59.456)
+343 :: Race (Great Britain, 14 Jul 1996, Jacques Villeneuve VIL, Williams Renault, 61, 1:33:00.874)
+344 :: Race (Canada, 11 Jun 2017, Lewis Hamilton HAM, Mercedes, 70, 1:33:05.154)
+345 :: Race (Japan, 25 Oct 1992, Riccardo Patrese PAT, Williams Renault, 53, 1:33:09.553)
+346 :: Race (Brazil, 07 Nov 2010, Sebastian Vettel VET, RBR Renault, 71, 1:33:11.803)
+347 :: Race (Brazil, 17 Nov 2019, Max Verstappen VER, Red Bull Racing Honda, 71, 1:33:14.678)
+348 :: Race (Great Britain, 10 Jul 1988, Ayrton Senna SEN, McLaren Honda, 65, 1:33:16.367)
+349 :: Race (Mexico, 12 Oct 1986, Gerhard Berger BER, Benetton BMW, 68, 1:33:18.700)
+350 :: Race (San Marino, 25 Apr 1993, Alain Prost PRO, Williams Renault, 61, 1:33:20.413)
+351 :: Race (South Africa, 15 Oct 1983, Riccardo Patrese PAT, Brabham BMW, 77, 1:33:25.708)
+352 :: Race (Japan, 30 Oct 1988, Ayrton Senna SEN, McLaren Honda, 51, 1:33:26.173)
+353 :: Race (Europe, 28 Apr 1996, Jacques Villeneuve VIL, Williams Renault, 67, 1:33:26.473)
+354 :: Race (Bahrain, 15 Apr 2007, Felipe Massa MAS, Ferrari, 57, 1:33:27.515)
+355 :: Race (China, 20 Apr 2014, Lewis Hamilton HAM, Mercedes, 54, 1:33:28.338)
+356 :: Race (France, 08 Jul 1990, Alain Prost PRO, Ferrari, 80, 1:33:29.606)
+357 :: Race (France, 25 Jul 1982, Rene Arnoux ARN, Renault, 54, 1:33:33.217)
+358 :: Race (Bahrain, 03 Apr 2016, Nico Rosberg ROS, Mercedes, 57, 1:33:34.696)
+359 :: Race (France, 01 Jul 2001, Michael Schumacher MSC, Ferrari, 72, 1:33:35.636)
+360 :: Race (United States, 28 Sep 2003, Michael Schumacher MSC, Ferrari, 73, 1:33:35.997)
+361 :: Race (Canada, 09 Jun 2002, Michael Schumacher MSC, Ferrari, 70, 1:33:36.111)
+362 :: Race (Australia, 28 Mar 2010, Jenson Button BUT, McLaren Mercedes, 58, 1:33:36.531)
+363 :: Race (Spain, 10 May 1998, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:33:37.621)
+364 :: Race (Russia, 29 Sep 2019, Lewis Hamilton HAM, Mercedes, 53, 1:33:38.992)
+365 :: Race (Germany, 20 Jul 2014, Nico Rosberg ROS, Mercedes, 67, 1:33:42.914)
+366 :: Race (San Marino, 02 May 1999, Michael Schumacher MSC, Ferrari, 62, 1:33:44.792)
+367 :: Race (Belgium, 24 Aug 1997, Michael Schumacher MSC, Ferrari, 44, 1:33:46.717)
+368 :: Race (Spain, 04 May 2003, Michael Schumacher MSC, Ferrari, 65, 1:33:46.933)
+369 :: Race (Malaysia, 04 Apr 2010, Sebastian Vettel VET, RBR Renault, 56, 1:33:48.412)
+370 :: Race (United States, 22 Oct 2017, Lewis Hamilton HAM, Mercedes, 56, 1:33:50.991)
+371 :: Race (Austria, 12 May 2002, Michael Schumacher MSC, Ferrari, 71, 1:33:51.562)
+372 :: Race (Bahrain, 16 Apr 2017, Sebastian Vettel VET, Ferrari, 57, 1:33:53.374)
+373 :: Race (Canada, 13 Jun 2010, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:33:53.456)
+374 :: Race (Spain, 07 May 2000, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:33:55.390)
+375 :: Race (United States, 03 Nov 2019, Valtteri Bottas BOT, Mercedes, 56, 1:33:55.653)
+376 :: Race (Russia, 27 Sep 2020, Valtteri Bottas BOT, Mercedes, 53, 1:34:00.364)
+377 :: Race (Australia, 12 Mar 2000, Michael Schumacher MSC, Ferrari, 58, 1:34:01.987)
+378 :: Race (Abu Dhabi, 01 Nov 2009, Sebastian Vettel VET, RBR Renault, 55, 1:34:03.414)
+379 :: Race (Abu Dhabi, 01 Dec 2019, Lewis Hamilton HAM, Mercedes, 55, 1:34:05.715)
+380 :: Race (Australia, 18 Mar 2012, Jenson Button BUT, McLaren Mercedes, 58, 1:34:09.565)
+381 :: Race (Brazil, 02 Nov 2008, Felipe Massa MAS, Ferrari, 71, 1:34:11.435)
+382 :: Race (Malaysia, 17 Mar 2002, Ralf Schumacher RSC, Williams BMW, 56, 1:34:12.912)
+383 :: Race (Spain, 30 May 1999, Mika Hakkinen HAK, McLaren Mercedes, 65, 1:34:13.665)
+384 :: Race (France, 17 Apr 1983, Alain Prost PRO, Renault, 54, 1:34:13.913)
+385 :: Race (Abu Dhabi, 26 Nov 2017, Valtteri Bottas BOT, Mercedes, 55, 1:34:14.062)
+386 :: Race (Australia, 29 Mar 2009, Jenson Button BUT, Brawn Mercedes, 58, 1:34:15.784)
+387 :: Race (United States, 21 Oct 2018, Kimi Räikkönen RAI, Ferrari, 56, 1:34:18.643)
+388 :: Race (Belgium, 15 Sep 1985, Ayrton Senna SEN, Lotus Renault, 43, 1:34:19.893)
+389 :: Race (Spain, 14 May 1995, Michael Schumacher MSC, Benetton Renault, 65, 1:34:20.507)
+390 :: Race (Bahrain, 31 Mar 2019, Lewis Hamilton HAM, Mercedes, 57, 1:34:21.295)
+391 :: Race (San Marino, 26 Apr 1998, David Coulthard COU, McLaren Mercedes, 62, 1:34:24.593)
+392 :: Race (Australia, 02 Apr 2006, Fernando Alonso ALO, Renault, 57, 1:34:27.870)
+393 :: Race (Canada, 10 Jun 2001, Ralf Schumacher RSC, Williams BMW, 69, 1:34:31.522)
+394 :: Race (Argentina, 12 Apr 1981, Nelson Piquet PIQ, Brabham Ford, 53, 1:34:32.740)
+395 :: Race (Great Britain, 16 Jul 1995, Johnny Herbert HER, Benetton Renault, 61, 1:34:35.093)
+396 :: Race (United States, 02 Jul 2006, Michael Schumacher MSC, Ferrari, 73, 1:34:35.199)
+397 :: Race (San Marino, 05 May 1985, Elio de Angelis DEA, Lotus Renault, 60, 1:34:35.955)
+398 :: Race (USA East, 05 Oct 1980, Alan Jones JON, Williams Ford, 59, 1:34:36.050)
+399 :: Race (Japan, 21 Oct 1990, Nelson Piquet PIQ, Benetton Ford, 53, 1:34:36.824)
+400 :: Race (Canada, 25 Jun 2006, Fernando Alonso ALO, Renault, 70, 1:34:37.308)
+401 :: Race (Australia, 09 Mar 2003, David Coulthard COU, McLaren Mercedes, 58, 1:34:42.124)
+402 :: Race (Europe, 29 Jun 2003, Ralf Schumacher RSC, Williams BMW, 60, 1:34:43.622)
+403 :: Race (France, 28 Jun 1998, Michael Schumacher MSC, Ferrari, 71, 1:34:45.026)
+404 :: Race (Portugal, 27 Sep 1992, Nigel Mansell MAN, Williams Renault, 71, 1:34:46.659)
+405 :: Race (Great Britain, 13 Jul 1980, Alan Jones JON, Williams Ford, 76, 1:34:49.228)
+406 :: Race (Australia, 16 Mar 2008, Lewis Hamilton HAM, McLaren Mercedes, 58, 1:34:50.616)
+407 :: Race (Great Britain, 10 Jul 2016, Lewis Hamilton HAM, Mercedes, 52, 1:34:55.831)
+408 :: Race (Australia, 07 Mar 1999, Eddie Irvine IRV, Ferrari, 57, 1:35:01.659)
+409 :: Race (Hungary, 04 Aug 2019, Lewis Hamilton HAM, Mercedes, 70, 1:35:03.796)
+410 :: Race (Bahrain, 19 Apr 2015, Lewis Hamilton HAM, Mercedes, 57, 1:35:05.809)
+411 :: Race (Japan, 22 Oct 1989, Alessandro Nannini NAN, Benetton Ford, 53, 1:35:06.277)
+412 :: Race (Europe, 23 Jun 2002, Rubens Barrichello BAR, Ferrari, 60, 1:35:07.426)
+413 :: Race (Bahrain, 22 Apr 2012, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:35:10.990)
+414 :: Race (Europe, 07 Oct 1984, Alain Prost PRO, McLaren TAG, 67, 1:35:13.284)
+415 :: Race (San Marino, 28 Apr 1991, Ayrton Senna SEN, McLaren Honda, 61, 1:35:14.750)
+416 :: Race (France, 01 Jul 1979, Jean-Pierre Jabouille JAB, Renault, 80, 1:35:20.420)
+417 :: Race (Mexico, 28 May 1989, Ayrton Senna SEN, McLaren Honda, 69, 1:35:21.431)
+418 :: Race (Hungary, 15 Aug 2004, Michael Schumacher MSC, Ferrari, 70, 1:35:26.131)
+419 :: Race (San Marino, 05 May 1996, Damon Hill HIL, Williams Renault, 63, 1:35:26.156)
+420 :: Race (Spain, 13 May 2018, Lewis Hamilton HAM, Mercedes, 66, 1:35:29.972)
+421 :: Race (Germany, 04 Aug 1985, Michele Alboreto ALB, Ferrari, 67, 1:35:31.337)
+422 :: Race (Europe, 24 Aug 2008, Felipe Massa MAS, Ferrari, 57, 1:35:32.339)
+423 :: Race (Great Britain, 18 Jul 1982, Niki Lauda LAU, McLaren Ford, 76, 1:35:33.812)
+424 :: Race (China, 15 Apr 2018, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 56, 1:35:36.380)
+425 :: Race (Australia, 03 Mar 2002, Michael Schumacher MSC, Ferrari, 58, 1:35:36.792)
+426 :: Race (Brazil, 27 Mar 1994, Michael Schumacher MSC, Benetton Ford, 71, 1:35:38.759)
+427 :: Race (Belgium, 09 May 1982, John Watson WAT, McLaren Ford, 70, 1:35:41.995)
+428 :: Race (Portugal, 22 Sep 1991, Riccardo Patrese PAT, Williams Renault, 71, 1:35:42.304)
+429 :: Race (Spain, 09 May 2010, Mark Webber WEB, RBR Renault, 66, 1:35:44.101)
+430 :: Race (France, 05 Jul 1981, Alain Prost PRO, Renault, 80, 1:35:48.130)
+431 :: Race (Eifel, 11 Oct 2020, Lewis Hamilton HAM, Mercedes, 60, 1:35:49.641)
+432 :: Race (Spain, 12 May 2019, Lewis Hamilton HAM, Mercedes, 66, 1:35:50.443)
+433 :: Race (Europe, 23 Aug 2009, Rubens Barrichello BAR, Brawn Mercedes, 57, 1:35:51.289)
+434 :: Race (Hungary, 05 Aug 2007, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:35:52.991)
+435 :: Race (Malaysia, 22 Oct 2000, Michael Schumacher MSC, Ferrari, 56, 1:35:54.235)
+436 :: Race (United States, 18 Nov 2012, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:35:55.269)
+437 :: Race (Spain, 14 May 2017, Lewis Hamilton HAM, Mercedes, 66, 1:35:56.497)
+438 :: Race (Europe, 07 May 2006, Michael Schumacher MSC, Ferrari, 60, 1:35:58.765)
+439 :: Race (Bahrain, 21 Apr 2013, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:36:00.498)
+440 :: Race (Argentina, 21 Jan 1979, Jacques Laffite LAF, Ligier Ford, 53, 1:36:03.210)
+441 :: Race (Canada, 16 Jun 1996, Damon Hill HIL, Williams Renault, 69, 1:36:03.465)
+442 :: Race (Brazil, 11 Apr 1999, Mika Hakkinen HAK, McLaren Mercedes, 72, 1:36:03.785)
+443 :: Race (Brazil, 03 Apr 1988, Alain Prost PRO, McLaren Honda, 60, 1:36:06.857)
+444 :: Race (Brazil, 30 Mar 1997, Jacques Villeneuve VIL, Williams Renault, 72, 1:36:06.990)
+445 :: Race (Belgium, 30 Aug 1992, Michael Schumacher MSC, Benetton Ford, 44, 1:36:10.721)
+446 :: Race (Hungary, 19 Jul 2020, Lewis Hamilton HAM, Mercedes, 70, 1:36:12.473)
+447 :: Race (Spain, 29 May 1994, Damon Hill HIL, Williams Renault, 65, 1:36:14.374)
+448 :: Race (Canada, 08 Jun 2008, Robert Kubica KUB, Sauber BMW, 70, 1:36:24.447)
+449 :: Race (Mexico, 29 Oct 2017, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:36:26.552)
+450 :: Race (China, 15 Apr 2012, Nico Rosberg ROS, Mercedes, 56, 1:36:26.929)
+451 :: Race (China, 14 Apr 2013, Fernando Alonso ALO, Ferrari, 56, 1:36:26.945)
+452 :: Race (South Korea, 14 Oct 2012, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:36:28.651)
+453 :: Race (France, 30 Jun 1996, Damon Hill HIL, Williams Renault, 72, 1:36:28.795)
+454 :: Race (United States, 24 Sep 2000, Michael Schumacher MSC, Ferrari, 73, 1:36:30.883)
+455 :: Race (Belgium, 29 Apr 1984, Michele Alboreto ALB, Ferrari, 70, 1:36:32.048)
+456 :: Race (Malaysia, 17 Oct 1999, Eddie Irvine IRV, Ferrari, 56, 1:36:38.494)
+457 :: Race (San Marino, 25 Apr 1982, Didier Pironi PIR, Ferrari, 60, 1:36:38.887)
+458 :: Race (Canada, 13 Jun 1993, Alain Prost PRO, Williams Renault, 69, 1:36:41.822)
+459 :: Race (Germany, 12 Jul 2009, Mark Webber WEB, RBR Renault, 60, 1:36:43.310)
+460 :: Race (South Africa, 01 Mar 1992, Nigel Mansell MAN, Williams Renault, 72, 1:36:45.320)
+461 :: Race (Europe, 25 Sep 1983, Nelson Piquet PIQ, Brabham BMW, 76, 1:36:45.865)
+462 :: Race (Belgium, 27 Aug 1995, Michael Schumacher MSC, Benetton Renault, 44, 1:36:47.875)
+463 :: Race (Portugal, 24 Sep 1989, Gerhard Berger BER, Ferrari, 71, 1:36:48.546)
+464 :: Race (Mexico, 27 Oct 2019, Lewis Hamilton HAM, Mercedes, 71, 1:36:48.904)
+465 :: Race (Brazil, 05 Apr 1992, Nigel Mansell MAN, Williams Renault, 71, 1:36:51.856)
+466 :: Race (South Africa, 01 Mar 1980, Rene Arnoux ARN, Renault, 78, 1:36:52.540)
+467 :: Race (Japan, 29 Oct 1995, Michael Schumacher MSC, Benetton Renault, 53, 1:36:52.930)
+468 :: Race (San Marino, 06 May 1984, Alain Prost PRO, McLaren TAG, 60, 1:36:53.679)
+469 :: Race (China, 17 Apr 2011, Lewis Hamilton HAM, McLaren Mercedes, 56, 1:36:58.226)
+470 :: Race (France, 05 Jul 1987, Nigel Mansell MAN, Williams Honda, 80, 1:37:03.839)
+471 :: Race (Portugal, 20 Sep 1987, Alain Prost PRO, McLaren TAG, 70, 1:37:03.906)
+472 :: Race (Argentina, 15 Jan 1978, Mario Andretti AND, Lotus Ford, 52, 1:37:04.470)
+473 :: Race (Belgium, 15 Jun 1958, Tony Brooks BRO, Vanwall, 24, 1:37:06.300)
+474 :: Race (Canada, 14 Jun 1992, Gerhard Berger BER, McLaren Honda, 69, 1:37:08.299)
+475 :: Race (Russia, 11 Oct 2015, Lewis Hamilton HAM, Mercedes, 53, 1:37:11.024)
+476 :: Race (Brazil, 29 Mar 1998, Mika Hakkinen HAK, McLaren Mercedes, 72, 1:37:11.747)
+477 :: Race (Abu Dhabi, 13 Nov 2011, Lewis Hamilton HAM, McLaren Mercedes, 55, 1:37:11.886)
+478 :: Race (Malaysia, 02 Oct 2016, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 56, 1:37:12.776)
+479 :: Race (Hungary, 29 Jul 2018, Lewis Hamilton HAM, Mercedes, 70, 1:37:16.427)
+480 :: Race (Austria, 14 Aug 1977, Alan Jones JON, Shadow Ford, 54, 1:37:16.490)
+481 :: Race (Spain, 10 May 2009, Jenson Button BUT, Brawn Mercedes, 66, 1:37:19.202)
+482 :: Race (France, 06 Jul 1986, Nigel Mansell MAN, Williams Honda, 80, 1:37:19.272)
+483 :: Race (Brazil, 25 Mar 1990, Alain Prost PRO, Ferrari, 71, 1:37:21.258)
+484 :: Race (Netherlands, 26 Aug 1984, Alain Prost PRO, McLaren TAG, 71, 1:37:21.468)
+485 :: Race (Portugal, 21 Sep 1986, Nigel Mansell MAN, Williams Honda, 70, 1:37:21.900)
+486 :: Race (Hungary, 31 Jul 2005, Kimi Räikkönen RAI, McLaren Mercedes, 70, 1:37:25.552)
+487 :: Race (Hungary, 03 Aug 2008, Heikki Kovalainen KOV, McLaren Mercedes, 70, 1:37:27.067)
+488 :: Race (Germany, 24 Jul 2011, Lewis Hamilton HAM, McLaren Mercedes, 60, 1:37:30.334)
+489 :: Race (China, 01 Oct 2006, Michael Schumacher MSC, Ferrari, 56, 1:37:32.747)
+490 :: Race (China, 09 Apr 2017, Lewis Hamilton HAM, Mercedes, 56, 1:37:36.158)
+491 :: Race (France, 03 Jul 1988, Alain Prost PRO, McLaren Honda, 80, 1:37:37.328)
+492 :: Race (Malaysia, 10 Apr 2011, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:37:39.832)
+493 :: Race (Portugal, 25 Sep 1988, Alain Prost PRO, McLaren Honda, 70, 1:37:40.958)
+494 :: Race (San Marino, 01 May 1983, Patrick Tambay TAM, Ferrari, 60, 1:37:52.460)
+495 :: Race (China, 07 Oct 2007, Kimi Räikkönen RAI, Ferrari, 56, 1:37:58.395)
+496 :: Race (France, 07 Jul 1991, Nigel Mansell MAN, Williams Renault, 72, 1:38:00.056)
+497 :: Race (South Korea, 16 Oct 2011, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:38:01.994)
+498 :: Race (Netherlands, 03 Jul 1982, Didier Pironi PIR, Ferrari, 72, 1:38:03.254)
+499 :: Race (Abu Dhabi, 27 Nov 2016, Lewis Hamilton HAM, Mercedes, 55, 1:38:04.013)
+500 :: Race (France, 02 Jul 2000, David Coulthard COU, McLaren Mercedes, 72, 1:38:05.538)
+501 :: Race (Abu Dhabi, 03 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:38:06.106)
+502 :: Race (Italy, 14 Sep 1980, Nelson Piquet PIQ, Brabham Ford, 60, 1:38:07.520)
+503 :: Race (France, 05 Jul 1992, Nigel Mansell MAN, Williams Renault, 69, 1:38:08.459)
+504 :: Race (Belgium, 07 Jun 1970, Pedro Rodriguez ROD, BRM, 28, 1:38:09.900)
+505 :: Race (United States, 23 Oct 2016, Lewis Hamilton HAM, Mercedes, 56, 1:38:12.618)
+506 :: Race (Netherlands, 31 Aug 1980, Nelson Piquet PIQ, Brabham Ford, 72, 1:38:13.830)
+507 :: Race (Spain, 27 Apr 2008, Kimi Räikkönen RAI, Ferrari, 66, 1:38:19.051)
+508 :: Race (Hungary, 26 Jul 2009, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:38:23.876)
+509 :: Race (Australia, 04 Mar 2001, Michael Schumacher MSC, Ferrari, 58, 1:38:26.533)
+510 :: Race (Brazil, 24 Mar 1991, Ayrton Senna SEN, McLaren Honda, 71, 1:38:28.128)
+511 :: Race (France, 02 Jul 1995, Michael Schumacher MSC, Benetton Renault, 72, 1:38:28.429)
+512 :: Race (Mexico, 28 Oct 2018, Max Verstappen VER, Red Bull Racing TAG Heuer, 71, 1:38:28.851)
+513 :: Race (France, 09 Jul 1989, Alain Prost PRO, McLaren Honda, 80, 1:38:29.411)
+514 :: Race (Abu Dhabi, 29 Nov 2015, Nico Rosberg ROS, Mercedes, 55, 1:38:30.175)
+515 :: Race (Brazil, 26 Mar 1995, Michael Schumacher MSC, Benetton Renault, 71, 1:38:34.154)
+516 :: Race (France, 04 Jul 1993, Alain Prost PRO, Williams Renault, 72, 1:38:35.241)
+517 :: Race (France, 03 Jul 1994, Michael Schumacher MSC, Benetton Ford, 72, 1:38:35.704)
+518 :: Race (Spain, 29 Sep 1991, Nigel Mansell MAN, Williams Renault, 65, 1:38:41.541)
+519 :: Race (Netherlands, 28 Aug 1983, Rene Arnoux ARN, Ferrari, 72, 1:38:41.950)
+520 :: Race (South Africa, 14 Mar 1993, Alain Prost PRO, Williams Renault, 72, 1:38:45.082)
+521 :: Race (Belgium, 04 May 1980, Didier Pironi PIR, Ligier Ford, 72, 1:38:46.510)
+522 :: Race (France, 29 Jun 1997, Michael Schumacher MSC, Ferrari, 72, 1:38:50.492)
+523 :: Race (Canada, 02 Jun 1991, Nelson Piquet PIQ, Benetton Ford, 69, 1:38:51.490)
+524 :: Race (France, 02 Jul 1978, Mario Andretti AND, Lotus Ford, 54, 1:38:51.920)
+525 :: Race (China, 17 Apr 2016, Nico Rosberg ROS, Mercedes, 56, 1:38:53.891)
+526 :: Race (Malaysia, 24 Mar 2013, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:38:56.681)
+527 :: Race (Europe, 26 Oct 1997, Mika Hakkinen HAK, McLaren Mercedes, 69, 1:38:57.771)
+528 :: Race (Brazil, 26 Mar 1989, Nigel Mansell MAN, Ferrari, 61, 1:38:58.744)
+529 :: Race (Brazil, 01 Apr 2001, David Coulthard COU, McLaren Mercedes, 71, 1:39:00.834)
+530 :: Race (Hungary, 24 Aug 2003, Fernando Alonso ALO, Renault, 70, 1:39:01.460)
+531 :: Race (Abu Dhabi, 23 Nov 2014, Lewis Hamilton HAM, Mercedes, 55, 1:39:02.619)
+532 :: Race (Spain, 22 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 66, 1:39:03.301)
+533 :: Race (Italy, 06 Sep 1970, Clay Regazzoni REG, Ferrari, 68, 1:39:06.880)
+534 :: Race (Spain, 13 May 2012, Pastor Maldonado MAL, Williams Renault, 66, 1:39:09.145)
+535 :: Race (Great Britain, 06 Jul 2008, Lewis Hamilton HAM, McLaren Mercedes, 60, 1:39:09.440)
+536 :: Race (Italy, 07 Sep 1969, Jackie Stewart STE, Matra Ford, 68, 1:39:11.260)
+537 :: Race (Spain, 29 Apr 1979, Patrick Depailler DEP, Ligier Ford, 75, 1:39:11.840)
+538 :: Race (Netherlands, 29 Jul 1973, Jackie Stewart STE, Tyrrell Ford, 72, 1:39:12.450)
+539 :: Race (Canada, 08 Jun 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 70, 1:39:12.830)
+540 :: Race (Spain, 12 May 2013, Fernando Alonso ALO, Ferrari, 66, 1:39:16.596)
+541 :: Race (United States, 17 Nov 2013, Sebastian Vettel VET, Red Bull Racing Renault, 56, 1:39:17.148)
+542 :: Race (Bahrain, 14 Mar 2010, Fernando Alonso ALO, Ferrari, 49, 1:39:20.396)
+543 :: Race (Argentina, 12 Jan 1975, Emerson Fittipaldi FIT, McLaren Ford, 53, 1:39:26.290)
+544 :: Race (Brazil, 23 Mar 1986, Nelson Piquet PIQ, Williams Honda, 61, 1:39:32.583)
+545 :: Race (Europe, 26 Jun 2011, Sebastian Vettel VET, Red Bull Racing Renault, 57, 1:39:36.169)
+546 :: Race (Abu Dhabi, 14 Nov 2010, Sebastian Vettel VET, RBR Renault, 55, 1:39:36.837)
+547 :: Race (France, 03 Jul 1977, Mario Andretti AND, Lotus Ford, 80, 1:39:40.130)
+548 :: Race (Abu Dhabi, 25 Nov 2018, Lewis Hamilton HAM, Mercedes, 55, 1:39:40.382)
+549 :: Race (China, 12 Apr 2015, Lewis Hamilton HAM, Mercedes, 56, 1:39:42.008)
+550 :: Race (Bahrain, 06 Apr 2014, Lewis Hamilton HAM, Mercedes, 57, 1:39:42.743)
+551 :: Race (Brazil, 12 Apr 1987, Alain Prost PRO, McLaren TAG, 61, 1:39:45.141)
+552 :: Race (Canada, 12 Jun 1988, Ayrton Senna SEN, McLaren Honda, 69, 1:39:46.618)
+553 :: Race (Hungary, 30 Jul 2017, Sebastian Vettel VET, Ferrari, 70, 1:39:46.713)
+554 :: Race (Belgium, 21 May 1978, Mario Andretti AND, Lotus Ford, 70, 1:39:52.020)
+555 :: Race (China, 16 Oct 2005, Fernando Alonso ALO, Renault, 56, 1:39:53.618)
+556 :: Race (Europe, 01 Oct 1995, Michael Schumacher MSC, Benetton Renault, 67, 1:39:59.044)
+557 :: Race (Belgium, 13 May 1979, Jody Scheckter SCH, Ferrari, 70, 1:39:59.530)
+558 :: Race (Canada, 09 Oct 1977, Jody Scheckter SCH, Wolf Ford, 80, 1:40:00.000)
+559 :: Race (Brazil, 27 Jan 1980, Rene Arnoux ARN, Renault, 40, 1:40:01.330)
+560 :: Race (Belgium, 09 Jun 1968, Bruce McLaren MCL, McLaren Ford, 28, 1:40:02.100)
+561 :: Race (United States, 02 Nov 2014, Lewis Hamilton HAM, Mercedes, 56, 1:40:04.785)
+562 :: Race (Canada, 03 Oct 1976, James Hunt HUN, McLaren Ford, 80, 1:40:09.626)
+563 :: Race (Brazil, 04 Feb 1979, Jacques Laffite LAF, Ligier Ford, 40, 1:40:09.640)
+564 :: Race (Argentina, 09 Jan 1977, Jody Scheckter SCH, Wolf Ford, 53, 1:40:11.190)
+565 :: Race (Italy, 08 Sep 1968, Denny Hulme HUL, McLaren Ford, 68, 1:40:14.800)
+566 :: Race (France, 06 Jul 1975, Niki Lauda LAU, Ferrari, 54, 1:40:18.840)
+567 :: Race (United States, 06 Oct 1974, Carlos Reutemann REU, Brabham Ford, 59, 1:40:21.439)
+568 :: Race (Netherlands, 30 Aug 1981, Alain Prost PRO, Renault, 72, 1:40:22.430)
+569 :: Race (Portugal, 22 Sep 1996, Jacques Villeneuve VIL, Williams Renault, 70, 1:40:22.915)
+570 :: Race (Malaysia, 30 Mar 2014, Lewis Hamilton HAM, Mercedes, 56, 1:40:25.974)
+571 :: Race (Canada, 22 Sep 1974, Emerson Fittipaldi FIT, McLaren Ford, 80, 1:40:26.136)
+572 :: Race (Europe, 16 Oct 1994, Michael Schumacher MSC, Benetton Ford, 69, 1:40:26.689)
+573 :: Race (Japan, 24 Oct 1993, Ayrton Senna SEN, McLaren Ford, 53, 1:40:27.912)
+574 :: Race (Monaco, 27 May 2007, Fernando Alonso ALO, McLaren Mercedes, 78, 1:40:29.329)
+575 :: Race (Europe, 27 Jun 2010, Sebastian Vettel VET, RBR Renault, 57, 1:40:29.571)
+576 :: Race (United States, 20 Jun 2004, Michael Schumacher MSC, Ferrari, 73, 1:40:29.914)
+577 :: Race (Hungary, 24 Jul 2016, Lewis Hamilton HAM, Mercedes, 70, 1:40:30.115)
+578 :: Race (Mexico, 30 Oct 2016, Lewis Hamilton HAM, Mercedes, 71, 1:40:31.402)
+579 :: Race (Monaco, 24 May 2009, Jenson Button BUT, Brawn Mercedes, 78, 1:40:44.282)
+580 :: Race (USA East, 01 Oct 1978, Carlos Reutemann REU, Ferrari, 59, 1:40:48.800)
+581 :: Race (Belgium, 18 Jun 1967, Dan Gurney GUR, Eagle Weslake, 28, 1:40:49.400)
+582 :: Race (Belgium, 27 Aug 1989, Ayrton Senna SEN, McLaren Honda, 44, 1:40:54.196)
+583 :: Race (Canada, 07 Jun 1998, Michael Schumacher MSC, Ferrari, 69, 1:40:57.355)
+584 :: Race (France, 04 Jul 1976, James Hunt HUN, McLaren Ford, 54, 1:40:58.600)
+585 :: Race (Sweden, 17 Jun 1978, Niki Lauda LAU, Brabham Alfa Romeo, 70, 1:41:00.606)
+586 :: Race (Argentina, 13 Jan 1974, Denny Hulme HUL, McLaren Ford, 53, 1:41:02.010)
+587 :: Race (Netherlands, 27 Aug 1978, Mario Andretti AND, Lotus Ford, 75, 1:41:04.230)
+588 :: Race (Spain, 11 May 2014, Lewis Hamilton HAM, Mercedes, 66, 1:41:05.155)
+589 :: Race (Hungary, 29 Jul 2012, Lewis Hamilton HAM, McLaren Mercedes, 69, 1:41:05.503)
+590 :: Race (Hungary, 01 Aug 2010, Mark Webber WEB, RBR Renault, 70, 1:41:05.571)
+591 :: Race (Malaysia, 29 Mar 2015, Sebastian Vettel VET, Ferrari, 56, 1:41:05.793)
+592 :: Race (Portugal, 25 Sep 1994, Damon Hill HIL, Williams Renault, 71, 1:41:10.165)
+593 :: Race (Portugal, 21 Oct 1984, Alain Prost PRO, McLaren TAG, 70, 1:41:11.753)
+594 :: Race (Canada, 18 Jun 2000, Michael Schumacher MSC, Ferrari, 69, 1:41:12.313)
+595 :: Race (Spain, 10 May 2015, Nico Rosberg ROS, Mercedes, 66, 1:41:12.555)
+596 :: Race (Germany, 03 Aug 1975, Carlos Reutemann REU, Brabham Ford, 14, 1:41:14.100)
+597 :: Race (Germany, 07 Jul 2013, Sebastian Vettel VET, Red Bull Racing Renault, 60, 1:41:14.711)
+598 :: Race (United States, 07 Oct 1973, Ronnie Peterson PET, Lotus Ford, 59, 1:41:15.799)
+599 :: Race (Netherlands, 26 Aug 1979, Alan Jones JON, Williams Ford, 75, 1:41:19.775)
+600 :: Race (Austria, 13 Aug 1978, Ronnie Peterson PET, Lotus Ford, 54, 1:41:21.570)
+601 :: Race (Brazil, 07 Apr 1985, Alain Prost PRO, McLaren TAG, 61, 1:41:26.115)
+602 :: Race (Germany, 04 Aug 1974, Clay Regazzoni REG, Ferrari, 14, 1:41:35.000)
+603 :: Race (Canada, 13 Jun 1999, Mika Hakkinen HAK, McLaren Mercedes, 69, 1:41:35.727)
+604 :: Race (France, 01 Jul 1973, Ronnie Peterson PET, Lotus Ford, 54, 1:41:36.520)
+605 :: Race (Spain, 15 May 2016, Max Verstappen VES, Red Bull Racing TAG Heuer, 66, 1:41:40.017)
+606 :: Race (San Marino, 30 Apr 1995, Damon Hill HIL, Williams Renault, 63, 1:41:42.552)
+607 :: Race (Germany, 01 Aug 1976, James Hunt HUN, McLaren Ford, 14, 1:41:42.700)
+608 :: Race (United States, 08 Oct 1972, Jackie Stewart STE, Tyrrell Ford, 59, 1:41:45.354)
+609 :: Race (Netherlands, 28 Aug 1977, Niki Lauda LAU, Ferrari, 75, 1:41:45.930)
+610 :: Race (Spain, 04 Jun 1978, Mario Andretti AND, Lotus Ford, 75, 1:41:47.060)
+611 :: Race (Hungary, 18 Aug 2002, Rubens Barrichello BAR, Ferrari, 77, 1:41:49.001)
+612 :: Race (Hungary, 19 Aug 2001, Michael Schumacher MSC, Ferrari, 77, 1:41:49.675)
+613 :: Race (South Africa, 03 Mar 1979, Gilles Villeneuve VIL, Ferrari, 78, 1:41:49.960)
+614 :: Race (Portugal, 24 Sep 1995, David Coulthard COU, Williams Renault, 71, 1:41:52.145)
+615 :: Race (Europe, 26 Sep 1999, Johnny Herbert HER, Stewart Ford, 66, 1:41:54.314)
+616 :: Race (Las Vegas, 25 Sep 1982, Michele Alboreto ALB, Tyrrell Ford, 75, 1:41:56.888)
+617 :: Race (Germany, 02 Aug 1970, Jochen Rindt RIN, Lotus Ford, 50, 1:42:00.300)
+618 :: Race (Europe, 21 May 2000, Michael Schumacher MSC, Ferrari, 67, 1:42:00.307)
+619 :: Race (Germany, 05 Aug 1973, Jackie Stewart STE, Tyrrell Ford, 14, 1:42:03.000)
+620 :: Race (Germany, 30 Jul 1972, Jacky Ickx ICK, Ferrari, 14, 1:42:12.300)
+621 :: Race (Great Britain, 16 Jul 1978, Carlos Reutemann REU, Ferrari, 76, 1:42:12.390)
+622 :: Race (Belgium, 20 May 1973, Jackie Stewart STE, Tyrrell Ford, 70, 1:42:13.430)
+623 :: Race (South Africa, 04 Mar 1978, Ronnie Peterson PET, Lotus Ford, 78, 1:42:15.767)
+624 :: Race (Austria, 16 Aug 1970, Jacky Ickx ICK, Ferrari, 60, 1:42:17.320)
+625 :: Race (South Africa, 06 Mar 1976, Niki Lauda LAU, Ferrari, 78, 1:42:18.400)
+626 :: Race (Monaco, 01 Jun 2003, Juan Pablo Montoya MOY, Williams BMW, 78, 1:42:19.010)
+627 :: Race (Turkey, 15 Nov 2020, Lewis Hamilton HAM, Mercedes, 58, 1:42:19.313)
+628 :: Race (Spain, 02 May 1976, James Hunt HUN, McLaren Ford, 75, 1:42:20.430)
+629 :: Race (South Africa, 05 Mar 1977, Niki Lauda LAU, Ferrari, 78, 1:42:21.600)
+630 :: Race (Canada, 15 Jun 1986, Nigel Mansell MAN, Williams Honda, 69, 1:42:26.415)
+631 :: Race (Hungary, 28 Jul 2013, Lewis Hamilton HAM, Mercedes, 70, 1:42:29.445)
+632 :: Race (Brazil, 25 Mar 1984, Alain Prost PRO, McLaren TAG, 61, 1:42:34.492)
+633 :: Race (Mexico, 01 Nov 2015, Nico Rosberg ROS, Mercedes, 71, 1:42:35.038)
+634 :: Race (USA East, 10 Oct 1976, James Hunt HUN, McLaren Ford, 59, 1:42:40.741)
+635 :: Race (South Africa, 30 Mar 1974, Carlos Reutemann REU, Brabham Ford, 78, 1:42:40.960)
+636 :: Race (Spain, 08 May 1977, Mario Andretti AND, Lotus Ford, 75, 1:42:52.220)
+637 :: Race (Belgium, 16 May 1976, Niki Lauda LAU, Ferrari, 70, 1:42:53.230)
+638 :: Race (Monaco, 27 May 2018, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 78, 1:42:54.807)
+639 :: Race (Canada, 10 Jun 1990, Ayrton Senna SEN, McLaren Honda, 70, 1:42:56.400)
+640 :: Race (United States, 05 Oct 1975, Niki Lauda LAU, Ferrari, 59, 1:42:58.175)
+641 :: Race (Netherlands, 23 Jun 1974, Niki Lauda LAU, Ferrari, 75, 1:43:00.350)
+642 :: Race (Great Britain, 20 Jul 1974, Jody Scheckter SCH, Tyrrell Ford, 75, 1:43:02.200)
+643 :: Race (South Africa, 03 Mar 1973, Jackie Stewart STE, Tyrrell Ford, 79, 1:43:11.070)
+644 :: Race (South Korea, 06 Oct 2013, Sebastian Vettel VET, Red Bull Racing Renault, 55, 1:43:13.701)
+645 :: Race (South Africa, 01 Mar 1975, Jody Scheckter SCH, Tyrrell Ford, 78, 1:43:16.900)
+646 :: Race (Canada, 24 Sep 1972, Jackie Stewart STE, Tyrrell Ford, 80, 1:43:16.900)
+647 :: Race (Argentina, 13 Jan 1980, Alan Jones JON, Williams Ford, 53, 1:43:24.380)
+648 :: Race (Australia, 07 Nov 1993, Ayrton Senna SEN, McLaren Ford, 79, 1:43:27.476)
+649 :: Race (Monaco, 26 May 2019, Lewis Hamilton HAM, Mercedes, 78, 1:43:28.437)
+650 :: Race (Monaco, 28 May 2006, Fernando Alonso ALO, Renault, 78, 1:43:43.116)
+651 :: Race (Azerbaijan, 29 Apr 2018, Lewis Hamilton HAM, Mercedes, 51, 1:43:44.291)
+652 :: Race (Italy, 10 Sep 1967, John Surtees SUR, Honda, 68, 1:43:45.000)
+653 :: Race (Belgium, 30 Aug 1998, Damon Hill HIL, Jordan Mugen Honda, 44, 1:43:47.407)
+654 :: Race (United States, 03 Oct 1971, Francois Cevert CEV, Tyrrell Ford, 59, 1:43:51.991)
+655 :: Race (Belgium, 25 May 1975, Niki Lauda LAU, Ferrari, 70, 1:43:53.980)
+656 :: Race (Brazil, 11 Feb 1973, Emerson Fittipaldi FIT, Lotus Ford, 40, 1:43:55.600)
+657 :: Race (Japan, 24 Oct 1976, Mario Andretti AND, Lotus Ford, 73, 1:43:58.860)
+658 :: Race (Belgium, 04 Jun 1972, Emerson Fittipaldi FIT, Lotus Ford, 85, 1:44:06.700)
+659 :: Race (Las Vegas, 17 Oct 1981, Alan Jones JON, Williams Ford, 75, 1:44:09.077)
+660 :: Race (Canada, 10 Jun 2007, Lewis Hamilton HAM, McLaren Mercedes, 70, 1:44:11.292)
+661 :: Race (Europe, 24 Jun 2012, Fernando Alonso ALO, Ferrari, 57, 1:44:16.649)
+662 :: Race (Great Britain, 18 Jul 1976, Niki Lauda LAU, Ferrari, 76, 1:44:19.660)
+663 :: Race (Belgium, 12 May 1974, Emerson Fittipaldi FIT, McLaren Ford, 85, 1:44:20.570)
+664 :: Race (Germany, 28 Jul 2019, Max Verstappen VER, Red Bull Racing Honda, 64, 1:44:31.275)
+665 :: Race (Canada, 12 Jun 1994, Michael Schumacher MSC, Benetton Ford, 69, 1:44:31.887)
+666 :: Race (Brazil, 21 Mar 1982, Alain Prost PRO, Renault, 63, 1:44:33.134)
+667 :: Race (Brazil, 26 Jan 1975, Carlos Pace PAC, Brabham Ford, 40, 1:44:41.170)
+668 :: Race (Monaco, 28 May 2017, Sebastian Vettel VET, Ferrari, 78, 1:44:44.340)
+669 :: Race (Belgium, 28 Aug 2016, Nico Rosberg ROS, Mercedes, 44, 1:44:51.058)
+670 :: Race (Netherlands, 29 Aug 1976, James Hunt HUN, McLaren Ford, 75, 1:44:52.090)
+671 :: Race (Brazil, 23 Jan 1977, Carlos Reutemann REU, Ferrari, 40, 1:45:07.720)
+672 :: Race (Monaco, 22 May 2005, Kimi Räikkönen RAI, McLaren Mercedes, 78, 1:45:15.556)
+673 :: Race (Brazil, 25 Jan 1976, Niki Lauda LAU, Ferrari, 40, 1:45:16.780)
+674 :: Race (Brazil, 25 Nov 2012, Jenson Button BUT, McLaren Mercedes, 71, 1:45:22.656)
+675 :: Race (Hungary, 16 Aug 1998, Michael Schumacher MSC, Ferrari, 77, 1:45:25.550)
+676 :: Race (Hungary, 13 Aug 2000, Mika Hakkinen HAK, McLaren Mercedes, 77, 1:45:33.869)
+677 :: Race (Monaco, 26 May 2002, David Coulthard COU, McLaren Mercedes, 78, 1:45:39.055)
+678 :: Race (Monaco, 23 May 2004, Jarno Trulli TRU, Renault, 77, 1:45:46.601)
+679 :: Race (Hungary, 10 Aug 1997, Jacques Villeneuve VIL, Williams Renault, 77, 1:45:47.149)
+680 :: Race (South Africa, 04 Mar 1972, Denny Hulme HUL, McLaren Ford, 79, 1:45:49.100)
+681 :: Race (Abu Dhabi, 04 Nov 2012, Kimi Räikkönen RAI, Lotus Renault, 55, 1:45:58.667)
+682 :: Race (Pacific, 17 Apr 1994, Michael Schumacher MSC, Benetton Ford, 83, 1:46:01.693)
+683 :: Race (Canada, 16 Jun 1985, Michele Alboreto ALB, Ferrari, 70, 1:46:01.813)
+684 :: Race (Monaco, 27 May 2012, Mark Webber WEB, Red Bull Racing Renault, 78, 1:46:06.557)
+685 :: Race (Hungary, 26 Jul 2015, Sebastian Vettel VET, Ferrari, 69, 1:46:09.985)
+686 :: Race (Hungary, 16 Aug 1992, Ayrton Senna SEN, McLaren Honda, 77, 1:46:19.216)
+687 :: Race (Hungary, 11 Aug 1996, Jacques Villeneuve VIL, Williams Renault, 77, 1:46:21.134)
+688 :: Race (Hungary, 15 Aug 1999, Mika Hakkinen HAK, McLaren Mercedes, 77, 1:46:23.536)
+689 :: Race (Canada, 17 Jun 1984, Nelson Piquet PIQ, Brabham BMW, 70, 1:46:23.748)
+690 :: Race (Hungary, 13 Aug 1995, Damon Hill HIL, Williams Renault, 77, 1:46:25.721)
+691 :: Race (Canada, 11 Jun 1995, Jean Alesi ALE, Ferrari, 69, 1:46:31.333)
+692 :: Race (Spain, 21 Jun 1981, Gilles Villeneuve VIL, Ferrari, 80, 1:46:35.010)
+693 :: Race (Canada, 13 Jun 1982, Nelson Piquet PIQ, Brabham BMW, 70, 1:46:39.577)
+694 :: Race (France, 04 Jul 1971, Jackie Stewart STE, Tyrrell Ford, 55, 1:46:41.680)
+695 :: Race (China, 18 Apr 2010, Jenson Button BUT, McLaren Mercedes, 56, 1:46:42.163)
+696 :: Race (Hungary, 31 Jul 2011, Jenson Button BUT, McLaren Mercedes, 70, 1:46:42.337)
+697 :: Race (Canada, 28 Sep 1980, Alan Jones JON, Williams Ford, 70, 1:46:45.530)
+698 :: Race (Sweden, 13 Jun 1976, Jody Scheckter SCH, Tyrrell Ford, 72, 1:46:53.729)
+699 :: Race (Australia, 08 Nov 1992, Gerhard Berger BER, McLaren Honda, 82, 1:46:54.786)
+700 :: Race (Sweden, 19 Jun 1977, Jacques Laffite LAF, Ligier Matra, 72, 1:46:55.520)
+701 :: Race (Netherlands, 22 Jun 1975, James Hunt HUN, Hesketh Ford, 75, 1:46:57.400)
+702 :: Race (Great Britain, 12 Jul 1998, Michael Schumacher MSC, Ferrari, 60, 1:47:02.450)
+703 :: Race (Italy, 06 Sep 2020, Pierre Gasly GAS, AlphaTauri Honda, 53, 1:47:06.056)
+704 :: Race (Italy, 04 Sep 1966, Ludovico Scarfiotti SCA, Ferrari, 68, 1:47:14.800)
+705 :: Race (Monaco, 27 May 2001, Michael Schumacher MSC, Ferrari, 78, 1:47:22.561)
+706 :: Race (Malaysia, 18 Mar 2001, Michael Schumacher MSC, Ferrari, 55, 1:47:34.801)
+707 :: Race (South Africa, 06 Mar 1971, Mario Andretti AND, Ferrari, 79, 1:47:35.500)
+708 :: Race (Hungary, 15 Aug 1993, Damon Hill HIL, Williams Renault, 77, 1:47:39.098)
+709 :: Race (Spain, 01 Oct 1989, Ayrton Senna SEN, McLaren Honda, 72, 1:47:48.264)
+710 :: Race (Great Britain, 15 Jul 1972, Emerson Fittipaldi FIT, Lotus Ford, 76, 1:47:50.200)
+711 :: Race (Australia, 13 Nov 1994, Nigel Mansell MAN, Williams Renault, 81, 1:47:51.480)
+712 :: Race (Hungary, 14 Aug 1994, Michael Schumacher MSC, Benetton Ford, 77, 1:48:00.185)
+713 :: Race (Spain, 30 Sep 1990, Alain Prost PRO, Ferrari, 73, 1:48:01.461)
+714 :: Race (Australia, 20 Mar 2016, Nico Rosberg ROS, Mercedes, 57, 1:48:15.565)
+715 :: Race (Spain, 29 Apr 1973, Emerson Fittipaldi FIT, Lotus Ford, 75, 1:48:18.700)
+716 :: Race (Brazil, 13 Mar 1983, Nelson Piquet PIQ, Brabham BMW, 63, 1:48:27.731)
+717 :: Race (France, 03 Jul 1966, Jack Brabham BRA, Brabham Repco, 48, 1:48:31.300)
+718 :: Race (Canada, 12 Jun 1983, Rene Arnoux ARN, Ferrari, 70, 1:48:31.838)
+719 :: Race (Argentina, 12 Apr 1998, Michael Schumacher MSC, Ferrari, 72, 1:48:36.175)
+720 :: Race (Spain, 02 Oct 1988, Alain Prost PRO, McLaren Honda, 72, 1:48:43.851)
+721 :: Race (Spain, 13 Apr 1986, Ayrton Senna SEN, Lotus Renault, 72, 1:48:47.735)
+722 :: Race (Pacific, 22 Oct 1995, Michael Schumacher MSC, Benetton Renault, 83, 1:48:49.972)
+723 :: Race (Spain, 18 Apr 1971, Jackie Stewart STE, Tyrrell Ford, 75, 1:49:03.400)
+724 :: Race (Spain, 27 Sep 1987, Nigel Mansell MAN, Williams Honda, 72, 1:49:12.692)
+725 :: Race (Hungary, 11 Aug 1991, Ayrton Senna SEN, McLaren Honda, 77, 1:49:12.796)
+726 :: Race (Australia, 12 Nov 1995, Damon Hill HIL, Williams Renault, 81, 1:49:15.946)
+727 :: Race (Monaco, 24 May 2015, Nico Rosberg ROS, Mercedes, 78, 1:49:18.420)
+728 :: Race (Monaco, 25 May 2014, Nico Rosberg ROS, Mercedes, 78, 1:49:27.661)
+729 :: Race (Monaco, 04 Jun 2000, David Coulthard COU, McLaren Mercedes, 78, 1:49:28.213)
+730 :: Race (Hungary, 12 Aug 1990, Thierry Boutsen BOU, Williams Renault, 77, 1:49:30.597)
+731 :: Race (Monaco, 16 May 1999, Michael Schumacher MSC, Ferrari, 78, 1:49:31.812)
+732 :: Race (South Africa, 07 Mar 1970, Jack Brabham BRA, Brabham Ford, 80, 1:49:34.600)
+733 :: Race (Hungary, 13 Aug 1989, Nigel Mansell MAN, Ferrari, 77, 1:49:38.650)
+734 :: Race (Australia, 04 Nov 1990, Nelson Piquet PIQ, Benetton Ford, 81, 1:49:44.570)
+735 :: Race (Brazil, 31 Mar 1996, Damon Hill HIL, Williams Renault, 71, 1:49:52.976)
+736 :: Race (Monaco, 15 May 1994, Michael Schumacher MSC, Benetton Ford, 78, 1:49:55.372)
+737 :: Race (Germany, 03 Aug 1969, Jacky Ickx ICK, Brabham Ford, 14, 1:49:55.400)
+738 :: Race (Brazil, 29 Jan 1978, Carlos Reutemann REU, Ferrari, 63, 1:49:59.860)
+739 :: Race (Monaco, 16 May 2010, Mark Webber WEB, RBR Renault, 78, 1:50:13.355)
+740 :: Race (Detroit, 21 Jun 1987, Ayrton Senna SEN, Lotus Honda, 63, 1:50:16.358)
+741 :: Race (USA West, 30 Mar 1980, Nelson Piquet PIQ, Brabham Ford, 80, 1:50:18.550)
+742 :: Race (USA West, 08 Apr 1979, Gilles Villeneuve VIL, Ferrari, 80, 1:50:25.400)
+743 :: Race (South Africa, 01 Mar 1969, Jackie Stewart STE, Matra Ford, 80, 1:50:39.100)
+744 :: Race (USA West, 15 Mar 1981, Alan Jones JON, Williams Ford, 80, 1:50:41.330)
+745 :: Race (Netherlands, 21 Jun 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:50:43.410)
+746 :: Race (Europe, 11 Apr 1993, Ayrton Senna SEN, McLaren Ford, 76, 1:50:46.570)
+747 :: Race (United States, 25 Oct 2015, Lewis Hamilton HAM, Mercedes, 56, 1:50:52.703)
+748 :: Race (Detroit, 05 Jun 1983, Michele Alboreto ALB, Tyrrell Ford, 60, 1:50:53.669)
+749 :: Race (Monaco, 31 May 1992, Ayrton Senna SEN, McLaren Honda, 78, 1:50:59.372)
+750 :: Race (Singapore, 16 Sep 2018, Lewis Hamilton HAM, Mercedes, 61, 1:51:11.611)
+751 :: Race (Detroit, 22 Jun 1986, Ayrton Senna SEN, Lotus Renault, 63, 1:51:12.847)
+752 :: Race (Brazil, 28 Mar 1993, Ayrton Senna SEN, McLaren Ford, 71, 1:51:15.485)
+753 :: Race (Monaco, 24 May 1998, Mika Hakkinen HAK, McLaren Mercedes, 78, 1:51:23.595)
+754 :: Race (San Marino, 03 May 1981, Nelson Piquet PIQ, Brabham Ford, 60, 1:51:23.970)
+755 :: Race (USA West, 03 Apr 1977, Mario Andretti AND, Lotus Ford, 80, 1:51:35.470)
+756 :: Race (Argentina, 09 Apr 1995, Damon Hill HIL, Williams Renault, 71, 1:51:39.531)
+757 :: Race (Japan, 05 Oct 2014, Lewis Hamilton HAM, Mercedes, 44, 1:51:43.021)
+758 :: Race (Monaco, 19 May 1985, Alain Prost PRO, McLaren TAG, 78, 1:51:58.034)
+759 :: Race (USA West, 02 Apr 1978, Carlos Reutemann REU, Ferrari, 80, 1:52:01.301)
+760 :: Race (Argentina, 13 Apr 1997, Jacques Villeneuve VIL, Williams Renault, 72, 1:52:01.715)
+761 :: Race (Canada, 30 Sep 1979, Alan Jones JON, Williams Ford, 72, 1:52:06.892)
+762 :: Race (Monaco, 23 May 1993, Ayrton Senna SEN, McLaren Ford, 78, 1:52:10.947)
+763 :: Race (USA East, 07 Oct 1979, Gilles Villeneuve VIL, Ferrari, 59, 1:52:17.734)
+764 :: Race (Hungary, 06 Aug 2006, Jenson Button BUT, Honda, 70, 1:52:20.941)
+765 :: Race (Monaco, 23 May 1971, Jackie Stewart STE, Tyrrell Ford, 80, 1:52:21.300)
+766 :: Race (France, 02 Jul 1972, Jackie Stewart STE, Tyrrell Ford, 38, 1:52:21.500)
+767 :: Race (United States, 11 Mar 1990, Ayrton Senna SEN, McLaren Honda, 72, 1:52:32.829)
+768 :: Race (Monaco, 27 May 1990, Ayrton Senna SEN, McLaren Honda, 78, 1:52:46.982)
+769 :: Race (Australia, 15 Nov 1987, Gerhard Berger BER, Ferrari, 82, 1:52:56.144)
+770 :: Race (Monaco, 12 May 1991, Ayrton Senna SEN, McLaren Honda, 78, 1:53:02.334)
+771 :: Race (Hungary, 27 Jul 2014, Daniel Ricciardo RIC, Red Bull Racing Renault, 70, 1:53:05.058)
+772 :: Race (Monaco, 28 May 1995, Michael Schumacher MSC, Benetton Renault, 78, 1:53:11.258)
+773 :: Race (Australia, 13 Nov 1988, Alain Prost PRO, McLaren Honda, 82, 1:53:14.676)
+774 :: Race (USA West, 28 Mar 1976, Clay Regazzoni REG, Ferrari, 80, 1:53:18.471)
+775 :: Race (Mexico, 25 Oct 1970, Jacky Ickx ICK, Ferrari, 65, 1:53:28.360)
+776 :: Race (Monaco, 07 May 1989, Ayrton Senna SEN, McLaren Honda, 77, 1:53:33.251)
+777 :: Race (USA West, 27 Mar 1983, John Watson WAT, McLaren Ford, 75, 1:53:34.889)
+778 :: Race (South Africa, 01 Jan 1968, Jim Clark CLA, Lotus Ford, 80, 1:53:56.600)
+779 :: Race (Mexico, 19 Oct 1969, Denny Hulme HUL, McLaren Ford, 65, 1:54:08.800)
+780 :: Race (Monaco, 23 May 1982, Riccardo Patrese PAT, Brabham Ford, 76, 1:54:11.259)
+781 :: Race (Australia, 26 Oct 1986, Alain Prost PRO, McLaren TAG, 82, 1:54:20.388)
+782 :: Race (Monaco, 31 May 1981, Gilles Villeneuve VIL, Ferrari, 76, 1:54:23.380)
+783 :: Race (Monaco, 10 May 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:54:36.600)
+784 :: Race (Argentina, 07 Apr 1996, Damon Hill HIL, Williams Renault, 72, 1:54:55.322)
+785 :: Race (Detroit, 19 Jun 1988, Ayrton Senna SEN, McLaren Honda, 63, 1:54:56.035)
+786 :: Race (Belgium, 05 Jun 1977, Gunnar Nilsson NIL, Lotus Ford, 70, 1:55:05.710)
+787 :: Race (Canada, 19 Sep 1971, Jackie Stewart STE, Tyrrell Ford, 64, 1:55:12.900)
+788 :: Race (Monaco, 07 May 1978, Patrick Depailler DEP, Tyrrell Ford, 75, 1:55:14.660)
+789 :: Race (Monaco, 27 May 1979, Jody Scheckter SCH, Ferrari, 76, 1:55:22.480)
+790 :: Race (Monaco, 18 May 1980, Carlos Reutemann REU, Williams Ford, 76, 1:55:34.365)
+791 :: Race (Detroit, 23 Jun 1985, Keke Rosberg ROS, Williams Honda, 63, 1:55:39.851)
+792 :: Race (Monaco, 11 May 1986, Alain Prost PRO, McLaren TAG, 78, 1:55:41.060)
+793 :: Race (Detroit, 24 Jun 1984, Nelson Piquet PIQ, Brabham BMW, 63, 1:55:41.842)
+794 :: Race (Singapore, 18 Sep 2016, Nico Rosberg ROS, Mercedes, 61, 1:55:48.950)
+795 :: Race (Japan, 06 Nov 1994, Damon Hill HIL, Williams Renault, 50, 1:55:53.532)
+796 :: Race (Great Britain, 19 Jul 1969, Jackie Stewart STE, Matra Ford, 84, 1:55:55.600)
+797 :: Race (France, 05 Jul 1970, Jochen Rindt RIN, Lotus Ford, 38, 1:55:57.000)
+798 :: Race (Singapore, 27 Sep 2009, Lewis Hamilton HAM, McLaren Mercedes, 61, 1:56:06.337)
+799 :: Race (Spain, 03 May 1992, Nigel Mansell MAN, Williams Renault, 65, 1:56:10.674)
+800 :: Race (Argentina, 28 Jan 1973, Emerson Fittipaldi FIT, Lotus Ford, 96, 1:56:18.220)
+801 :: Race (Netherlands, 20 Jun 1971, Jacky Ickx ICK, Ferrari, 70, 1:56:20.090)
+802 :: Race (Monaco, 15 May 1983, Keke Rosberg ROS, Williams Ford, 76, 1:56:38.121)
+803 :: Race (Mexico, 03 Nov 1968, Graham Hill HIL, Lotus Ford, 65, 1:56:43.950)
+804 :: Race (Sweden, 17 Jun 1973, Denny Hulme HUL, McLaren Ford, 80, 1:56:46.049)
+805 :: Race (France, 06 Jul 1969, Jackie Stewart STE, Matra Ford, 38, 1:56:47.400)
+806 :: Race (Monaco, 18 May 1969, Graham Hill HIL, Lotus Ford, 80, 1:56:59.400)
+807 :: Race (Great Britain, 18 Jul 1970, Jochen Rindt RIN, Lotus Ford, 80, 1:57:02.000)
+808 :: Race (Singapore, 28 Sep 2008, Fernando Alonso ALO, Renault, 61, 1:57:16.304)
+809 :: Race (Monaco, 15 May 1988, Alain Prost PRO, McLaren Honda, 78, 1:57:17.077)
+810 :: Race (France, 03 Jul 1960, Jack Brabham BRA, Cooper Climax, 50, 1:57:24.900)
+811 :: Race (United States, 04 Oct 1970, Emerson Fittipaldi FIT, Lotus Ford, 108, 1:57:32.790)
+812 :: Race (China, 19 Apr 2009, Sebastian Vettel VET, RBR Renault, 56, 1:57:43.485)
+813 :: Race (Monaco, 03 Jun 1973, Jackie Stewart STE, Tyrrell Ford, 78, 1:57:44.300)
+814 :: Race (Hungary, 07 Aug 1988, Ayrton Senna SEN, McLaren Honda, 76, 1:57:47.081)
+815 :: Race (Canada, 08 Oct 1978, Gilles Villeneuve VIL, Ferrari, 70, 1:57:49.196)
+816 :: Race (Monaco, 22 May 1977, Jody Scheckter SCH, Wolf Ford, 76, 1:57:52.770)
+817 :: Race (Singapore, 26 Sep 2010, Fernando Alonso ALO, Ferrari, 61, 1:57:53.579)
+818 :: Race (Monaco, 31 May 1987, Ayrton Senna SEN, Lotus Honda, 78, 1:57:54.085)
+819 :: Race (United States, 05 Oct 1969, Jochen Rindt RIN, Lotus Ford, 108, 1:57:56.840)
+820 :: Race (Argentina, 23 Jan 1972, Jackie Stewart STE, Tyrrell Ford, 95, 1:57:58.820)
+821 :: Race (Monaco, 26 May 1974, Ronnie Peterson PET, Lotus Ford, 78, 1:58:03.700)
+822 :: Race (USA East, 02 Oct 1977, James Hunt HUN, McLaren Ford, 59, 1:58:23.267)
+823 :: Race (France, 27 Jun 1999, Heinz-Harald Frentzen FRE, Jordan Mugen Honda, 72, 1:58:24.343)
+824 :: Race (USA West, 04 Apr 1982, Niki Lauda LAU, McLaren Ford, 75, 1:58:25.318)
+825 :: Race (Sweden, 09 Jun 1974, Jody Scheckter SCH, Tyrrell Ford, 80, 1:58:31.391)
+826 :: Race (Singapore, 22 Sep 2019, Sebastian Vettel VET, Ferrari, 61, 1:58:33.667)
+827 :: Race (Detroit, 06 Jun 1982, John Watson WAT, McLaren Ford, 62, 1:58:41.043)
+828 :: Race (Canada, 23 Sep 1973, Peter Revson REV, McLaren Ford, 80, 1:59:04.083)
+829 :: Race (Singapore, 25 Sep 2011, Sebastian Vettel VET, Red Bull Racing Renault, 61, 1:59:06.757)
+830 :: Race (Singapore, 22 Sep 2013, Sebastian Vettel VET, Red Bull Racing Renault, 61, 1:59:13.132)
+831 :: Race (Sweden, 08 Jun 1975, Niki Lauda LAU, Ferrari, 80, 1:59:18.319)
+832 :: Race (United States, 06 Oct 1968, Jackie Stewart STE, Matra Ford, 108, 1:59:20.290)
+833 :: Race (Great Britain, 15 Jul 1967, Jim Clark CLA, Lotus Ford, 80, 1:59:25.600)
+834 :: Race (Canada, 20 Sep 1969, Jacky Ickx ICK, Brabham Ford, 90, 1:59:25.700)
+835 :: Race (Hungary, 09 Aug 1987, Nelson Piquet PIQ, Williams Honda, 76, 1:59:26.793)
+836 :: Race (Mexico, 22 Oct 1967, Jim Clark CLA, Lotus Ford, 65, 1:59:28.700)
+837 :: Race (Monaco, 29 May 2016, Lewis Hamilton HAM, Mercedes, 78, 1:59:29.133)
+838 :: Race (Spain, 02 Jun 1996, Michael Schumacher MSC, Ferrari, 65, 1:59:49.307)
+839 :: Race (Monaco, 30 May 1976, Niki Lauda LAU, Ferrari, 78, 1:59:51.470)
+840 :: Race (Singapore, 21 Sep 2014, Lewis Hamilton HAM, Mercedes, 60, 2:00:04.795)
+841 :: Race (Monaco, 11 May 1997, Michael Schumacher MSC, Ferrari, 62, 2:00:05.654)
+842 :: Race (Australia, 05 Nov 1989, Thierry Boutsen BOU, Williams Renault, 70, 2:00:17.421)
+843 :: Race (Brazil, 29 Mar 1981, Carlos Reutemann REU, Williams Ford, 62, 2:00:23.660)
+844 :: Race (Singapore, 23 Sep 2012, Sebastian Vettel VET, Red Bull Racing Renault, 59, 2:00:26.144)
+845 :: Race (Portugal, 21 Apr 1985, Ayrton Senna SEN, Lotus Renault, 67, 2:00:28.006)
+846 :: Race (Spain, 28 Apr 1974, Niki Lauda LAU, Ferrari, 84, 2:00:29.560)
+847 :: Race (Monaco, 26 May 1968, Graham Hill HIL, Lotus Ford, 80, 2:00:32.300)
+848 :: Race (Hungary, 10 Aug 1986, Nelson Piquet PIQ, Williams Honda, 76, 2:00:34.508)
+849 :: Race (Japan, 30 Sep 2007, Lewis Hamilton HAM, McLaren Mercedes, 67, 2:00:34.579)
+850 :: Race (Australia, 03 Nov 1985, Keke Rosberg ROS, Williams Honda, 82, 2:00:40.473)
+851 :: Race (Monaco, 25 May 2008, Lewis Hamilton HAM, McLaren Mercedes, 76, 2:00:42.742)
+852 :: Race (Monaco, 19 May 1996, Olivier Panis PAN, Ligier Mugen Honda, 75, 2:00:45.629)
+853 :: Race (United States, 10 Mar 1991, Ayrton Senna SEN, McLaren Honda, 81, 2:00:47.828)
+854 :: Race (Great Britain, 20 Jul 1968, Jo Siffert SIF, Lotus Ford, 80, 2:01:20.300)
+855 :: Race (Monaco, 11 May 1975, Niki Lauda LAU, Ferrari, 75, 2:01:21.310)
+856 :: Race (Singapore, 20 Sep 2015, Sebastian Vettel VET, Ferrari, 61, 2:01:22.118)
+857 :: Race (Dallas, 08 Jul 1984, Keke Rosberg ROS, Williams Honda, 67, 2:01:22.617)
+858 :: Race (Canada, 18 Jun 1989, Thierry Boutsen BOU, Williams Renault, 69, 2:01:24.073)
+859 :: Race (Canada, 27 Sep 1981, Jacques Laffite LAF, Ligier Matra, 63, 2:01:25.205)
+860 :: Race (France, 05 Jul 1959, Tony Brooks BRO, Ferrari, 50, 2:01:26.500)
+861 :: Race (United States, 04 Jun 1989, Alain Prost PRO, McLaren Honda, 75, 2:01:33.133)
+862 :: Race (Netherlands, 06 Jun 1960, Jack Brabham BRA, Cooper Climax, 75, 2:01:47.200)
+863 :: Race (Netherlands, 22 May 1961, Wolfgang von Trips VON, Ferrari, 75, 2:01:52.100)
+864 :: Race (Switzerland, 04 Jun 1950, Nino Farina FAR, Alfa Romeo, 42, 2:02:53.700)
+865 :: Race (Belgium, 18 Jun 1961, Phil Hill HIL, Ferrari, 30, 2:03:03.800)
+866 :: Race (Italy, 10 Sep 1961, Phil Hill HIL, Ferrari, 43, 2:03:13.000)
+867 :: Race (United States, 01 Oct 1967, Jim Clark CLA, Lotus Ford, 108, 2:03:13.200)
+868 :: Race (France, 06 Jul 1958, Mike Hawthorn HAW, Ferrari, 50, 2:03:21.300)
+869 :: Race (Singapore, 17 Sep 2017, Lewis Hamilton HAM, Mercedes, 58, 2:03:23.544)
+870 :: Race (Spain, 01 May 1972, Emerson Fittipaldi FIT, Lotus Ford, 90, 2:03:41.230)
+871 :: Race (Italy, 07 Sep 1958, Tony Brooks BRO, Vanwall, 70, 2:03:47.800)
+872 :: Race (Azerbaijan, 25 Jun 2017, Daniel Ricciardo RIC, Red Bull Racing TAG Heuer, 51, 2:03:55.573)
+873 :: Race (Netherlands, 18 Jul 1965, Jim Clark CLA, Lotus Climax, 80, 2:03:59.100)
+874 :: Race (Italy, 13 Sep 1959, Stirling Moss MOS, Cooper Climax, 72, 2:04:05.400)
+875 :: Race (Great Britain, 16 Jul 1960, Jack Brabham BRA, Cooper Climax, 77, 2:04:24.600)
+876 :: Race (Netherlands, 26 May 1958, Stirling Moss MOS, Vanwall, 75, 2:04:49.200)
+877 :: Race (Italy, 12 Sep 1965, Jackie Stewart STE, BRM, 76, 2:04:52.800)
+878 :: Race (Great Britain, 10 Jul 1965, Jim Clark CLA, Lotus Climax, 80, 2:05:25.400)
+879 :: Race (Netherlands, 31 May 1959, Jo Bonnier BON, BRM, 75, 2:05:26.800)
+880 :: Race (South Africa, 02 Jan 1967, Pedro Rodriguez ROD, Cooper Maserati, 80, 2:05:45.900)
+881 :: Race (Germany, 06 Aug 1967, Denny Hulme HUL, Brabham Repco, 15, 2:05:55.700)
+882 :: Race (Austria, 23 Aug 1964, Lorenzo Bandini BAN, Ferrari, 105, 2:06:18.230)
+883 :: Race (Europe, 22 Jul 2007, Fernando Alonso ALO, McLaren Mercedes, 60, 2:06:26.358)
+884 :: Race (Mexico, 23 Oct 1966, John Surtees SUR, Cooper Maserati, 65, 2:06:35.340)
+885 :: Race (Belgium, 14 Jun 1964, Jim Clark CLA, Lotus Climax, 32, 2:06:40.500)
+886 :: Race (Netherlands, 21 Jun 1969, Jackie Stewart STE, Matra Ford, 90, 2:06:42.080)
+887 :: Race (South Africa, 01 Jan 1965, Jim Clark CLA, Lotus Climax, 85, 2:06:46.000)
+888 :: Race (United States, 07 Oct 1962, Jim Clark CLA, Lotus Climax, 100, 2:07:13.000)
+889 :: Race (Belgium, 17 Jun 1962, Jim Clark CLA, Lotus Climax, 32, 2:07:32.300)
+890 :: Race (Netherlands, 24 May 1964, Jim Clark CLA, Lotus Climax, 80, 2:07:35.400)
+891 :: Race (France, 08 Jul 1962, Dan Gurney GUR, Porsche, 54, 2:07:35.500)
+892 :: Race (France, 28 Jun 1964, Dan Gurney GUR, Brabham Climax, 57, 2:07:49.100)
+893 :: Race (Germany, 01 Aug 1965, Jim Clark CLA, Lotus Climax, 15, 2:07:52.400)
+894 :: Race (Switzerland, 27 May 1951, Juan Manuel Fangio FAN, Alfa Romeo, 42, 2:07:53.640)
+895 :: Race (South Africa, 29 Dec 1962, Graham Hill HIL, BRM, 82, 2:08:03.300)
+896 :: Race (Netherlands, 23 Jun 1963, Jim Clark CLA, Lotus Climax, 80, 2:08:13.700)
+897 :: Race (Mexico, 24 Oct 1965, Richie Ginther GIN, Honda, 65, 2:08:32.100)
+898 :: Race (Great Britain, 19 Jul 1958, Peter Collins COL, Ferrari, 75, 2:09:04.200)
+899 :: Race (Belgium, 12 Jun 1966, John Surtees SUR, Ferrari, 28, 2:09:11.300)
+900 :: Race (Morocco, 19 Oct 1958, Stirling Moss MOS, Vanwall, 53, 2:09:15.100)
+901 :: Race (Germany, 02 Aug 1959, Tony Brooks BRO, Ferrari, 60, 2:09:31.600)
+902 :: Race (Monaco, 29 May 2011, Sebastian Vettel VET, Red Bull Racing Renault, 78, 2:09:38.373)
+903 :: Race (United States, 02 Oct 1966, Jim Clark CLA, Lotus BRM, 108, 2:09:40.100)
+904 :: Race (Mexico, 25 Oct 1964, Dan Gurney GUR, Brabham Climax, 65, 2:09:50.320)
+905 :: Race (Mexico, 27 Oct 1963, Jim Clark CLA, Lotus Climax, 65, 2:09:52.100)
+906 :: Race (South Africa, 28 Dec 1963, Jim Clark CLA, Lotus Climax, 85, 2:10:36.900)
+907 :: Race (Italy, 06 Sep 1964, John Surtees SUR, Ferrari, 78, 2:10:51.800)
+908 :: Race (France, 30 Jun 1963, Jim Clark CLA, Lotus Climax, 53, 2:10:54.300)
+909 :: Race (Spain, 19 Apr 1970, Jackie Stewart STE, March Ford, 90, 2:10:58.200)
+910 :: Race (Netherlands, 20 May 1962, Graham Hill HIL, BRM, 80, 2:11:02.100)
+911 :: Race (Portugal, 24 Aug 1958, Stirling Moss MOS, Vanwall, 50, 2:11:27.800)
+912 :: Race (Portugal, 23 Aug 1959, Stirling Moss MOS, Cooper Climax, 62, 2:11:55.410)
+913 :: Race (Germany, 02 Aug 1964, John Surtees SUR, Ferrari, 15, 2:12:04.800)
+914 :: Race (United States, 12 Dec 1959, Bruce McLaren MCL, Cooper Climax, 42, 2:12:35.700)
+915 :: Race (Germany, 04 Aug 1963, John Surtees SUR, Ferrari, 15, 2:13:06.800)
+916 :: Race (Great Britain, 16 Jul 1966, Jack Brabham BRA, Brabham Repco, 80, 2:13:13.400)
+917 :: Race (France, 02 Jul 1967, Jack Brabham BRA, Brabham Repco, 80, 2:13:21.300)
+918 :: Race (Great Britain, 13 May 1950, Nino Farina FAR, Alfa Romeo, 70, 2:13:23.600)
+919 :: Race (United States, 08 Oct 1961, Innes Ireland IRE, Lotus Climax, 100, 2:13:45.800)
+920 :: Race (Great Britain, 20 Jul 1963, Jim Clark CLA, Lotus Climax, 82, 2:14:09.600)
+921 :: Race (France, 02 Jul 1961, Giancarlo Baghetti BAG, Ferrari, 52, 2:14:17.500)
+922 :: Race (France, 27 Jun 1965, Jim Clark CLA, Lotus Climax, 40, 2:14:38.400)
+923 :: Race (Netherlands, 04 Jun 1967, Jim Clark CLA, Lotus Ford, 90, 2:14:45.100)
+924 :: Race (Great Britain, 11 Jul 1964, Jim Clark CLA, Lotus Climax, 80, 2:15:07.000)
+925 :: Race (Spain, 12 May 1968, Graham Hill HIL, Lotus Ford, 90, 2:15:20.100)
+926 :: Race (United States, 04 Oct 1964, Graham Hill HIL, BRM, 110, 2:16:38.000)
+927 :: Race (Spain, 04 May 1969, Jackie Stewart STE, Matra Ford, 90, 2:16:53.990)
+928 :: Race (Argentina, 07 Feb 1960, Bruce McLaren MCL, Cooper Climax, 80, 2:17:49.500)
+929 :: Race (Monaco, 26 May 2013, Nico Rosberg ROS, Mercedes, 78, 2:17:52.056)
+930 :: Race (Germany, 06 Aug 1961, Stirling Moss MOS, Lotus Climax, 15, 2:18:12.400)
+931 :: Race (Portugal, 14 Aug 1960, Jack Brabham BRA, Cooper Climax, 55, 2:19:00.030)
+932 :: Race (Germany, 04 Aug 1968, Jackie Stewart STE, Matra Ford, 14, 2:19:03.200)
+933 :: Race (United States, 06 Oct 1963, Graham Hill HIL, BRM, 110, 2:19:22.100)
+934 :: Race (Argentina, 19 Jan 1958, Stirling Moss MOS, Cooper Climax, 80, 2:19:33.700)
+935 :: Race (Tuscany, 13 Sep 2020, Lewis Hamilton HAM, Mercedes, 59, 2:19:35.060)
+936 :: Race (Netherlands, 24 Jul 1966, Jack Brabham BRA, Brabham Repco, 90, 2:20:32.500)
+937 :: Race (United States, 03 Oct 1965, Graham Hill HIL, BRM, 110, 2:20:36.100)
+938 :: Race (Italy, 04 Sep 1960, Phil Hill HIL, Ferrari, 50, 2:21:09.200)
+939 :: Race (Germany, 03 Aug 1958, Tony Brooks BRO, Vanwall, 15, 2:21:15.000)
+940 :: Race (Canada, 20 Sep 1970, Jacky Ickx ICK, Ferrari, 90, 2:21:18.400)
+941 :: Race (Belgium, 19 Jun 1960, Jack Brabham BRA, Cooper Climax, 36, 2:21:37.300)
+942 :: Race (Belgium, 13 Jun 1965, Jim Clark CLA, Lotus Climax, 32, 2:23:34.800)
+943 :: Race (Italy, 02 Sep 1956, Stirling Moss MOS, Maserati, 50, 2:23:41.300)
+944 :: Race (Italy, 08 Sep 1963, Jim Clark CLA, Lotus Climax, 86, 2:24:19.600)
+945 :: Race (Italy, 11 Sep 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 50, 2:25:04.400)
+946 :: Race (France, 07 Jul 1968, Jacky Ickx ICK, Ferrari, 60, 2:25:40.900)
+947 :: Race (Great Britain, 21 Jul 1962, Jim Clark CLA, Lotus Climax, 75, 2:26:20.800)
+948 :: Race (Great Britain, 06 Jul 2014, Lewis Hamilton HAM, Mercedes, 52, 2:26:52.094)
+949 :: Race (Monaco, 14 May 1972, Jean-Pierre Beltoise BEL, BRM, 80, 2:26:54.700)
+950 :: Race (Germany, 07 Aug 1966, Jack Brabham BRA, Brabham Repco, 15, 2:27:03.000)
+951 :: Race (Canada, 22 Sep 1968, Denny Hulme HUL, McLaren Ford, 90, 2:27:11.200)
+952 :: Race (Belgium, 09 Jun 1963, Jim Clark CLA, Lotus Climax, 32, 2:27:47.600)
+953 :: Race (United States, 20 Nov 1960, Stirling Moss MOS, Lotus Climax, 75, 2:28:52.200)
+954 :: Race (Italy, 16 Sep 1962, Graham Hill HIL, BRM, 86, 2:29:08.400)
+955 :: Race (Great Britain, 18 Jul 1959, Jack Brabham BRA, Cooper Climax, 75, 2:30:11.600)
+956 :: Race (Monaco, 22 May 1966, Jackie Stewart STE, BRM, 100, 2:33:10.500)
+957 :: Race (France, 01 Jul 1956, Peter Collins COL, Ferrari, 61, 2:34:23.400)
+958 :: Race (Monaco, 07 May 1967, Denny Hulme HUL, Brabham Repco, 100, 2:34:34.300)
+959 :: Race (Italy, 08 Sep 1957, Stirling Moss MOS, Vanwall, 87, 2:35:03.900)
+960 :: Race (Monaco, 30 May 1965, Graham Hill HIL, BRM, 100, 2:37:39.600)
+961 :: Race (Germany, 05 Aug 1962, Graham Hill HIL, BRM, 15, 2:38:45.300)
+962 :: Race (Belgium, 05 Jun 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 36, 2:39:29.000)
+963 :: Race (Belgium, 03 Jun 1956, Peter Collins COL, Ferrari, 36, 2:40:00.300)
+964 :: Race (Canada, 27 Aug 1967, Jack Brabham BRA, Brabham Repco, 90, 2:40:40.000)
+965 :: Race (Great Britain, 15 Jul 1961, Wolfgang von Trips VON, Ferrari, 75, 2:40:53.600)
+966 :: Race (Monaco, 10 May 1964, Graham Hill HIL, BRM, 100, 2:41:19.500)
+967 :: Race (Monaco, 26 May 1963, Graham Hill HIL, BRM, 100, 2:41:49.700)
+968 :: Race (Great Britain, 14 Jul 1951, Jose Froilan Gonzalez GON, Ferrari, 90, 2:42:18.200)
+969 :: Race (Italy, 16 Sep 1951, Alberto Ascari ASC, Ferrari, 80, 2:42:39.300)
+970 :: Race (France, 04 Jul 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 61, 2:42:47.900)
+971 :: Race (Great Britain, 19 Jul 1952, Alberto Ascari ASC, Ferrari, 85, 2:44:11.000)
+972 :: Race (France, 05 Jul 1953, Mike Hawthorn HAW, Ferrari, 60, 2:44:18.600)
+973 :: Race (Belgium, 20 Jun 1954, Juan Manuel Fangio FAN, Maserati, 36, 2:44:42.400)
+974 :: Race (Malaysia, 25 Mar 2012, Fernando Alonso ALO, Ferrari, 56, 2:44:51.812)
+975 :: Race (Belgium, 17 Jun 1951, Nino Farina FAR, Alfa Romeo, 36, 2:45:46.200)
+976 :: Race (Monaco, 14 May 1961, Stirling Moss MOS, Lotus Climax, 100, 2:45:50.100)
+977 :: Race (Netherlands, 23 Jun 1968, Jackie Stewart STE, Matra Ford, 90, 2:46:11.260)
+978 :: Race (Monaco, 03 Jun 1962, Bruce McLaren MCL, Cooper Climax, 100, 2:46:29.700)
+979 :: Race (Spain, 28 Oct 1951, Juan Manuel Fangio FAN, Alfa Romeo, 70, 2:46:54.100)
+980 :: Race (Indianapolis 500, 30 May 1950, Johnnie Parsons PAR, Kurtis Kraft Offenhauser, 138, 2:46:55.970)
+981 :: Race (Belgium, 18 Jun 1950, Juan Manuel Fangio FAN, Alfa Romeo, 35, 2:47:26.000)
+982 :: Race (Italy, 05 Sep 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 80, 2:47:47.900)
+983 :: Race (South Korea, 24 Oct 2010, Fernando Alonso ALO, Ferrari, 55, 2:48:20.810)
+984 :: Race (Belgium, 21 Jun 1953, Alberto Ascari ASC, Ferrari, 36, 2:48:30.300)
+985 :: Race (Italy, 13 Sep 1953, Juan Manuel Fangio FAN, Maserati, 80, 2:49:45.900)
+986 :: Race (Great Britain, 18 Jul 1953, Alberto Ascari ASC, Ferrari, 90, 2:50:00.000)
+987 :: Race (Italy, 07 Sep 1952, Alberto Ascari ASC, Ferrari, 80, 2:50:45.600)
+988 :: Race (Italy, 03 Sep 1950, Nino Farina FAR, Alfa Romeo, 80, 2:51:17.400)
+989 :: Race (Monaco, 18 May 1958, Maurice Trintignant TRI, Cooper Climax, 100, 2:52:27.900)
+990 :: Race (Netherlands, 17 Aug 1952, Alberto Ascari ASC, Ferrari, 90, 2:53:28.500)
+991 :: Race (Netherlands, 07 Jun 1953, Alberto Ascari ASC, Ferrari, 90, 2:53:35.800)
+992 :: Race (Monaco, 29 May 1960, Stirling Moss MOS, Lotus Climax, 100, 2:53:45.500)
+993 :: Race (Netherlands, 19 Jun 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 100, 2:54:23.800)
+994 :: Race (Monaco, 10 May 1959, Jack Brabham BRA, Cooper Climax, 100, 2:55:51.300)
+995 :: Race (Great Britain, 17 Jul 1954, Jose Froilan Gonzalez GON, Ferrari, 90, 2:56:14.000)
+996 :: Race (France, 02 Jul 1950, Juan Manuel Fangio FAN, Alfa Romeo, 64, 2:57:52.800)
+997 :: Race (Monaco, 22 May 1955, Maurice Trintignant TRI, Ferrari, 100, 2:58:09.700)
+998 :: Race (Pescara, 18 Aug 1957, Stirling Moss MOS, Vanwall, 18, 2:59:22.700)
+999 :: Race (Great Britain, 14 Jul 1956, Juan Manuel Fangio FAN, Ferrari, 101, 2:59:47.000)
+1000 :: Race (France, 06 Jul 1952, Alberto Ascari ASC, Ferrari, 77, 3:00:00.000)
+1001 :: Race (Argentina, 22 Jan 1956, Juan Manuel Fangio FAN, Ferrari, 98, 3:00:03.700)
+1002 :: Race (Monaco, 13 May 1956, Stirling Moss MOS, Maserati, 100, 3:00:32.900)
+1003 :: Race (Switzerland, 22 Aug 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 66, 3:00:34.500)
+1004 :: Race (Argentina, 16 Jan 1955, Juan Manuel Fangio FAN, Mercedes-Benz, 96, 3:00:38.600)
+1005 :: Race (Argentina, 17 Jan 1954, Juan Manuel Fangio FAN, Maserati, 87, 3:00:55.800)
+1006 :: Race (Argentina, 13 Jan 1957, Juan Manuel Fangio FAN, Maserati, 100, 3:00:55.900)
+1007 :: Race (Brazil, 13 Nov 2016, Lewis Hamilton HAM, Mercedes, 71, 3:01:01.335)
+1008 :: Race (Argentina, 18 Jan 1953, Alberto Ascari ASC, Ferrari, 97, 3:01:04.600)
+1009 :: Race (Switzerland, 23 Aug 1953, Alberto Ascari ASC, Ferrari, 65, 3:01:34.400)
+1010 :: Race (Switzerland, 18 May 1952, Piero Taruffi TAR, Ferrari, 62, 3:01:46.100)
+1011 :: Race (Germany, 02 Aug 1953, Nino Farina FAR, Ferrari, 18, 3:02:25.000)
+1012 :: Race (Belgium, 22 Jun 1952, Alberto Ascari ASC, Ferrari, 36, 3:03:46.300)
+1013 :: Race (Germany, 03 Aug 1952, Alberto Ascari ASC, Ferrari, 18, 3:06:13.300)
+1014 :: Race (Great Britain, 20 Jul 1957, Stirling Moss MOS, Vanwall, 90, 3:06:37.800)
+1015 :: Race (Great Britain, 16 Jul 1955, Stirling Moss MOS, Mercedes-Benz, 90, 3:07:21.200)
+1016 :: Race (France, 07 Jul 1957, Juan Manuel Fangio FAN, Maserati, 77, 3:07:46.400)
+1017 :: Race (Monaco, 19 May 1957, Juan Manuel Fangio FAN, Maserati, 105, 3:10:12.800)
+1018 :: Race (Monaco, 21 May 1950, Juan Manuel Fangio FAN, Alfa Romeo, 100, 3:13:18.700)
+1019 :: Race (Spain, 24 Oct 1954, Mike Hawthorn HAW, Ferrari, 80, 3:13:52.100)
+1020 :: Race (France, 01 Jul 1951, Juan Manuel Fangio FAN, Alfa Romeo, 77, 3:22:11.000)
+1021 :: Race (Germany, 29 Jul 1951, Alberto Ascari ASC, Ferrari, 20, 3:23:03.300)
+1022 :: Race (Germany, 04 Aug 1957, Juan Manuel Fangio FAN, Maserati, 22, 3:30:38.300)
+1023 :: Race (Indianapolis 500, 30 May 1960, Jim Rathmann RAT, Watson Offenhauser, 200, 3:36:11.360)
+1024 :: Race (Germany, 05 Aug 1956, Juan Manuel Fangio FAN, Ferrari, 22, 3:38:43.700)
+1025 :: Race (Indianapolis 500, 30 May 1959, Rodger Ward WAR, Watson Offenhauser, 200, 3:40:49.200)
+1026 :: Race (Indianapolis 500, 30 May 1957, Sam Hanks HAN, Epperly Offenhauser, 200, 3:41:14.250)
+1027 :: Race (Indianapolis 500, 30 May 1958, Jimmy Bryan BRY, Epperly Offenhauser, 200, 3:44:13.800)
+1028 :: Race (Germany, 01 Aug 1954, Juan Manuel Fangio FAN, Mercedes-Benz, 22, 3:45:45.800)
+1029 :: Race (Indianapolis 500, 31 May 1954, Bill Vukovich VUK, Kurtis Kraft Offenhauser, 200, 3:49:17.270)
+1030 :: Race (Indianapolis 500, 30 May 1952, Troy Ruttman RUT, Kuzma Offenhauser, 200, 3:52:41.880)
+1031 :: Race (Indianapolis 500, 30 May 1953, Bill Vukovich VUK, Kurtis Kraft Offenhauser, 200, 3:53:01.690)
+1032 :: Race (Indianapolis 500, 30 May 1956, Pat Flaherty FLA, Watson Offenhauser, 200, 3:53:28.840)
+1033 :: Race (Indianapolis 500, 30 May 1955, Bob Sweikert SWE, Kurtis Kraft Offenhauser, 200, 3:53:59.530)
+1034 :: Race (Indianapolis 500, 30 May 1951, Lee Wallard WAL, Kurtis Kraft Offenhauser, 200, 3:57:38.050)
+1035 :: Race (Canada, 12 Jun 2011, Jenson Button BUT, McLaren Mercedes, 70, 4:04:39.537)
+
+
+ALL RACE WINNERS:
+
+Michele Alboreto ALB (5) -> 
+[
+Las Vegas-1982
+, Detroit-1983
+, Belgium-1984
+, Canada-1985
+, Germany-1985
+]
+Alberto Ascari ASC (13) -> 
+[
+Germany-1951
+, Italy-1951
+, Belgium-1952
+, France-1952
+, Great Britain-1952
+, Germany-1952
+, Netherlands-1952
+, Italy-1952
+, Argentina-1953
+, Netherlands-1953
+, Belgium-1953
+, Great Britain-1953
+, Switzerland-1953
+]
+Carlos Pace PAC (1) -> 
+[
+Brazil-1975
+]
+Jean-Pierre Jabouille JAB (2) -> 
+[
+France-1979
+, Austria-1980
+]
+Graham Hill HIL (14) -> 
+[
+Netherlands-1962
+, Germany-1962
+, Italy-1962
+, South Africa-1962
+, Monaco-1963
+, United States-1963
+, Monaco-1964
+, United States-1964
+, Monaco-1965
+, United States-1965
+, Spain-1968
+, Monaco-1968
+, Mexico-1968
+, Monaco-1969
+]
+Jimmy Bryan BRY (1) -> 
+[
+Indianapolis 500-1958
+]
+Piero Taruffi TAR (1) -> 
+[
+Switzerland-1952
+]
+Bill Vukovich VUK (2) -> 
+[
+Indianapolis 500-1953
+, Indianapolis 500-1954
+]
+David Coulthard COU (13) -> 
+[
+Portugal-1995
+, Australia-1997
+, Italy-1997
+, San Marino-1998
+, Great Britain-1999
+, Belgium-1999
+, Great Britain-2000
+, Monaco-2000
+, France-2000
+, Brazil-2001
+, Austria-2001
+, Monaco-2002
+, Australia-2003
+]
+Nino Farina FAR (5) -> 
+[
+Great Britain-1950
+, Switzerland-1950
+, Italy-1950
+, Belgium-1951
+, Germany-1953
+]
+Giancarlo Baghetti BAG (1) -> 
+[
+France-1961
+]
+Alessandro Nannini NAN (1) -> 
+[
+Japan-1989
+]
+Jacky Ickx ICK (8) -> 
+[
+France-1968
+, Germany-1969
+, Canada-1969
+, Austria-1970
+, Canada-1970
+, Mexico-1970
+, Netherlands-1971
+, Germany-1972
+]
+Keke Rosberg ROS (5) -> 
+[
+Switzerland-1982
+, Monaco-1983
+, Dallas-1984
+, Detroit-1985
+, Australia-1985
+]
+Ludovico Scarfiotti SCA (1) -> 
+[
+Italy-1966
+]
+Eddie Irvine IRV (4) -> 
+[
+Australia-1999
+, Austria-1999
+, Germany-1999
+, Malaysia-1999
+]
+Rubens Barrichello BAR (11) -> 
+[
+Germany-2000
+, Europe-2002
+, Hungary-2002
+, Italy-2002
+, United States-2002
+, Great Britain-2003
+, Japan-2003
+, Italy-2004
+, China-2004
+, Europe-2009
+, Italy-2009
+]
+Elio de Angelis DEA (2) -> 
+[
+Austria-1982
+, San Marino-1985
+]
+Innes Ireland IRE (1) -> 
+[
+United States-1961
+]
+Jim Clark CLA (25) -> 
+[
+Belgium-1962
+, Great Britain-1962
+, United States-1962
+, Belgium-1963
+, Netherlands-1963
+, France-1963
+, Great Britain-1963
+, Italy-1963
+, Mexico-1963
+, South Africa-1963
+, Netherlands-1964
+, Belgium-1964
+, Great Britain-1964
+, South Africa-1965
+, Belgium-1965
+, France-1965
+, Great Britain-1965
+, Netherlands-1965
+, Germany-1965
+, United States-1966
+, Netherlands-1967
+, Great Britain-1967
+, United States-1967
+, Mexico-1967
+, South Africa-1968
+]
+Alain Prost PRO (51) -> 
+[
+France-1981
+, Netherlands-1981
+, Italy-1981
+, South Africa-1982
+, Brazil-1982
+, France-1983
+, Belgium-1983
+, Great Britain-1983
+, Austria-1983
+, Brazil-1984
+, San Marino-1984
+, Monaco-1984
+, Germany-1984
+, Netherlands-1984
+, Europe-1984
+, Portugal-1984
+, Brazil-1985
+, Monaco-1985
+, Great Britain-1985
+, Austria-1985
+, Italy-1985
+, San Marino-1986
+, Monaco-1986
+, Austria-1986
+, Australia-1986
+, Brazil-1987
+, Belgium-1987
+, Portugal-1987
+, Brazil-1988
+, Monaco-1988
+, Mexico-1988
+, France-1988
+, Portugal-1988
+, Spain-1988
+, Australia-1988
+, United States-1989
+, France-1989
+, Great Britain-1989
+, Italy-1989
+, Brazil-1990
+, Mexico-1990
+, France-1990
+, Great Britain-1990
+, Spain-1990
+, South Africa-1993
+, San Marino-1993
+, Spain-1993
+, Canada-1993
+, France-1993
+, Great Britain-1993
+, Germany-1993
+]
+Felipe Massa MAS (11) -> 
+[
+Turkey-2006
+, Brazil-2006
+, Bahrain-2007
+, Spain-2007
+, Turkey-2007
+, Bahrain-2008
+, Turkey-2008
+, France-2008
+, Europe-2008
+, Belgium-2008
+, Brazil-2008
+]
+Pat Flaherty FLA (1) -> 
+[
+Indianapolis 500-1956
+]
+Francois Cevert CEV (1) -> 
+[
+United States-1971
+]
+Wolfgang von Trips VON (2) -> 
+[
+Netherlands-1961
+, Great Britain-1961
+]
+Lorenzo Bandini BAN (1) -> 
+[
+Austria-1964
+]
+Juan Manuel Fangio FAN (24) -> 
+[
+Monaco-1950
+, Belgium-1950
+, France-1950
+, Switzerland-1951
+, France-1951
+, Spain-1951
+, Italy-1953
+, Argentina-1954
+, Belgium-1954
+, France-1954
+, Germany-1954
+, Switzerland-1954
+, Italy-1954
+, Argentina-1955
+, Belgium-1955
+, Netherlands-1955
+, Italy-1955
+, Argentina-1956
+, Great Britain-1956
+, Germany-1956
+, Argentina-1957
+, Monaco-1957
+, France-1957
+, Germany-1957
+]
+Bruce McLaren MCL (4) -> 
+[
+United States-1959
+, Argentina-1960
+, Monaco-1962
+, Belgium-1968
+]
+Ayrton Senna SEN (41) -> 
+[
+Portugal-1985
+, Belgium-1985
+, Spain-1986
+, Detroit-1986
+, Monaco-1987
+, Detroit-1987
+, San Marino-1988
+, Canada-1988
+, Detroit-1988
+, Great Britain-1988
+, Germany-1988
+, Hungary-1988
+, Belgium-1988
+, Japan-1988
+, San Marino-1989
+, Monaco-1989
+, Mexico-1989
+, Germany-1989
+, Belgium-1989
+, Spain-1989
+, United States-1990
+, Monaco-1990
+, Canada-1990
+, Germany-1990
+, Belgium-1990
+, Italy-1990
+, United States-1991
+, Brazil-1991
+, San Marino-1991
+, Monaco-1991
+, Hungary-1991
+, Belgium-1991
+, Australia-1991
+, Monaco-1992
+, Hungary-1992
+, Italy-1992
+, Brazil-1993
+, Europe-1993
+, Monaco-1993
+, Japan-1993
+, Australia-1993
+]
+Ralf Schumacher RSC (6) -> 
+[
+San Marino-2001
+, Canada-2001
+, Germany-2001
+, Malaysia-2002
+, Europe-2003
+, France-2003
+]
+Jose Froilan Gonzalez GON (2) -> 
+[
+Great Britain-1951
+, Great Britain-1954
+]
+Jean-Pierre Beltoise BEL (1) -> 
+[
+Monaco-1972
+]
+Damon Hill HIL (22) -> 
+[
+Hungary-1993
+, Belgium-1993
+, Italy-1993
+, Spain-1994
+, Great Britain-1994
+, Belgium-1994
+, Italy-1994
+, Portugal-1994
+, Japan-1994
+, Argentina-1995
+, San Marino-1995
+, Hungary-1995
+, Australia-1995
+, Australia-1996
+, Brazil-1996
+, Argentina-1996
+, San Marino-1996
+, Canada-1996
+, France-1996
+, Germany-1996
+, Japan-1996
+, Belgium-1998
+]
+Peter Collins COL (3) -> 
+[
+Belgium-1956
+, France-1956
+, Great Britain-1958
+]
+Juan Pablo Montoya MOY (7) -> 
+[
+Italy-2001
+, Monaco-2003
+, Germany-2003
+, Brazil-2004
+, Great Britain-2005
+, Italy-2005
+, Brazil-2005
+]
+Lee Wallard WAL (1) -> 
+[
+Indianapolis 500-1951
+]
+Jochen Mass MAS (1) -> 
+[
+Spain-1975
+]
+Heikki Kovalainen KOV (1) -> 
+[
+Hungary-2008
+]
+Patrick Depailler DEP (2) -> 
+[
+Monaco-1978
+, Spain-1979
+]
+Charles Leclerc LEC (2) -> 
+[
+Belgium-2019
+, Italy-2019
+]
+Mario Andretti AND (12) -> 
+[
+South Africa-1971
+, Japan-1976
+, USA West-1977
+, Spain-1977
+, France-1977
+, Italy-1977
+, Argentina-1978
+, Belgium-1978
+, Spain-1978
+, France-1978
+, Germany-1978
+, Netherlands-1978
+]
+Nelson Piquet PIQ (23) -> 
+[
+USA West-1980
+, Netherlands-1980
+, Italy-1980
+, Argentina-1981
+, San Marino-1981
+, Germany-1981
+, Canada-1982
+, Brazil-1983
+, Italy-1983
+, Europe-1983
+, Canada-1984
+, Detroit-1984
+, France-1985
+, Brazil-1986
+, Germany-1986
+, Hungary-1986
+, Italy-1986
+, Germany-1987
+, Hungary-1987
+, Italy-1987
+, Japan-1990
+, Australia-1990
+, Canada-1991
+]
+Gilles Villeneuve VIL (6) -> 
+[
+Canada-1978
+, South Africa-1979
+, USA West-1979
+, USA East-1979
+, Monaco-1981
+, Spain-1981
+]
+Sebastian Vettel VET (53) -> 
+[
+Italy-2008
+, China-2009
+, Great Britain-2009
+, Japan-2009
+, Abu Dhabi-2009
+, Malaysia-2010
+, Europe-2010
+, Japan-2010
+, Brazil-2010
+, Abu Dhabi-2010
+, Australia-2011
+, Malaysia-2011
+, Turkey-2011
+, Spain-2011
+, Monaco-2011
+, Europe-2011
+, Belgium-2011
+, Italy-2011
+, Singapore-2011
+, South Korea-2011
+, India-2011
+, Bahrain-2012
+, Singapore-2012
+, Japan-2012
+, South Korea-2012
+, India-2012
+, Malaysia-2013
+, Bahrain-2013
+, Canada-2013
+, Germany-2013
+, Belgium-2013
+, Italy-2013
+, Singapore-2013
+, South Korea-2013
+, Japan-2013
+, India-2013
+, Abu Dhabi-2013
+, United States-2013
+, Brazil-2013
+, Malaysia-2015
+, Hungary-2015
+, Singapore-2015
+, Australia-2017
+, Bahrain-2017
+, Monaco-2017
+, Hungary-2017
+, Brazil-2017
+, Australia-2018
+, Bahrain-2018
+, Canada-2018
+, Great Britain-2018
+, Belgium-2018
+, Singapore-2019
+]
+Dan Gurney GUR (4) -> 
+[
+France-1962
+, France-1964
+, Mexico-1964
+, Belgium-1967
+]
+Troy Ruttman RUT (1) -> 
+[
+Indianapolis 500-1952
+]
+Jenson Button BUT (15) -> 
+[
+Hungary-2006
+, Australia-2009
+, Malaysia-2009
+, Bahrain-2009
+, Spain-2009
+, Monaco-2009
+, Turkey-2009
+, Australia-2010
+, China-2010
+, Canada-2011
+, Hungary-2011
+, Japan-2011
+, Australia-2012
+, Belgium-2012
+, Brazil-2012
+]
+Luigi Musso MUS (1) -> 
+[
+Argentina-1956
+]
+Patrick Tambay TAM (2) -> 
+[
+Germany-1982
+, San Marino-1983
+]
+Didier Pironi PIR (3) -> 
+[
+Belgium-1980
+, San Marino-1982
+, Netherlands-1982
+]
+Robert Kubica KUB (1) -> 
+[
+Canada-2008
+]
+Gerhard Berger BER (10) -> 
+[
+Mexico-1986
+, Japan-1987
+, Australia-1987
+, Italy-1988
+, Portugal-1989
+, Japan-1991
+, Canada-1992
+, Australia-1992
+, Germany-1994
+, Germany-1997
+]
+Thierry Boutsen BOU (3) -> 
+[
+Canada-1989
+, Australia-1989
+, Hungary-1990
+]
+Luigi Fagioli FAG (1) -> 
+[
+France-1951
+]
+Sam Hanks HAN (1) -> 
+[
+Indianapolis 500-1957
+]
+Niki Lauda LAU (25) -> 
+[
+Spain-1974
+, Netherlands-1974
+, Monaco-1975
+, Belgium-1975
+, Sweden-1975
+, France-1975
+, United States-1975
+, Brazil-1976
+, South Africa-1976
+, Belgium-1976
+, Monaco-1976
+, Great Britain-1976
+, South Africa-1977
+, Germany-1977
+, Netherlands-1977
+, Sweden-1978
+, Italy-1978
+, USA West-1982
+, Great Britain-1982
+, South Africa-1984
+, France-1984
+, Great Britain-1984
+, Austria-1984
+, Italy-1984
+, Netherlands-1985
+]
+Peter Revson REV (2) -> 
+[
+Great Britain-1973
+, Canada-1973
+]
+Jean Alesi ALE (1) -> 
+[
+Canada-1995
+]
+Gunnar Nilsson NIL (1) -> 
+[
+Belgium-1977
+]
+Tony Brooks BRO (6) -> 
+[
+Great Britain-1957
+, Belgium-1958
+, Germany-1958
+, Italy-1958
+, France-1959
+, Germany-1959
+]
+James Hunt HUN (10) -> 
+[
+Netherlands-1975
+, Spain-1976
+, France-1976
+, Germany-1976
+, Netherlands-1976
+, Canada-1976
+, USA East-1976
+, Great Britain-1977
+, USA East-1977
+, Japan-1977
+]
+Pedro Rodriguez ROD (2) -> 
+[
+South Africa-1967
+, Belgium-1970
+]
+Ronnie Peterson PET (10) -> 
+[
+France-1973
+, Austria-1973
+, Italy-1973
+, United States-1973
+, Monaco-1974
+, France-1974
+, Italy-1974
+, Italy-1976
+, South Africa-1978
+, Austria-1978
+]
+Stirling Moss MOS (16) -> 
+[
+Great Britain-1955
+, Monaco-1956
+, Italy-1956
+, Great Britain-1957
+, Pescara-1957
+, Italy-1957
+, Argentina-1958
+, Netherlands-1958
+, Portugal-1958
+, Morocco-1958
+, Portugal-1959
+, Italy-1959
+, Monaco-1960
+, United States-1960
+, Monaco-1961
+, Germany-1961
+]
+Giancarlo Fisichella FIS (3) -> 
+[
+Brazil-2003
+, Australia-2005
+, Malaysia-2006
+]
+John Surtees SUR (6) -> 
+[
+Germany-1963
+, Germany-1964
+, Italy-1964
+, Belgium-1966
+, Mexico-1966
+, Italy-1967
+]
+Pastor Maldonado MAL (1) -> 
+[
+Spain-2012
+]
+Peter Gethin GET (1) -> 
+[
+Italy-1971
+]
+Jim Rathmann RAT (1) -> 
+[
+Indianapolis 500-1960
+]
+Heinz-Harald Frentzen FRE (3) -> 
+[
+San Marino-1997
+, France-1999
+, Italy-1999
+]
+Max Verstappen VER (8) -> 
+[
+Malaysia-2017
+, Mexico-2017
+, Austria-2018
+, Mexico-2018
+, Austria-2019
+, Germany-2019
+, Brazil-2019
+, 70th Anniversary-2020
+]
+Max Verstappen VES (1) -> 
+[
+Spain-2016
+]
+Fernando Alonso ALO (32) -> 
+[
+Hungary-2003
+, Malaysia-2005
+, Bahrain-2005
+, San Marino-2005
+, Europe-2005
+, France-2005
+, Germany-2005
+, China-2005
+, Bahrain-2006
+, Australia-2006
+, Spain-2006
+, Monaco-2006
+, Great Britain-2006
+, Canada-2006
+, Japan-2006
+, Malaysia-2007
+, Monaco-2007
+, Europe-2007
+, Italy-2007
+, Singapore-2008
+, Japan-2008
+, Bahrain-2010
+, Germany-2010
+, Italy-2010
+, Singapore-2010
+, South Korea-2010
+, Great Britain-2011
+, Malaysia-2012
+, Europe-2012
+, Germany-2012
+, China-2013
+, Spain-2013
+]
+Mark Webber WEB (9) -> 
+[
+Germany-2009
+, Brazil-2009
+, Spain-2010
+, Monaco-2010
+, Great Britain-2010
+, Hungary-2010
+, Brazil-2011
+, Monaco-2012
+, Great Britain-2012
+]
+Nigel Mansell MAN (31) -> 
+[
+Europe-1985
+, South Africa-1985
+, Belgium-1986
+, Canada-1986
+, France-1986
+, Great Britain-1986
+, Portugal-1986
+, San Marino-1987
+, France-1987
+, Great Britain-1987
+, Austria-1987
+, Spain-1987
+, Mexico-1987
+, Brazil-1989
+, Hungary-1989
+, Portugal-1990
+, France-1991
+, Great Britain-1991
+, Germany-1991
+, Italy-1991
+, Spain-1991
+, South Africa-1992
+, Mexico-1992
+, Brazil-1992
+, Spain-1992
+, San Marino-1992
+, France-1992
+, Great Britain-1992
+, Germany-1992
+, Portugal-1992
+, Australia-1994
+]
+Johnny Herbert HER (3) -> 
+[
+Great Britain-1995
+, Italy-1995
+, Europe-1999
+]
+Valtteri Bottas BOT (9) -> 
+[
+Russia-2017
+, Austria-2017
+, Abu Dhabi-2017
+, Australia-2019
+, Azerbaijan-2019
+, Japan-2019
+, United States-2019
+, Austria-2020
+, Russia-2020
+]
+Nico Rosberg ROS (23) -> 
+[
+China-2012
+, Monaco-2013
+, Great Britain-2013
+, Australia-2014
+, Monaco-2014
+, Austria-2014
+, Germany-2014
+, Brazil-2014
+, Spain-2015
+, Monaco-2015
+, Austria-2015
+, Mexico-2015
+, Brazil-2015
+, Abu Dhabi-2015
+, Australia-2016
+, Bahrain-2016
+, China-2016
+, Russia-2016
+, Europe-2016
+, Belgium-2016
+, Italy-2016
+, Singapore-2016
+, Japan-2016
+]
+Jarno Trulli TRU (1) -> 
+[
+Monaco-2004
+]
+Jo Bonnier BON (1) -> 
+[
+Netherlands-1959
+]
+Jody Scheckter SCH (10) -> 
+[
+Sweden-1974
+, Great Britain-1974
+, South Africa-1975
+, Sweden-1976
+, Argentina-1977
+, Monaco-1977
+, Canada-1977
+, Belgium-1979
+, Monaco-1979
+, Italy-1979
+]
+Rodger Ward WAR (1) -> 
+[
+Indianapolis 500-1959
+]
+Riccardo Patrese PAT (6) -> 
+[
+Monaco-1982
+, South Africa-1983
+, San Marino-1990
+, Mexico-1991
+, Portugal-1991
+, Japan-1992
+]
+Johnnie Parsons PAR (1) -> 
+[
+Indianapolis 500-1950
+]
+Jochen Rindt RIN (6) -> 
+[
+United States-1969
+, Monaco-1970
+, Netherlands-1970
+, France-1970
+, Great Britain-1970
+, Germany-1970
+]
+Michael Schumacher MSC (91) -> 
+[
+Belgium-1992
+, Portugal-1993
+, Brazil-1994
+, Pacific-1994
+, San Marino-1994
+, Monaco-1994
+, Canada-1994
+, France-1994
+, Hungary-1994
+, Europe-1994
+, Brazil-1995
+, Spain-1995
+, Monaco-1995
+, France-1995
+, Germany-1995
+, Belgium-1995
+, Europe-1995
+, Pacific-1995
+, Japan-1995
+, Spain-1996
+, Belgium-1996
+, Italy-1996
+, Monaco-1997
+, Canada-1997
+, France-1997
+, Belgium-1997
+, Japan-1997
+, Argentina-1998
+, Canada-1998
+, France-1998
+, Great Britain-1998
+, Hungary-1998
+, Italy-1998
+, San Marino-1999
+, Monaco-1999
+, Australia-2000
+, Brazil-2000
+, San Marino-2000
+, Europe-2000
+, Canada-2000
+, Italy-2000
+, United States-2000
+, Japan-2000
+, Malaysia-2000
+, Australia-2001
+, Malaysia-2001
+, Spain-2001
+, Monaco-2001
+, Europe-2001
+, France-2001
+, Hungary-2001
+, Belgium-2001
+, Japan-2001
+, Australia-2002
+, Brazil-2002
+, San Marino-2002
+, Spain-2002
+, Austria-2002
+, Canada-2002
+, Great Britain-2002
+, France-2002
+, Germany-2002
+, Belgium-2002
+, Japan-2002
+, San Marino-2003
+, Spain-2003
+, Austria-2003
+, Canada-2003
+, Italy-2003
+, United States-2003
+, Australia-2004
+, Malaysia-2004
+, Bahrain-2004
+, San Marino-2004
+, Spain-2004
+, Europe-2004
+, Canada-2004
+, United States-2004
+, France-2004
+, Great Britain-2004
+, Germany-2004
+, Hungary-2004
+, Japan-2004
+, United States-2005
+, San Marino-2006
+, Europe-2006
+, United States-2006
+, France-2006
+, Germany-2006
+, Italy-2006
+, China-2006
+]
+Mika Hakkinen HAK (20) -> 
+[
+Europe-1997
+, Australia-1998
+, Brazil-1998
+, Spain-1998
+, Monaco-1998
+, Austria-1998
+, Germany-1998
+, Luxembourg-1998
+, Japan-1998
+, Brazil-1999
+, Spain-1999
+, Canada-1999
+, Hungary-1999
+, Japan-1999
+, Spain-2000
+, Austria-2000
+, Hungary-2000
+, Belgium-2000
+, Great Britain-2001
+, United States-2001
+]
+Vittorio Brambilla BRA (1) -> 
+[
+Austria-1975
+]
+Richie Ginther GIN (1) -> 
+[
+Mexico-1965
+]
+Denny Hulme HUL (8) -> 
+[
+Monaco-1967
+, Germany-1967
+, Italy-1968
+, Canada-1968
+, Mexico-1969
+, South Africa-1972
+, Sweden-1973
+, Argentina-1974
+]
+Bob Sweikert SWE (1) -> 
+[
+Indianapolis 500-1955
+]
+Alan Jones JON (12) -> 
+[
+Austria-1977
+, Germany-1979
+, Austria-1979
+, Netherlands-1979
+, Canada-1979
+, Argentina-1980
+, France-1980
+, Great Britain-1980
+, Canada-1980
+, USA East-1980
+, USA West-1981
+, Las Vegas-1981
+]
+Pierre Gasly GAS (1) -> 
+[
+Italy-2020
+]
+Lewis Hamilton HAM (94) -> 
+[
+Canada-2007
+, United States-2007
+, Hungary-2007
+, Japan-2007
+, Australia-2008
+, Monaco-2008
+, Great Britain-2008
+, Germany-2008
+, China-2008
+, Hungary-2009
+, Singapore-2009
+, Turkey-2010
+, Canada-2010
+, Belgium-2010
+, China-2011
+, Germany-2011
+, Abu Dhabi-2011
+, Canada-2012
+, Hungary-2012
+, Italy-2012
+, United States-2012
+, Hungary-2013
+, Malaysia-2014
+, Bahrain-2014
+, China-2014
+, Spain-2014
+, Great Britain-2014
+, Italy-2014
+, Singapore-2014
+, Japan-2014
+, Russia-2014
+, United States-2014
+, Abu Dhabi-2014
+, Australia-2015
+, China-2015
+, Bahrain-2015
+, Canada-2015
+, Great Britain-2015
+, Belgium-2015
+, Italy-2015
+, Japan-2015
+, Russia-2015
+, United States-2015
+, Monaco-2016
+, Canada-2016
+, Austria-2016
+, Great Britain-2016
+, Hungary-2016
+, Germany-2016
+, United States-2016
+, Mexico-2016
+, Brazil-2016
+, Abu Dhabi-2016
+, China-2017
+, Spain-2017
+, Canada-2017
+, Great Britain-2017
+, Belgium-2017
+, Italy-2017
+, Singapore-2017
+, Japan-2017
+, United States-2017
+, Azerbaijan-2018
+, Spain-2018
+, France-2018
+, Germany-2018
+, Hungary-2018
+, Italy-2018
+, Singapore-2018
+, Russia-2018
+, Japan-2018
+, Brazil-2018
+, Abu Dhabi-2018
+, Bahrain-2019
+, China-2019
+, Spain-2019
+, Monaco-2019
+, Canada-2019
+, France-2019
+, Great Britain-2019
+, Hungary-2019
+, Russia-2019
+, Mexico-2019
+, Abu Dhabi-2019
+, Styria-2020
+, Hungary-2020
+, Great Britain-2020
+, Spain-2020
+, Belgium-2020
+, Tuscany-2020
+, Eifel-2020
+, Portugal-2020
+, Emilia Romagna-2020
+, Turkey-2020
+]
+John Watson WAT (5) -> 
+[
+Austria-1976
+, Great Britain-1981
+, Belgium-1982
+, Detroit-1982
+, USA West-1983
+]
+Mike Hawthorn HAW (3) -> 
+[
+France-1953
+, Spain-1954
+, France-1958
+]
+Daniel Ricciardo RIC (7) -> 
+[
+Canada-2014
+, Hungary-2014
+, Belgium-2014
+, Malaysia-2016
+, Azerbaijan-2017
+, China-2018
+, Monaco-2018
+]
+Jack Brabham BRA (14) -> 
+[
+Monaco-1959
+, Great Britain-1959
+, Netherlands-1960
+, Belgium-1960
+, France-1960
+, Great Britain-1960
+, Portugal-1960
+, France-1966
+, Great Britain-1966
+, Netherlands-1966
+, Germany-1966
+, France-1967
+, Canada-1967
+, South Africa-1970
+]
+Kimi Räikkönen RAI (21) -> 
+[
+Malaysia-2003
+, Belgium-2004
+, Spain-2005
+, Monaco-2005
+, Canada-2005
+, Hungary-2005
+, Turkey-2005
+, Belgium-2005
+, Japan-2005
+, Australia-2007
+, France-2007
+, Great Britain-2007
+, Belgium-2007
+, China-2007
+, Brazil-2007
+, Malaysia-2008
+, Spain-2008
+, Belgium-2009
+, Abu Dhabi-2012
+, Australia-2013
+, United States-2018
+]
+Olivier Panis PAN (1) -> 
+[
+Monaco-1996
+]
+Maurice Trintignant TRI (2) -> 
+[
+Monaco-1955
+, Monaco-1958
+]
+Clay Regazzoni REG (5) -> 
+[
+Italy-1970
+, Germany-1974
+, Italy-1975
+, USA West-1976
+, Great Britain-1979
+]
+Rene Arnoux ARN (7) -> 
+[
+Brazil-1980
+, South Africa-1980
+, France-1982
+, Italy-1982
+, Canada-1983
+, Germany-1983
+, Netherlands-1983
+]
+Phil Hill HIL (3) -> 
+[
+Italy-1960
+, Belgium-1961
+, Italy-1961
+]
+Jacques Laffite LAF (6) -> 
+[
+Sweden-1977
+, Argentina-1979
+, Brazil-1979
+, Germany-1980
+, Austria-1981
+, Canada-1981
+]
+Jacques Villeneuve VIL (11) -> 
+[
+Europe-1996
+, Great Britain-1996
+, Hungary-1996
+, Portugal-1996
+, Brazil-1997
+, Argentina-1997
+, Spain-1997
+, Great Britain-1997
+, Hungary-1997
+, Austria-1997
+, Luxembourg-1997
+]
+Jo Siffert SIF (2) -> 
+[
+Great Britain-1968
+, Austria-1971
+]
+Jackie Stewart STE (27) -> 
+[
+Italy-1965
+, Monaco-1966
+, Netherlands-1968
+, Germany-1968
+, United States-1968
+, South Africa-1969
+, Spain-1969
+, Netherlands-1969
+, France-1969
+, Great Britain-1969
+, Italy-1969
+, Spain-1970
+, Spain-1971
+, Monaco-1971
+, France-1971
+, Great Britain-1971
+, Germany-1971
+, Canada-1971
+, Argentina-1972
+, France-1972
+, Canada-1972
+, United States-1972
+, South Africa-1973
+, Belgium-1973
+, Monaco-1973
+, Netherlands-1973
+, Germany-1973
+]
+Carlos Reutemann REU (12) -> 
+[
+South Africa-1974
+, Austria-1974
+, United States-1974
+, Germany-1975
+, Brazil-1977
+, Brazil-1978
+, USA West-1978
+, Great Britain-1978
+, USA East-1978
+, Monaco-1980
+, Brazil-1981
+, Belgium-1981
+]
+Emerson Fittipaldi FIT (14) -> 
+[
+United States-1970
+, Spain-1972
+, Belgium-1972
+, Great Britain-1972
+, Austria-1972
+, Italy-1972
+, Argentina-1973
+, Brazil-1973
+, Spain-1973
+, Brazil-1974
+, Belgium-1974
+, Canada-1974
+, Argentina-1975
+, Great Britain-1975
+]
